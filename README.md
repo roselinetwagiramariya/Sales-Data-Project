@@ -1,4 +1,4 @@
-# CodeYou-Capstone-2024
+# Sub-Saharan Africa E-commerce Sales Analysis Dashboard
 
 **Project Overview**
 E-commerce is the it-girl right now and it looks like she’s here to stay. 
@@ -14,18 +14,18 @@ Establishing an understanding of what e-commerce looks like globally (by region 
 Zooms in to analyze what this looks like specifically in Sub-Saharan African countries 
 Highlights and compares trends against the global picture
 
-**Detailed Project Report**
+**Detailed Project Report** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**Primary Files/Data Sources** 
-My Data SourcesMy dataset, included in this repo as "Original_Sales_Data_.csv", comes from Kaggle and can be found at this direct link: https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data. 
+**Primary Files/Data Sources** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+- My Data SourcesMy dataset, included in this repo as "Original_Sales_Data_.csv", comes from Kaggle and can be found at this direct link: https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data. 
 
-**My tools: What I used**
+**My tools: What I used** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**Running the Program: What I did**
+**Running the Program: What I did** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**Project Requirements**
+**Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**Features**
+**Features** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
 
 
