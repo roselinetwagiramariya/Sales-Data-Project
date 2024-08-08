@@ -1,0 +1,1286 @@
+Unnamed: 0,Region,Country,Item_Type,Sales_Channel,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_SellingPrice,Unit_MakingCost
+9,Sub-Saharan Africa,Ethiopia,Baby Food,Online,2015-04-13 00:00:00,192993152,2015-05-07 00:00:00,9817,255.28,159.42
+28,Sub-Saharan Africa,Guinea,Baby Food,Online,2012-12-27 00:00:00,975111138,0,5910,255.28,159.42
+33,Sub-Saharan Africa,Malawi,Meat,Online,2012-02-17 00:00:00,694968783,2012-04-02 00:00:00,5562,421.89,364.69
+38,Sub-Saharan Africa,Benin,Personal Care,Online,0,440603101,0,3104,81.73,56.67
+45,Sub-Saharan Africa,Angola,Office Supplies,Offline,0,778854548,2015-10-03 00:00:00,9224,651.21,524.96
+46,Sub-Saharan Africa,Mauritania,Cosmetics,Offline,2014-05-30 00:00:00,676592862,2014-07-09 00:00:00,7718,437.2,263.33
+57,Sub-Saharan Africa,Central African Republic,Personal Care,Offline,2014-12-16 00:00:00,863838946,2015-01-05 00:00:00,7995,81.73,56.67
+66,Sub-Saharan Africa,Nigeria,Snacks,Online,0,362062871,0,1304,152.58,97.44
+67,Sub-Saharan Africa,South Africa,Beverages,Online,2016-07-28 00:00:00,619287574,2016-08-02 00:00:00,9810,47.45,31.79
+69,Sub-Saharan Africa,Sudan,Beverages,Online,2013-04-16 00:00:00,584296977,0,5315,47.45,31.79
+78,Sub-Saharan Africa,Equatorial Guinea,Household,Online,2010-06-16 00:00:00,806684720,0,4790,668.27,502.54
+82,Sub-Saharan Africa,Mauritius ,Cereal,Online,2012-12-26 00:00:00,869198644,2013-01-05 00:00:00,4049,205.7,117.11
+83,Sub-Saharan Africa,Eritrea,Household,Online,0,918342292,0,6747,668.27,502.54
+91,Sub-Saharan Africa,Namibia,Office Supplies,Online,0,234227073,2012-10-12 00:00:00,1851,651.21,524.96
+96,Sub-Saharan Africa,Senegal,Beverages,Offline,2014-06-30 00:00:00,530853211,2014-08-02 00:00:00,117,47.45,31.79
+99,Sub-Saharan Africa,Burundi,Meat,Online,2010-05-22 00:00:00,194350135,2010-06-05 00:00:00,1379,421.89,364.69
+103,Sub-Saharan Africa,Zambia,Cereal,Offline,2013-05-19 00:00:00,373813521,0,8583,205.7,117.11
+112,Sub-Saharan Africa,Eritrea,Office Supplies,Offline,2015-04-26 00:00:00,497901093,2015-06-11 00:00:00,8853,651.21,524.96
+115,Sub-Saharan Africa,Cameroon,Household,Offline,2015-05-22 00:00:00,247311103,2015-07-11 00:00:00,3706,668.27,502.54
+120,Sub-Saharan Africa,Gabon,Office Supplies,Offline,2010-07-14 00:00:00,983719956,2010-08-01 00:00:00,3450,651.21,524.96
+121,Sub-Saharan Africa,Djibouti,Baby Food,Offline,2013-01-17 00:00:00,785643756,0,8301,255.28,159.42
+122,Sub-Saharan Africa,Namibia,Office Supplies,Online,2016-01-15 00:00:00,206520497,2016-03-05 00:00:00,2859,651.21,524.96
+125,Sub-Saharan Africa,Ethiopia,Personal Care,Online,2016-05-27 00:00:00,272419154,0,3736,81.73,56.67
+126,Sub-Saharan Africa,Burundi,Meat,Offline,2015-02-27 00:00:00,360220944,0,6237,421.89,364.69
+128,Sub-Saharan Africa,Mauritius ,Meat,Offline,2012-05-19 00:00:00,904402101,0,1534,421.89,364.69
+129,Sub-Saharan Africa,Uganda,Vegetables,Online,2010-02-13 00:00:00,721816623,0,434,154.06,90.93
+131,Sub-Saharan Africa,The Gambia,Beverages,Online,0,177225196,2015-09-12 00:00:00,3729,47.45,31.79
+142,Sub-Saharan Africa,Sudan,Office Supplies,Online,2010-06-23 00:00:00,940305936,0,6277,651.21,524.96
+143,Sub-Saharan Africa,Mali,Baby Food,Online,2011-12-28 00:00:00,507973754,2012-01-12 00:00:00,9577,255.28,159.42
+147,Sub-Saharan Africa,Tanzania,Office Supplies,Offline,0,884092414,0,1447,651.21,524.96
+148,Sub-Saharan Africa,Swaziland,Household,Offline,2012-07-17 00:00:00,385196816,2012-09-03 00:00:00,7153,668.27,502.54
+151,Sub-Saharan Africa,Seychelles ,Fruits,Offline,2012-02-28 00:00:00,915020644,0,3797,9.33,6.92
+152,Sub-Saharan Africa,Madagascar,Cosmetics,Offline,2016-01-31 00:00:00,425628221,0,1704,437.2,263.33
+154,Sub-Saharan Africa,Mauritius ,Cereal,Online,2016-02-25 00:00:00,686417043,0,4912,205.7,117.11
+165,Sub-Saharan Africa,South Sudan,Office Supplies,Online,0,750012004,0,4074,651.21,524.96
+169,Sub-Saharan Africa,Namibia,Cereal,Online,0,447505176,0,5581,205.7,117.11
+175,Sub-Saharan Africa,South Africa,Office Supplies,Offline,2011-04-18 00:00:00,826591002,0,5501,651.21,524.96
+185,Sub-Saharan Africa,Mozambique,Household,Offline,0,538698565,2011-09-07 00:00:00,1731,668.27,502.54
+188,Sub-Saharan Africa,Equatorial Guinea,Vegetables,Offline,2016-07-20 00:00:00,506722772,2016-08-08 00:00:00,9383,154.06,90.93
+189,Sub-Saharan Africa,Uganda,Office Supplies,Offline,0,802427089,0,4862,651.21,524.96
+195,Sub-Saharan Africa,Chad,Cereal,Offline,0,466412818,2015-05-12 00:00:00,772,205.7,117.11
+198,Sub-Saharan Africa,Eritrea,Cosmetics,Online,2014-11-26 00:00:00,946921765,0,4048,437.2,263.33
+199,Sub-Saharan Africa,Zambia,Household,Offline,0,798805892,0,3270,668.27,502.54
+200,Sub-Saharan Africa,Liberia,Household,Offline,2011-05-17 00:00:00,184389054,0,3674,668.27,502.54
+205,Sub-Saharan Africa,Equatorial Guinea,Meat,Offline,2014-12-15 00:00:00,514811885,0,3132,421.89,364.69
+221,Sub-Saharan Africa,Sudan,Meat,Online,0,329149806,2016-12-08 00:00:00,1597,421.89,364.69
+223,Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,Online,2014-09-24 00:00:00,606665313,0,4602,437.2,263.33
+232,Sub-Saharan Africa,Eritrea,Fruits,Offline,2017-03-21 00:00:00,420828568,0,1380,9.33,6.92
+233,Sub-Saharan Africa,Democratic Republic of the Congo,Cereal,Online,2013-03-17 00:00:00,523997485,0,1355,205.7,117.11
+235,Sub-Saharan Africa,Republic of the Congo,Snacks,Online,2013-09-16 00:00:00,209899222,0,2699,152.58,97.44
+236,Sub-Saharan Africa,Comoros,Clothes,Offline,2014-05-30 00:00:00,250542199,2014-07-01 00:00:00,9859,109.28,35.84
+238,Sub-Saharan Africa,Rwanda,Vegetables,Online,0,824331510,0,6867,154.06,90.93
+239,Sub-Saharan Africa,Malawi,Meat,Online,2014-01-15 00:00:00,887263000,0,9693,421.89,364.69
+240,Sub-Saharan Africa,Cote d'Ivoire,Cereal,Offline,2015-05-22 00:00:00,754596650,0,772,205.7,117.11
+242,Sub-Saharan Africa,Uganda,Clothes,Offline,0,185478246,0,5989,109.28,35.84
+258,Sub-Saharan Africa,Eritrea,Personal Care,Offline,2012-05-14 00:00:00,801598393,2012-06-02 00:00:00,9633,81.73,56.67
+259,Sub-Saharan Africa,Republic of the Congo,Meat,Offline,2015-04-28 00:00:00,586850440,2015-06-08 00:00:00,941,421.89,364.69
+271,Sub-Saharan Africa,Benin,Fruits,Online,2017-06-27 00:00:00,629317748,0,7961,9.33,6.92
+276,Sub-Saharan Africa,Mauritius ,Cosmetics,Online,0,902048623,0,5088,437.2,263.33
+283,Sub-Saharan Africa,South Africa,Personal Care,Online,2010-02-21 00:00:00,686946189,2010-03-08 00:00:00,1498,81.73,56.67
+284,Sub-Saharan Africa,Zambia,Snacks,Offline,2012-07-14 00:00:00,799439752,0,843,152.58,97.44
+289,Sub-Saharan Africa,Republic of the Congo,Personal Care,Offline,0,522813022,2014-04-08 00:00:00,846,81.73,56.67
+290,Sub-Saharan Africa,Equatorial Guinea,Fruits,Offline,2014-11-17 00:00:00,427198064,2015-01-02 00:00:00,6255,9.33,6.92
+292,Sub-Saharan Africa,Botswana,Meat,Offline,0,244194161,2012-01-07 00:00:00,1334,421.89,364.69
+297,Sub-Saharan Africa,Botswana,Fruits,Online,2016-05-21 00:00:00,431739795,0,254,9.33,6.92
+303,Sub-Saharan Africa,Madagascar,Snacks,Online,0,779184997,0,7011,152.58,97.44
+306,Sub-Saharan Africa,Togo,Baby Food,Offline,2017-02-14 00:00:00,336677587,0,9234,255.28,159.42
+319,Sub-Saharan Africa,Comoros,Household,Offline,2011-12-28 00:00:00,894548308,2012-02-02 00:00:00,5578,668.27,502.54
+320,Sub-Saharan Africa,Cameroon,Cosmetics,Offline,0,459757936,2017-06-10 00:00:00,1445,437.2,263.33
+323,Sub-Saharan Africa,Liberia,Cereal,Offline,0,538538062,2015-12-03 00:00:00,4235,205.7,117.11
+330,Sub-Saharan Africa,Rwanda,Snacks,Offline,2016-01-19 00:00:00,434246480,2016-02-11 00:00:00,2038,152.58,97.44
+333,Sub-Saharan Africa,Kenya,Vegetables,Online,2011-11-27 00:00:00,984202754,2011-12-08 00:00:00,6321,154.06,90.93
+334,Sub-Saharan Africa,Central African Republic,Beverages,Offline,2013-05-16 00:00:00,328669583,2013-06-02 00:00:00,9488,47.45,31.79
+339,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,0,668842780,0,4297,47.45,31.79
+342,Sub-Saharan Africa,Madagascar,Vegetables,Offline,2015-09-19 00:00:00,748350751,0,2472,154.06,90.93
+345,Sub-Saharan Africa,Comoros,Cosmetics,Offline,0,308054339,0,8980,437.2,263.33
+346,Sub-Saharan Africa,Senegal,Fruits,Offline,2011-09-29 00:00:00,879858815,0,8631,9.33,6.92
+348,Sub-Saharan Africa,Sao Tome and Principe,Baby Food,Online,0,783646905,2015-08-10 00:00:00,7388,255.28,159.42
+355,Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Online,2010-08-13 00:00:00,676100623,0,2054,255.28,159.42
+361,Sub-Saharan Africa,Cameroon,Household,Online,2012-06-18 00:00:00,170732104,2012-08-07 00:00:00,2279,668.27,502.54
+367,Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,2013-05-21 00:00:00,502356994,0,7453,154.06,90.93
+369,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,2014-12-19 00:00:00,871553409,2015-01-05 00:00:00,876,81.73,56.67
+371,Sub-Saharan Africa,Liberia,Vegetables,Online,0,560311591,2016-02-05 00:00:00,7506,154.06,90.93
+381,Sub-Saharan Africa,Ghana,Baby Food,Offline,2017-05-26 00:00:00,479950892,0,6989,255.28,159.42
+382,Sub-Saharan Africa,Niger,Vegetables,Online,0,275955808,0,311,154.06,90.93
+395,Sub-Saharan Africa,Tanzania,Fruits,Offline,0,493415153,2016-06-09 00:00:00,1363,9.33,6.92
+399,Sub-Saharan Africa,Guinea-Bissau,Fruits,Online,2017-04-21 00:00:00,975661742,2017-06-03 00:00:00,8846,9.33,6.92
+405,Sub-Saharan Africa,Central African Republic,Household,Online,2015-05-25 00:00:00,121916759,2015-07-05 00:00:00,6733,668.27,502.54
+408,Sub-Saharan Africa,Botswana,Cosmetics,Online,2011-09-22 00:00:00,742144334,0,5855,437.2,263.33
+411,Sub-Saharan Africa,South Sudan,Fruits,Online,2015-10-26 00:00:00,745008933,2015-11-03 00:00:00,3554,9.33,6.92
+412,Sub-Saharan Africa,Senegal,Vegetables,Online,0,599104058,0,7059,154.06,90.93
+425,Sub-Saharan Africa,Guinea,Fruits,Online,0,640974414,0,7428,9.33,6.92
+428,Sub-Saharan Africa,Niger,Cereal,Online,2016-01-30 00:00:00,976601159,2016-03-11 00:00:00,6840,205.7,117.11
+432,Sub-Saharan Africa,Botswana,Baby Food,Offline,0,324014985,2015-04-10 00:00:00,2089,255.28,159.42
+435,Sub-Saharan Africa,Cote d'Ivoire,Meat,Offline,2013-08-29 00:00:00,666686713,2013-09-10 00:00:00,6269,421.89,364.69
+437,Sub-Saharan Africa,Democratic Republic of the Congo,Beverages,Online,2010-06-18 00:00:00,151373851,2010-07-12 00:00:00,3741,47.45,31.79
+438,Sub-Saharan Africa,Sierra Leone,Personal Care,Offline,2016-12-16 00:00:00,966360700,0,6461,81.73,56.67
+441,Sub-Saharan Africa,Namibia,Baby Food,Online,0,563417804,2010-09-03 00:00:00,6703,255.28,159.42
+454,Sub-Saharan Africa,Botswana,Vegetables,Offline,2013-10-19 00:00:00,103281629,2013-11-05 00:00:00,2184,154.06,90.93
+456,Sub-Saharan Africa,Sao Tome and Principe,Fruits,Offline,0,894655168,0,7200,9.33,6.92
+457,Sub-Saharan Africa,Comoros,Fruits,Online,2013-02-23 00:00:00,137814319,0,1174,9.33,6.92
+460,Sub-Saharan Africa,Sierra Leone,Beverages,Online,2010-06-18 00:00:00,799954736,0,3238,47.45,31.79
+464,Sub-Saharan Africa,Botswana,Household,Offline,2014-05-20 00:00:00,254595124,0,9210,668.27,502.54
+465,Sub-Saharan Africa,Chad,Baby Food,Online,2014-10-16 00:00:00,244494998,0,358,255.28,159.42
+466,Sub-Saharan Africa,Lesotho,Cereal,Online,2012-10-22 00:00:00,876394689,2012-11-09 00:00:00,3519,205.7,117.11
+468,Sub-Saharan Africa,Burundi,Clothes,Online,0,411701333,0,428,109.28,35.84
+474,Sub-Saharan Africa,Seychelles ,Beverages,Offline,2016-03-21 00:00:00,465069997,0,3402,47.45,31.79
+482,Sub-Saharan Africa,Malawi,Office Supplies,Online,0,894858586,0,7396,651.21,524.96
+484,Sub-Saharan Africa,Niger,Baby Food,Offline,0,527284371,0,4018,255.28,159.42
+489,Sub-Saharan Africa,Zambia,Baby Food,Online,0,942466723,2013-09-04 00:00:00,5702,255.28,159.42
+490,Sub-Saharan Africa,Sao Tome and Principe,Fruits,Offline,2010-04-15 00:00:00,590760457,0,8002,9.33,6.92
+491,Sub-Saharan Africa,Liberia,Office Supplies,Offline,2010-05-21 00:00:00,157274711,0,9937,651.21,524.96
+492,Sub-Saharan Africa,Benin,Beverages,Offline,2012-07-14 00:00:00,581120812,0,5417,47.45,31.79
+493,Sub-Saharan Africa,Mali,Fruits,Offline,2012-08-23 00:00:00,171722590,0,5385,9.33,6.92
+499,Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,2011-09-15 00:00:00,604311835,2011-11-04 00:00:00,8156,152.58,97.44
+500,Sub-Saharan Africa,Botswana,Office Supplies,Online,2010-03-26 00:00:00,632320535,0,6553,651.21,524.96
+502,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,0,600763165,2015-12-08 00:00:00,8026,81.73,56.67
+504,Sub-Saharan Africa,The Gambia,Meat,Offline,0,502244126,0,4053,421.89,364.69
+511,Sub-Saharan Africa,Senegal,Cosmetics,Online,2013-06-28 00:00:00,781251800,2013-08-02 00:00:00,8623,437.2,263.33
+520,Sub-Saharan Africa,Guinea-Bissau,Vegetables,Online,2014-07-25 00:00:00,650346696,2014-09-03 00:00:00,894,154.06,90.93
+525,Sub-Saharan Africa,Mali,Office Supplies,Offline,2010-11-16 00:00:00,872664058,0,9542,651.21,524.96
+534,Sub-Saharan Africa,Mozambique,Meat,Online,0,804683148,0,2480,421.89,364.69
+542,Sub-Saharan Africa,Mali,Personal Care,Online,2010-11-28 00:00:00,539696347,2011-01-11 00:00:00,6997,81.73,56.67
+547,Sub-Saharan Africa,Zimbabwe,Household,Offline,0,165538489,2015-10-08 00:00:00,5372,668.27,502.54
+549,Sub-Saharan Africa,Guinea,Cosmetics,Online,2014-06-24 00:00:00,315997111,0,9422,437.2,263.33
+555,Sub-Saharan Africa,Republic of the Congo,Personal Care,Online,2010-09-26 00:00:00,172243583,0,9559,81.73,56.67
+563,Sub-Saharan Africa,Kenya,Vegetables,Online,2010-03-23 00:00:00,373186957,2010-04-07 00:00:00,3169,154.06,90.93
+566,Sub-Saharan Africa,Botswana,Household,Offline,2015-03-23 00:00:00,966415631,2015-05-07 00:00:00,2716,668.27,502.54
+569,Sub-Saharan Africa,Comoros,Vegetables,Online,0,913277423,0,7939,154.06,90.93
+572,Sub-Saharan Africa,Ghana,Office Supplies,Offline,2014-06-13 00:00:00,299465692,0,7408,651.21,524.96
+576,Sub-Saharan Africa,Republic of the Congo,Household,Online,2010-05-17 00:00:00,804399049,0,8409,668.27,502.54
+579,Sub-Saharan Africa,Comoros,Cosmetics,Online,2015-02-18 00:00:00,457788550,2015-04-04 00:00:00,8660,437.2,263.33
+583,Sub-Saharan Africa,Mauritania,Office Supplies,Online,2015-12-25 00:00:00,501900374,0,2329,651.21,524.96
+584,Sub-Saharan Africa,The Gambia,Household,Online,0,237288224,2013-09-09 00:00:00,7713,668.27,502.54
+591,Sub-Saharan Africa,Uganda,Clothes,Offline,2016-10-17 00:00:00,679552733,2016-11-08 00:00:00,3610,109.28,35.84
+595,Sub-Saharan Africa,Chad,Fruits,Offline,0,419343268,0,1847,9.33,6.92
+597,Sub-Saharan Africa,Mauritius ,Cereal,Online,2014-01-27 00:00:00,115846812,0,501,205.7,117.11
+599,Sub-Saharan Africa,Swaziland,Household,Offline,0,263943374,0,5565,668.27,502.54
+600,Sub-Saharan Africa,Djibouti,Office Supplies,Offline,2015-04-26 00:00:00,782656419,0,4282,651.21,524.96
+603,Sub-Saharan Africa,Senegal,Fruits,Online,2012-09-24 00:00:00,466478049,0,76,9.33,6.92
+610,Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,0,662882268,0,449,437.2,263.33
+611,Sub-Saharan Africa,Guinea,Meat,Offline,0,257851111,0,2729,421.89,364.69
+612,Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,2016-08-18 00:00:00,172261178,0,4765,255.28,159.42
+616,Sub-Saharan Africa,Togo,Clothes,Online,2013-04-14 00:00:00,867477738,0,4795,109.28,35.84
+619,Sub-Saharan Africa,Central African Republic,Beverages,Online,2011-07-25 00:00:00,918462455,0,2305,47.45,31.79
+623,Sub-Saharan Africa,Cameroon,Fruits,Offline,0,407544982,2010-03-12 00:00:00,472,9.33,6.92
+626,Sub-Saharan Africa,Mali,Meat,Online,2011-06-15 00:00:00,361424291,2011-07-05 00:00:00,2334,421.89,364.69
+627,Sub-Saharan Africa,Togo,Baby Food,Online,2016-10-14 00:00:00,873312079,0,1306,255.28,159.42
+630,Sub-Saharan Africa,Botswana,Baby Food,Online,2015-01-24 00:00:00,263318097,2015-03-04 00:00:00,531,255.28,159.42
+631,Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Online,0,768888747,0,122,651.21,524.96
+637,Sub-Saharan Africa,Lesotho,Office Supplies,Offline,2010-10-28 00:00:00,687482631,0,243,651.21,524.96
+645,Sub-Saharan Africa,Republic of the Congo,Meat,Online,0,833274638,0,3337,421.89,364.69
+646,Sub-Saharan Africa,Guinea-Bissau,Household,Offline,0,173676526,2012-05-10 00:00:00,3598,668.27,502.54
+648,Sub-Saharan Africa,Mali,Cosmetics,Offline,0,555479753,2013-02-12 00:00:00,7658,437.2,263.33
+649,Sub-Saharan Africa,Zimbabwe,Beverages,Offline,0,282916247,0,59,47.45,31.79
+655,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,2015-01-17 00:00:00,543349730,2015-02-07 00:00:00,8115,81.73,56.67
+656,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,2011-08-24 00:00:00,752138459,0,3339,255.28,159.42
+657,Sub-Saharan Africa,Mali,Vegetables,Online,0,101315677,0,415,154.06,90.93
+662,Sub-Saharan Africa,Mauritius ,Cosmetics,Online,2011-05-18 00:00:00,298488080,2011-07-03 00:00:00,8111,437.2,263.33
+663,Sub-Saharan Africa,Senegal,Beverages,Online,0,781646621,2015-09-12 00:00:00,5460,47.45,31.79
+666,Sub-Saharan Africa,Nigeria,Beverages,Offline,0,827261769,0,3996,47.45,31.79
+675,Sub-Saharan Africa,Cameroon,Household,Online,2013-12-22 00:00:00,181413733,0,3210,668.27,502.54
+678,Sub-Saharan Africa,Mali,Office Supplies,Online,0,637752759,0,4069,651.21,524.96
+679,Sub-Saharan Africa,Ghana,Clothes,Online,2014-05-24 00:00:00,378455245,2014-06-08 00:00:00,2172,109.28,35.84
+681,Sub-Saharan Africa,Comoros,Meat,Offline,0,834443652,0,9275,421.89,364.69
+683,Sub-Saharan Africa,Gabon,Vegetables,Offline,0,595931327,0,8177,154.06,90.93
+685,Sub-Saharan Africa,Mali,Fruits,Offline,0,594558894,0,2044,9.33,6.92
+686,Sub-Saharan Africa,Guinea-Bissau,Meat,Online,2010-10-26 00:00:00,662805020,2010-11-02 00:00:00,7589,421.89,364.69
+692,Sub-Saharan Africa,Cape Verde,Meat,Offline,0,170098245,0,4705,421.89,364.69
+694,Sub-Saharan Africa,Djibouti,Personal Care,Offline,2015-05-20 00:00:00,291470563,0,1472,81.73,56.67
+697,Sub-Saharan Africa,Niger,Office Supplies,Online,2017-02-24 00:00:00,588137042,0,1675,651.21,524.96
+698,Sub-Saharan Africa,Rwanda,Personal Care,Offline,2013-06-18 00:00:00,589970815,0,4329,81.73,56.67
+705,Sub-Saharan Africa,Chad,Snacks,Offline,2016-08-25 00:00:00,559466159,0,7324,152.58,97.44
+712,Sub-Saharan Africa,Zimbabwe,Snacks,Offline,2013-01-26 00:00:00,704921281,2013-02-05 00:00:00,727,152.58,97.44
+713,Sub-Saharan Africa,Guinea-Bissau,Snacks,Online,0,893783557,0,9271,152.58,97.44
+716,Sub-Saharan Africa,Cape Verde,Clothes,Online,2015-03-20 00:00:00,568033349,0,2546,109.28,35.84
+725,Sub-Saharan Africa,South Sudan,Beverages,Online,0,768050181,0,1971,47.45,31.79
+727,Sub-Saharan Africa,Swaziland,Office Supplies,Offline,2012-07-31 00:00:00,230599868,0,8480,651.21,524.96
+732,Sub-Saharan Africa,Mauritania,Beverages,Online,0,745139825,2012-12-08 00:00:00,2288,47.45,31.79
+733,Sub-Saharan Africa,Burkina Faso,Household,Online,0,519213283,0,5603,668.27,502.54
+737,Sub-Saharan Africa,Republic of the Congo,Baby Food,Online,2013-04-19 00:00:00,924665439,2013-06-07 00:00:00,7906,255.28,159.42
+739,Sub-Saharan Africa,Benin,Beverages,Offline,0,836226356,0,6816,47.45,31.79
+746,Sub-Saharan Africa,Botswana,Cereal,Online,2010-03-31 00:00:00,267432820,0,8169,205.7,117.11
+747,Sub-Saharan Africa,Seychelles ,Cereal,Offline,2014-08-20 00:00:00,104650199,2014-10-01 00:00:00,7174,205.7,117.11
+758,Sub-Saharan Africa,Senegal,Fruits,Offline,0,150873029,0,5537,9.33,6.92
+759,Sub-Saharan Africa,Malawi,Vegetables,Offline,2016-11-18 00:00:00,566795241,0,6162,154.06,90.93
+768,Sub-Saharan Africa,Togo,Cosmetics,Offline,2010-02-14 00:00:00,416004884,0,3945,437.2,263.33
+772,Sub-Saharan Africa,Gabon,Snacks,Online,2012-01-22 00:00:00,804263436,0,8278,152.58,97.44
+777,Sub-Saharan Africa,Central African Republic,Beverages,Offline,0,435900866,2011-10-07 00:00:00,1608,47.45,31.79
+779,Sub-Saharan Africa,Mauritius ,Cereal,Offline,2013-10-21 00:00:00,470728385,2013-11-09 00:00:00,7845,205.7,117.11
+782,Sub-Saharan Africa,Lesotho,Personal Care,Online,2013-12-26 00:00:00,195268094,0,3023,81.73,56.67
+784,Sub-Saharan Africa,Mozambique,Snacks,Online,0,840084016,0,8384,152.58,97.44
+785,Sub-Saharan Africa,Senegal,Cosmetics,Offline,0,662112796,0,2745,437.2,263.33
+787,Sub-Saharan Africa,Sao Tome and Principe,Clothes,Online,0,260343635,2014-06-12 00:00:00,322,109.28,35.84
+793,Sub-Saharan Africa,Democratic Republic of the Congo,Personal Care,Online,0,801313006,0,5180,81.73,56.67
+802,Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,2010-07-16 00:00:00,399292790,0,8465,437.2,263.33
+803,Sub-Saharan Africa,Comoros,Office Supplies,Online,0,422288978,0,3548,651.21,524.96
+808,Sub-Saharan Africa,Mozambique,Personal Care,Offline,0,162677323,2014-01-11 00:00:00,8690,81.73,56.67
+812,Sub-Saharan Africa,Ghana,Baby Food,Offline,2017-01-20 00:00:00,572469079,2017-02-06 00:00:00,5177,255.28,159.42
+813,Sub-Saharan Africa,Lesotho,Beverages,Offline,2011-08-22 00:00:00,332699763,2011-10-05 00:00:00,2108,47.45,31.79
+820,Sub-Saharan Africa,Burundi,Cosmetics,Offline,2015-01-18 00:00:00,518200051,0,5766,437.2,263.33
+821,Sub-Saharan Africa,Chad,Beverages,Offline,2013-06-30 00:00:00,814233958,0,8777,47.45,31.79
+827,Sub-Saharan Africa,Ethiopia,Cosmetics,Online,2015-02-24 00:00:00,996994102,2015-03-10 00:00:00,1565,437.2,263.33
+832,Sub-Saharan Africa,Ethiopia,Cereal,Offline,2010-12-27 00:00:00,249040162,2011-02-01 00:00:00,5373,205.7,117.11
+834,Sub-Saharan Africa,Niger,Beverages,Offline,2015-01-22 00:00:00,207704961,0,3368,47.45,31.79
+837,Sub-Saharan Africa,Lesotho,Clothes,Offline,2011-04-23 00:00:00,278767192,0,2262,109.28,35.84
+841,Sub-Saharan Africa,Burundi,Fruits,Offline,2011-05-22 00:00:00,709268176,0,7070,9.33,6.92
+851,Sub-Saharan Africa,Cameroon,Personal Care,Offline,0,169843757,0,9397,81.73,56.67
+854,Sub-Saharan Africa,Lesotho,Cereal,Online,2014-06-15 00:00:00,523570477,0,4994,205.7,117.11
+863,Sub-Saharan Africa,Liberia,Snacks,Online,2014-01-20 00:00:00,454010283,0,587,152.58,97.44
+867,Sub-Saharan Africa,Mauritania,Cereal,Online,2011-01-26 00:00:00,739601600,2011-03-10 00:00:00,3404,205.7,117.11
+868,Sub-Saharan Africa,Nigeria,Cosmetics,Online,2010-09-25 00:00:00,137214791,2010-11-02 00:00:00,3761,437.2,263.33
+869,Sub-Saharan Africa,Tanzania,Fruits,Offline,2013-08-26 00:00:00,413693034,0,9817,9.33,6.92
+871,Sub-Saharan Africa,Nigeria,Baby Food,Offline,2010-08-18 00:00:00,342502486,0,2952,255.28,159.42
+878,Sub-Saharan Africa,Burundi,Fruits,Online,2010-08-23 00:00:00,248043668,0,488,9.33,6.92
+882,Sub-Saharan Africa,Angola,Office Supplies,Online,0,403721654,0,9064,651.21,524.96
+893,Sub-Saharan Africa,Mali,Beverages,Online,2011-10-26 00:00:00,895014369,2011-12-11 00:00:00,3496,47.45,31.79
+895,Sub-Saharan Africa,Niger,Cosmetics,Offline,2014-02-15 00:00:00,498408782,0,9089,437.2,263.33
+896,Sub-Saharan Africa,Benin,Cosmetics,Online,2012-04-27 00:00:00,813325440,0,9927,437.2,263.33
+897,Sub-Saharan Africa,The Gambia,Baby Food,Offline,0,767849338,0,2537,255.28,159.42
+905,Sub-Saharan Africa,Djibouti,Clothes,Online,2011-06-28 00:00:00,813885486,2011-08-10 00:00:00,5656,109.28,35.84
+908,Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,2012-05-22 00:00:00,197217309,2012-06-11 00:00:00,9839,152.58,97.44
+911,Sub-Saharan Africa,Chad,Snacks,Online,2012-10-14 00:00:00,111037719,2012-12-03 00:00:00,7383,152.58,97.44
+926,Sub-Saharan Africa,Rwanda,Clothes,Offline,2015-12-30 00:00:00,469548642,0,8732,109.28,35.84
+928,Sub-Saharan Africa,Guinea,Cosmetics,Offline,0,132186830,0,5875,437.2,263.33
+932,Sub-Saharan Africa,Cote d'Ivoire,Cosmetics,Online,0,381578195,2010-07-05 00:00:00,6322,437.2,263.33
+933,Sub-Saharan Africa,Uganda,Household,Online,2014-11-27 00:00:00,106982219,0,7271,668.27,502.54
+938,Sub-Saharan Africa,Cape Verde,Cosmetics,Offline,2011-05-27 00:00:00,278062093,0,3607,437.2,263.33
+951,Sub-Saharan Africa,Seychelles ,Meat,Offline,0,348029983,2011-03-02 00:00:00,8661,421.89,364.69
+953,Sub-Saharan Africa,Nigeria,Snacks,Offline,2016-02-19 00:00:00,612856280,0,6647,152.58,97.44
+955,Sub-Saharan Africa,Mauritius ,Baby Food,Online,2013-09-21 00:00:00,886306846,0,6746,255.28,159.42
+957,Sub-Saharan Africa,Republic of the Congo,Baby Food,Offline,0,300022304,2011-06-02 00:00:00,2122,255.28,159.42
+959,Sub-Saharan Africa,Republic of the Congo,Cereal,Offline,0,910643279,0,8438,205.7,117.11
+964,Sub-Saharan Africa,Mauritius ,Cereal,Offline,2010-06-22 00:00:00,890478646,0,1275,205.7,117.11
+965,Sub-Saharan Africa,Mauritania,Meat,Online,2013-10-26 00:00:00,565345561,2013-12-02 00:00:00,7170,421.89,364.69
+969,Sub-Saharan Africa,Nigeria,Office Supplies,Online,2012-01-24 00:00:00,749752795,0,7368,651.21,524.96
+970,Sub-Saharan Africa,Comoros,Beverages,Offline,2010-09-29 00:00:00,132177388,2010-11-07 00:00:00,3081,47.45,31.79
+973,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,2017-06-20 00:00:00,406157100,0,9766,81.73,56.67
+975,Sub-Saharan Africa,Sao Tome and Principe,Personal Care,Online,2013-05-28 00:00:00,931084716,2013-07-07 00:00:00,7513,81.73,56.67
+976,Sub-Saharan Africa,Seychelles ,Baby Food,Offline,2016-07-20 00:00:00,606377351,0,9388,255.28,159.42
+977,Sub-Saharan Africa,Togo,Vegetables,Online,0,687683475,2014-04-01 00:00:00,9677,154.06,90.93
+981,Sub-Saharan Africa,Equatorial Guinea,Beverages,Online,2016-08-18 00:00:00,947456920,0,2412,47.45,31.79
+985,Sub-Saharan Africa,Angola,Office Supplies,Online,2016-07-16 00:00:00,538602435,0,3284,651.21,524.96
+988,Sub-Saharan Africa,Chad,Baby Food,Online,2010-07-30 00:00:00,344468438,0,4721,255.28,159.42
+996,Sub-Saharan Africa,Burkina Faso,Vegetables,Offline,2010-08-16 00:00:00,457191598,0,2008,154.06,90.93
+999,Sub-Saharan Africa,Sierra Leone,Snacks,Online,2015-07-15 00:00:00,674783980,2015-09-02 00:00:00,2430,152.58,97.44
+1005,Sub-Saharan Africa,Democratic Republic of the Congo,Clothes,Online,0,924286067,2013-10-04 00:00:00,5642,109.28,35.84
+1007,Sub-Saharan Africa,Mozambique,Household,Online,2015-10-15 00:00:00,152826964,0,3750,668.27,502.54
+1008,Sub-Saharan Africa,Sudan,Household,Online,2010-02-13 00:00:00,719769990,0,4790,668.27,502.54
+1009,Sub-Saharan Africa,Benin,Snacks,Online,2013-09-23 00:00:00,919289004,0,6900,152.58,97.44
+1015,Sub-Saharan Africa,Botswana,Vegetables,Online,2010-02-16 00:00:00,837608230,2010-03-03 00:00:00,5744,154.06,90.93
+1017,Sub-Saharan Africa,Ethiopia,Snacks,Offline,0,872161090,0,703,152.58,97.44
+1021,Sub-Saharan Africa,Cameroon,Fruits,Offline,2011-05-15 00:00:00,436280238,2011-06-10 00:00:00,3872,9.33,6.92
+1023,Sub-Saharan Africa,Angola,Vegetables,Online,0,254127776,2015-09-12 00:00:00,911,154.06,90.93
+1024,Sub-Saharan Africa,Burkina Faso,Beverages,Online,2016-05-31 00:00:00,535645997,0,8409,47.45,31.79
+1025,Sub-Saharan Africa,Kenya,Clothes,Offline,2014-12-19 00:00:00,963021457,0,8304,109.28,35.84
+1027,Sub-Saharan Africa,Democratic Republic of the Congo,Household,Offline,2015-01-21 00:00:00,569601905,2015-02-02 00:00:00,6716,668.27,502.54
+1030,Sub-Saharan Africa,Botswana,Office Supplies,Online,2014-05-23 00:00:00,258216321,0,802,651.21,524.96
+1040,Sub-Saharan Africa,Benin,Clothes,Online,2011-05-19 00:00:00,790975129,0,5973,109.28,35.84
+1041,Sub-Saharan Africa,Chad,Cosmetics,Offline,0,658707034,0,4904,437.2,263.33
+1048,Sub-Saharan Africa,Equatorial Guinea,Snacks,Online,0,970934617,0,9984,152.58,97.44
+1056,Sub-Saharan Africa,Sao Tome and Principe,Cereal,Offline,2010-02-28 00:00:00,585757386,0,7482,205.7,117.11
+1060,Sub-Saharan Africa,Cameroon,Household,Offline,2011-04-13 00:00:00,364055001,0,820,668.27,502.54
+1062,Sub-Saharan Africa,Swaziland,Clothes,Online,2015-12-20 00:00:00,216042554,0,647,109.28,35.84
+1074,Sub-Saharan Africa,Chad,Personal Care,Online,2015-10-27 00:00:00,688569676,0,1924,81.73,56.67
+1081,Sub-Saharan Africa,Republic of the Congo,Cosmetics,Offline,2010-11-23 00:00:00,962715899,0,7883,437.2,263.33
+1082,Sub-Saharan Africa,Botswana,Cosmetics,Offline,2010-04-30 00:00:00,751854360,2010-05-07 00:00:00,9268,437.2,263.33
+1085,Sub-Saharan Africa,Cote d'Ivoire,Household,Offline,0,403788173,0,8748,668.27,502.54
+1086,Sub-Saharan Africa,Togo,Fruits,Online,2017-06-19 00:00:00,747351682,0,6825,9.33,6.92
+1087,Sub-Saharan Africa,Benin,Household,Online,0,328862273,0,6510,668.27,502.54
+1088,Sub-Saharan Africa,Kenya,Personal Care,Online,0,593681275,2011-09-11 00:00:00,2337,81.73,56.67
+1092,Sub-Saharan Africa,Rwanda,Snacks,Online,2011-10-14 00:00:00,704205453,0,8897,152.58,97.44
+1094,Sub-Saharan Africa,South Africa,Vegetables,Online,0,131681287,2010-03-02 00:00:00,6274,154.06,90.93
+1096,Sub-Saharan Africa,Sudan,Snacks,Offline,2015-04-16 00:00:00,757820451,0,4767,152.58,97.44
+1106,Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Online,2017-07-24 00:00:00,588388097,0,5968,154.06,90.93
+1107,Sub-Saharan Africa,Benin,Beverages,Offline,0,820344245,0,6947,47.45,31.79
+1115,Sub-Saharan Africa,South Sudan,Cereal,Offline,2012-09-17 00:00:00,698729026,0,8301,205.7,117.11
+1123,Sub-Saharan Africa,Senegal,Personal Care,Offline,2011-04-18 00:00:00,321352088,2011-05-06 00:00:00,4079,81.73,56.67
+1124,Sub-Saharan Africa,Ghana,Fruits,Offline,2012-05-29 00:00:00,102168405,0,2756,9.33,6.92
+1129,Sub-Saharan Africa,Ghana,Baby Food,Offline,2017-06-18 00:00:00,976139819,0,319,255.28,159.42
+1131,Sub-Saharan Africa,Sao Tome and Principe,Cereal,Online,2012-06-27 00:00:00,813213431,0,6781,205.7,117.11
+1134,Sub-Saharan Africa,Guinea,Beverages,Online,0,332528531,0,1437,47.45,31.79
+1142,Sub-Saharan Africa,Zambia,Meat,Offline,0,263537824,0,5553,421.89,364.69
+1144,Sub-Saharan Africa,The Gambia,Beverages,Offline,0,899784409,0,5057,47.45,31.79
+1145,Sub-Saharan Africa,Ethiopia,Personal Care,Online,2016-07-22 00:00:00,884520709,2016-08-09 00:00:00,8189,81.73,56.67
+1147,Sub-Saharan Africa,Swaziland,Fruits,Online,2015-02-19 00:00:00,804650962,0,2956,9.33,6.92
+1149,Sub-Saharan Africa,Mozambique,Vegetables,Offline,2012-10-24 00:00:00,202546107,2012-11-10 00:00:00,6749,154.06,90.93
+1151,Sub-Saharan Africa,Equatorial Guinea,Fruits,Online,2011-05-25 00:00:00,234846770,2011-07-06 00:00:00,5233,9.33,6.92
+1157,Sub-Saharan Africa,Mauritius ,Personal Care,Offline,2013-07-23 00:00:00,179588115,0,2969,81.73,56.67
+1162,Sub-Saharan Africa,Swaziland,Meat,Offline,2016-11-13 00:00:00,170931661,0,1332,421.89,364.69
+1166,Sub-Saharan Africa,Cote d'Ivoire,Office Supplies,Online,2014-07-29 00:00:00,828245389,0,5071,651.21,524.96
+1167,Sub-Saharan Africa,Botswana,Cereal,Offline,0,578725707,2010-08-09 00:00:00,6652,205.7,117.11
+1171,Sub-Saharan Africa,Mauritius ,Household,Online,2010-04-15 00:00:00,786094367,2010-05-08 00:00:00,1647,668.27,502.54
+1175,Sub-Saharan Africa,Sao Tome and Principe,Household,Offline,2011-08-24 00:00:00,648272597,2011-10-02 00:00:00,7122,668.27,502.54
+1178,Sub-Saharan Africa,Senegal,Household,Online,0,968106496,0,3080,668.27,502.54
+1180,Sub-Saharan Africa,Kenya,Fruits,Online,2013-10-14 00:00:00,522089898,2013-11-11 00:00:00,6858,9.33,6.92
+1181,Sub-Saharan Africa,Guinea-Bissau,Vegetables,Online,2015-05-14 00:00:00,263643825,0,6921,154.06,90.93
+1185,Sub-Saharan Africa,Kenya,Personal Care,Online,2012-11-18 00:00:00,257767856,2013-01-03 00:00:00,8092,81.73,56.67
+1188,Sub-Saharan Africa,Togo,Baby Food,Offline,0,571531808,0,7818,255.28,159.42
+1191,Sub-Saharan Africa,Sudan,Snacks,Offline,2011-04-19 00:00:00,807581222,0,85,152.58,97.44
+1201,Sub-Saharan Africa,Sierra Leone,Meat,Online,2017-04-14 00:00:00,972984683,0,6644,421.89,364.69
+1203,Sub-Saharan Africa,Madagascar,Snacks,Offline,0,480688178,0,5169,152.58,97.44
+1209,Sub-Saharan Africa,Rwanda,Cosmetics,Offline,2015-02-13 00:00:00,637575519,0,1619,437.2,263.33
+1211,Sub-Saharan Africa,Chad,Cereal,Online,2016-07-21 00:00:00,439932334,2016-08-06 00:00:00,4609,205.7,117.11
+1212,Sub-Saharan Africa,Malawi,Baby Food,Offline,0,254037225,0,4115,255.28,159.42
+1214,Sub-Saharan Africa,Democratic Republic of the Congo,Office Supplies,Online,0,930219113,2010-03-10 00:00:00,1362,651.21,524.96
+1215,Sub-Saharan Africa,Sierra Leone,Beverages,Online,0,872081267,2010-01-12 00:00:00,7081,47.45,31.79
+1217,Sub-Saharan Africa,Guinea-Bissau,Clothes,Online,0,440154635,2015-02-06 00:00:00,393,109.28,35.84
+1218,Sub-Saharan Africa,Chad,Personal Care,Online,2010-05-21 00:00:00,918026006,2010-07-09 00:00:00,3151,81.73,56.67
+1225,Sub-Saharan Africa,Zambia,Baby Food,Online,0,605722033,0,5465,255.28,159.42
+1236,Sub-Saharan Africa,Ghana,Cereal,Offline,2011-09-27 00:00:00,362812173,0,3039,205.7,117.11
+1240,Sub-Saharan Africa,Botswana,Household,Offline,0,448946702,0,2161,668.27,502.54
+1241,Sub-Saharan Africa,Liberia,Cosmetics,Online,2016-06-21 00:00:00,225821673,2016-08-03 00:00:00,4506,437.2,263.33
+1247,Sub-Saharan Africa,Niger,Baby Food,Online,0,902417266,0,4178,255.28,159.42
+1250,Sub-Saharan Africa,Botswana,Cosmetics,Offline,0,178000676,0,3210,437.2,263.33
+1251,Sub-Saharan Africa,Gabon,Beverages,Online,2010-06-18 00:00:00,899727332,0,8166,47.45,31.79
+1253,Sub-Saharan Africa,Zambia,Office Supplies,Online,2013-02-18 00:00:00,542178142,0,1415,651.21,524.96
+1255,Sub-Saharan Africa,Burkina Faso,Personal Care,Offline,2015-11-18 00:00:00,214346969,0,8886,81.73,56.67
+1284,Sub-Saharan Africa,Rwanda,Beverages,Offline,2017-04-20 00:00:00,959170663,0,8769,47.45,31.79
+1286,Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Online,0,539576184,0,1438,154.06,90.93
+1288,Sub-Saharan Africa,Republic of the Congo,Vegetables,Online,0,756145036,0,8974,154.06,90.93
+1301,Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Online,0,299840342,2012-12-08 00:00:00,8275,81.73,56.67
+1312,Sub-Saharan Africa,Gabon,Cosmetics,Online,2017-05-25 00:00:00,367898499,2017-06-09 00:00:00,8196,437.2,263.33
+1314,Sub-Saharan Africa,Togo,Cosmetics,Offline,0,371387517,2013-11-08 00:00:00,674,437.2,263.33
+1320,Sub-Saharan Africa,Central African Republic,Beverages,Online,2013-09-21 00:00:00,458209550,0,3243,47.45,31.79
+1323,Sub-Saharan Africa,Cameroon,Personal Care,Offline,0,689370048,2014-02-10 00:00:00,8771,81.73,56.67
+1334,Sub-Saharan Africa,Guinea-Bissau,Cosmetics,Offline,0,291745221,2014-05-07 00:00:00,2749,437.2,263.33
+1335,Sub-Saharan Africa,Benin,Baby Food,Online,0,754249465,0,8033,255.28,159.42
+1338,Sub-Saharan Africa,Mali,Beverages,Online,2012-08-27 00:00:00,484776723,2012-09-04 00:00:00,5060,47.45,31.79
+1342,Sub-Saharan Africa,Madagascar,Vegetables,Offline,0,438086545,0,8399,154.06,90.93
+1344,Sub-Saharan Africa,Mauritania,Baby Food,Offline,2012-03-17 00:00:00,938322389,0,9301,255.28,159.42
+1353,Sub-Saharan Africa,Mauritius ,Office Supplies,Online,2010-04-21 00:00:00,421206653,2010-06-04 00:00:00,3264,651.21,524.96
+1361,Sub-Saharan Africa,Botswana,Clothes,Offline,2016-07-24 00:00:00,682574832,0,7916,109.28,35.84
+1364,Sub-Saharan Africa,Mauritius ,Baby Food,Online,2017-01-26 00:00:00,542163980,0,7224,255.28,159.42
+1365,Sub-Saharan Africa,Zambia,Meat,Online,0,204067027,0,6823,421.89,364.69
+1366,Sub-Saharan Africa,Guinea,Clothes,Offline,0,298790204,0,7516,109.28,35.84
+1370,Sub-Saharan Africa,Tanzania,Snacks,Offline,0,261548268,0,6800,152.58,97.44
+1377,Sub-Saharan Africa,Eritrea,Personal Care,Offline,2016-07-22 00:00:00,269276034,0,3617,81.73,56.67
+1379,Sub-Saharan Africa,Togo,Cereal,Offline,0,803102576,0,4754,205.7,117.11
+1380,Sub-Saharan Africa,Burundi,Office Supplies,Online,2014-01-31 00:00:00,967122018,2014-02-12 00:00:00,1752,651.21,524.96
+1381,Sub-Saharan Africa,Ethiopia,Personal Care,Online,2014-03-23 00:00:00,435006511,0,6948,81.73,56.67
+1388,Sub-Saharan Africa,South Sudan,Office Supplies,Online,0,725645959,2012-09-08 00:00:00,3620,651.21,524.96
+1390,Sub-Saharan Africa,Senegal,Personal Care,Online,2010-10-19 00:00:00,417013394,0,2385,81.73,56.67
+1392,Sub-Saharan Africa,Nigeria,Personal Care,Online,2010-04-29 00:00:00,589856660,2010-05-10 00:00:00,548,81.73,56.67
+1397,Sub-Saharan Africa,Togo,Personal Care,Online,2012-02-16 00:00:00,767899119,2012-03-07 00:00:00,7269,81.73,56.67
+1399,Sub-Saharan Africa,Senegal,Beverages,Online,2014-03-13 00:00:00,231327712,2014-04-08 00:00:00,3865,47.45,31.79
+1402,Sub-Saharan Africa,Eritrea,Cereal,Offline,0,896132314,0,4321,205.7,117.11
+1405,Sub-Saharan Africa,Rwanda,Clothes,Online,2013-10-23 00:00:00,410077846,2013-12-02 00:00:00,2,109.28,35.84
+1414,Sub-Saharan Africa,Mauritius ,Beverages,Online,0,567756116,2010-12-12 00:00:00,506,47.45,31.79
+1415,Sub-Saharan Africa,Mauritius ,Beverages,Online,2016-02-26 00:00:00,467980086,0,4562,47.45,31.79
+1419,Sub-Saharan Africa,Cape Verde,Cosmetics,Online,2014-06-28 00:00:00,732917106,2014-08-09 00:00:00,5313,437.2,263.33
+1420,Sub-Saharan Africa,Sudan,Cereal,Online,2010-07-14 00:00:00,183374536,0,3455,205.7,117.11
+1421,Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Offline,2016-12-18 00:00:00,670900142,2017-01-02 00:00:00,3116,255.28,159.42
+1424,Sub-Saharan Africa,Mali,Fruits,Offline,0,154811799,0,1106,9.33,6.92
+1425,Sub-Saharan Africa,Sao Tome and Principe,Household,Online,2014-10-30 00:00:00,541098392,2014-12-04 00:00:00,1893,668.27,502.54
+1450,Sub-Saharan Africa,Niger,Vegetables,Offline,0,981406819,0,8942,154.06,90.93
+1454,Sub-Saharan Africa,Lesotho,Household,Offline,0,691259610,2013-01-03 00:00:00,7935,668.27,502.54
+1461,Sub-Saharan Africa,Burkina Faso,Vegetables,Online,0,419000804,2013-07-05 00:00:00,504,154.06,90.93
+1465,Sub-Saharan Africa,Sao Tome and Principe,Personal Care,Online,0,662294757,0,6591,81.73,56.67
+1466,Sub-Saharan Africa,Ethiopia,Office Supplies,Offline,2016-08-28 00:00:00,238737905,0,6706,651.21,524.96
+1472,Sub-Saharan Africa,Chad,Office Supplies,Offline,0,998142945,2015-06-06 00:00:00,1533,651.21,524.96
+1474,Sub-Saharan Africa,Sierra Leone,Meat,Offline,2016-09-25 00:00:00,116573369,2016-11-03 00:00:00,5505,421.89,364.69
+1475,Sub-Saharan Africa,Malawi,Fruits,Offline,2015-06-15 00:00:00,512665259,0,7898,9.33,6.92
+1490,Sub-Saharan Africa,Cape Verde,Fruits,Online,2017-05-20 00:00:00,595584142,0,5438,9.33,6.92
+1496,Sub-Saharan Africa,Madagascar,Office Supplies,Online,2015-03-17 00:00:00,990462815,0,8812,651.21,524.96
+1498,Sub-Saharan Africa,Tanzania,Personal Care,Online,0,746759450,2014-04-03 00:00:00,1571,81.73,56.67
+1501,Sub-Saharan Africa,Seychelles ,Vegetables,Offline,2013-04-18 00:00:00,804308497,0,1613,154.06,90.93
+1505,Sub-Saharan Africa,Central African Republic,Cereal,Offline,2013-10-19 00:00:00,633198153,2013-11-03 00:00:00,6260,205.7,117.11
+1509,Sub-Saharan Africa,Niger,Meat,Online,2017-03-16 00:00:00,552834880,0,4981,421.89,364.69
+1512,Sub-Saharan Africa,Burundi,Beverages,Online,2014-10-31 00:00:00,484659135,0,263,47.45,31.79
+1513,Sub-Saharan Africa,Burkina Faso,Snacks,Online,2015-03-25 00:00:00,816343677,0,3090,152.58,97.44
+1518,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,2015-07-28 00:00:00,796755826,0,6609,255.28,159.42
+1522,Sub-Saharan Africa,Benin,Snacks,Online,0,846965062,2013-02-12 00:00:00,4638,152.58,97.44
+1528,Sub-Saharan Africa,The Gambia,Baby Food,Offline,2010-09-13 00:00:00,418308579,0,5659,255.28,159.42
+1530,Sub-Saharan Africa,Mauritania,Baby Food,Online,2011-10-18 00:00:00,312593495,2011-11-03 00:00:00,2217,255.28,159.42
+1531,Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,0,585089194,0,9749,152.58,97.44
+1533,Sub-Saharan Africa,Djibouti,Cereal,Online,0,851343715,0,379,205.7,117.11
+1534,Sub-Saharan Africa,South Sudan,Household,Offline,2011-07-27 00:00:00,234262692,2011-08-02 00:00:00,2391,668.27,502.54
+1538,Sub-Saharan Africa,Mauritius ,Household,Online,2015-09-20 00:00:00,619335210,0,3906,668.27,502.54
+1543,Sub-Saharan Africa,Zambia,Snacks,Online,2013-12-17 00:00:00,631511580,0,7165,152.58,97.44
+1556,Sub-Saharan Africa,Sierra Leone,Cosmetics,Offline,2013-06-23 00:00:00,445566689,0,1940,437.2,263.33
+1557,Sub-Saharan Africa,Nigeria,Vegetables,Offline,0,704247081,0,1216,154.06,90.93
+1558,Sub-Saharan Africa,Madagascar,Beverages,Online,2016-09-27 00:00:00,355122601,2016-10-05 00:00:00,7524,47.45,31.79
+1561,Sub-Saharan Africa,Senegal,Cosmetics,Online,2017-07-26 00:00:00,537970721,0,6346,437.2,263.33
+1565,Sub-Saharan Africa,Sierra Leone,Household,Offline,0,406191432,2017-06-01 00:00:00,9926,668.27,502.54
+1566,Sub-Saharan Africa,Uganda,Office Supplies,Online,2016-11-25 00:00:00,652635800,0,8291,651.21,524.96
+1568,Sub-Saharan Africa,Angola,Fruits,Offline,2017-01-23 00:00:00,150039613,0,8910,9.33,6.92
+1577,Sub-Saharan Africa,Sudan,Clothes,Online,2012-09-22 00:00:00,949085986,0,4489,109.28,35.84
+1581,Sub-Saharan Africa,Zambia,Office Supplies,Offline,0,786544978,0,4993,651.21,524.96
+1582,Sub-Saharan Africa,Namibia,Meat,Online,0,733502042,0,8409,421.89,364.69
+1583,Sub-Saharan Africa,Ethiopia,Personal Care,Online,2014-06-29 00:00:00,980124938,2014-07-07 00:00:00,9605,81.73,56.67
+1586,Sub-Saharan Africa,Zambia,Beverages,Online,0,323164403,0,383,47.45,31.79
+1588,Sub-Saharan Africa,Swaziland,Beverages,Online,2015-10-26 00:00:00,131810891,2015-12-03 00:00:00,4627,47.45,31.79
+1591,Sub-Saharan Africa,Liberia,Clothes,Offline,2015-01-17 00:00:00,350062453,0,114,109.28,35.84
+1593,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Online,0,112154376,2016-07-11 00:00:00,7827,47.45,31.79
+1595,Sub-Saharan Africa,Zambia,Clothes,Offline,0,107870566,2012-05-12 00:00:00,153,109.28,35.84
+1596,Sub-Saharan Africa,Namibia,Cereal,Online,0,946780145,2016-07-02 00:00:00,2139,205.7,117.11
+1598,Sub-Saharan Africa,Cape Verde,Office Supplies,Online,2014-10-13 00:00:00,128821408,0,9972,651.21,524.96
+1600,Sub-Saharan Africa,Rwanda,Meat,Online,2012-10-26 00:00:00,382963502,0,6265,421.89,364.69
+1602,Sub-Saharan Africa,Mozambique,Baby Food,Offline,0,953347051,2015-03-08 00:00:00,5433,255.28,159.42
+1605,Sub-Saharan Africa,Cameroon,Personal Care,Offline,2016-11-24 00:00:00,873237407,0,9209,81.73,56.67
+1606,Sub-Saharan Africa,Djibouti,Household,Offline,2015-06-15 00:00:00,244401013,2015-07-07 00:00:00,2546,668.27,502.54
+1610,Sub-Saharan Africa,Mozambique,Household,Offline,2014-11-27 00:00:00,955108296,0,6624,668.27,502.54
+1611,Sub-Saharan Africa,South Africa,Clothes,Offline,0,130948722,0,9492,109.28,35.84
+1615,Sub-Saharan Africa,Ghana,Snacks,Online,0,750304687,2015-06-07 00:00:00,685,152.58,97.44
+1616,Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Online,0,258605134,2016-06-12 00:00:00,5861,255.28,159.42
+1617,Sub-Saharan Africa,Guinea,Office Supplies,Offline,2012-06-20 00:00:00,904169070,0,2575,651.21,524.96
+1620,Sub-Saharan Africa,Burkina Faso,Beverages,Online,2010-09-13 00:00:00,675867593,0,3095,47.45,31.79
+1623,Sub-Saharan Africa,South Africa,Cosmetics,Offline,0,897195327,2011-04-11 00:00:00,8890,437.2,263.33
+1625,Sub-Saharan Africa,Seychelles ,Meat,Online,2011-08-20 00:00:00,994150531,0,89,421.89,364.69
+1627,Sub-Saharan Africa,Uganda,Beverages,Offline,0,930980002,2012-10-11 00:00:00,6526,47.45,31.79
+1628,Sub-Saharan Africa,Mali,Clothes,Online,2015-02-14 00:00:00,130289971,0,4553,109.28,35.84
+1632,Sub-Saharan Africa,Madagascar,Baby Food,Offline,0,573699891,0,9402,255.28,159.42
+1633,Sub-Saharan Africa,Uganda,Office Supplies,Offline,0,322120273,0,1402,651.21,524.96
+1638,Sub-Saharan Africa,Djibouti,Vegetables,Offline,0,342852246,0,6453,154.06,90.93
+1639,Sub-Saharan Africa,Guinea,Beverages,Online,2015-06-14 00:00:00,311191451,2015-07-09 00:00:00,7321,47.45,31.79
+1649,Sub-Saharan Africa,Sao Tome and Principe,Snacks,Offline,2014-05-20 00:00:00,292024600,2014-07-04 00:00:00,5423,152.58,97.44
+1661,Sub-Saharan Africa,Sierra Leone,Cosmetics,Offline,2014-10-21 00:00:00,617609584,2014-11-01 00:00:00,3255,437.2,263.33
+1666,Sub-Saharan Africa,Togo,Personal Care,Online,0,218608891,2015-02-10 00:00:00,84,81.73,56.67
+1667,Sub-Saharan Africa,Guinea,Fruits,Offline,2015-02-24 00:00:00,142728126,0,5279,9.33,6.92
+1674,Sub-Saharan Africa,Kenya,Beverages,Online,0,649276387,0,4166,47.45,31.79
+1677,Sub-Saharan Africa,Mali,Personal Care,Offline,0,709681880,0,9494,81.73,56.67
+1685,Sub-Saharan Africa,Guinea,Clothes,Online,0,793950450,0,6436,109.28,35.84
+1686,Sub-Saharan Africa,Liberia,Personal Care,Online,0,748927533,0,3155,81.73,56.67
+1687,Sub-Saharan Africa,Rwanda,Office Supplies,Online,0,514898574,0,8785,651.21,524.96
+1690,Sub-Saharan Africa,South Africa,Meat,Online,0,208951222,2016-11-10 00:00:00,2165,421.89,364.69
+1691,Sub-Saharan Africa,Cameroon,Personal Care,Offline,2010-01-31 00:00:00,200636374,2010-03-03 00:00:00,1617,81.73,56.67
+1694,Sub-Saharan Africa,Benin,Vegetables,Offline,2016-09-14 00:00:00,104253232,0,9703,154.06,90.93
+1699,Sub-Saharan Africa,Seychelles ,Household,Offline,2014-11-18 00:00:00,308415687,0,5910,668.27,502.54
+1713,Sub-Saharan Africa,Mauritania,Cereal,Online,0,291173160,2014-11-02 00:00:00,3463,205.7,117.11
+1719,Sub-Saharan Africa,Cote d'Ivoire,Fruits,Online,2015-06-15 00:00:00,485468947,2015-07-01 00:00:00,9905,9.33,6.92
+1721,Sub-Saharan Africa,Senegal,Baby Food,Offline,0,687013995,0,1563,255.28,159.42
+1729,Sub-Saharan Africa,Rwanda,Clothes,Online,2013-07-13 00:00:00,320843112,0,3462,109.28,35.84
+1732,Sub-Saharan Africa,Comoros,Beverages,Offline,2016-06-13 00:00:00,447839486,0,4511,47.45,31.79
+1738,Sub-Saharan Africa,Madagascar,Vegetables,Online,0,174694478,2015-05-11 00:00:00,4833,154.06,90.93
+1741,Sub-Saharan Africa,Djibouti,Clothes,Online,2012-05-29 00:00:00,297502315,2012-06-08 00:00:00,6401,109.28,35.84
+1742,Sub-Saharan Africa,Seychelles ,Beverages,Offline,0,737086331,2013-06-04 00:00:00,9080,47.45,31.79
+1745,Sub-Saharan Africa,Cape Verde,Snacks,Online,0,902466189,0,8655,152.58,97.44
+1751,Sub-Saharan Africa,South Africa,Snacks,Offline,2012-01-25 00:00:00,863851821,2012-03-07 00:00:00,1805,152.58,97.44
+1763,Sub-Saharan Africa,Nigeria,Beverages,Online,2010-11-30 00:00:00,963228309,0,9516,47.45,31.79
+1765,Sub-Saharan Africa,Ghana,Household,Offline,2013-09-14 00:00:00,563491618,0,8547,668.27,502.54
+1768,Sub-Saharan Africa,South Africa,Snacks,Online,0,857425248,0,40,152.58,97.44
+1769,Sub-Saharan Africa,South Africa,Clothes,Online,2015-08-20 00:00:00,334812915,0,7437,109.28,35.84
+1775,Sub-Saharan Africa,Rwanda,Beverages,Online,2017-07-13 00:00:00,318390929,0,7806,47.45,31.79
+1777,Sub-Saharan Africa,Nigeria,Meat,Offline,2015-08-26 00:00:00,121571719,0,4628,421.89,364.69
+1779,Sub-Saharan Africa,Gabon,Clothes,Online,0,819314277,0,2156,109.28,35.84
+1786,Sub-Saharan Africa,Cape Verde,Baby Food,Offline,2012-03-25 00:00:00,720515859,0,5509,255.28,159.42
+1787,Sub-Saharan Africa,Senegal,Personal Care,Online,2012-09-29 00:00:00,363714683,0,112,81.73,56.67
+1791,Sub-Saharan Africa,Sierra Leone,Cereal,Offline,0,813441741,0,4342,205.7,117.11
+1795,Sub-Saharan Africa,Cote d'Ivoire,Clothes,Online,2014-10-15 00:00:00,552353370,0,2491,109.28,35.84
+1799,Sub-Saharan Africa,Rwanda,Baby Food,Offline,0,733574569,0,9871,255.28,159.42
+1802,Sub-Saharan Africa,South Sudan,Beverages,Online,0,431362569,2012-08-09 00:00:00,8625,47.45,31.79
+1805,Sub-Saharan Africa,Democratic Republic of the Congo,Baby Food,Online,0,616572749,2014-07-12 00:00:00,6433,255.28,159.42
+1810,Sub-Saharan Africa,Sudan,Personal Care,Online,2010-01-21 00:00:00,310955846,2010-02-10 00:00:00,7600,81.73,56.67
+1811,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Online,2013-06-16 00:00:00,162345588,0,522,255.28,159.42
+1816,Sub-Saharan Africa,Seychelles ,Vegetables,Online,2013-04-23 00:00:00,570482957,2013-06-03 00:00:00,7439,154.06,90.93
+1820,Sub-Saharan Africa,Gabon,Personal Care,Offline,2017-05-20 00:00:00,645411431,2017-06-12 00:00:00,440,81.73,56.67
+1822,Sub-Saharan Africa,Burkina Faso,Cereal,Online,2010-10-30 00:00:00,680870664,0,3615,205.7,117.11
+1827,Sub-Saharan Africa,Sudan,Office Supplies,Offline,2014-12-29 00:00:00,549290931,0,6248,651.21,524.96
+1828,Sub-Saharan Africa,Chad,Beverages,Offline,2010-08-18 00:00:00,483915841,0,306,47.45,31.79
+1830,Sub-Saharan Africa,Mali,Personal Care,Online,0,947622144,0,1305,81.73,56.67
+1838,Sub-Saharan Africa,Benin,Office Supplies,Online,2013-01-24 00:00:00,592986905,0,6858,651.21,524.96
+1845,Sub-Saharan Africa,Angola,Vegetables,Online,0,181860911,0,5540,154.06,90.93
+1847,Sub-Saharan Africa,Zambia,Meat,Online,0,845875442,0,2195,421.89,364.69
+1856,Sub-Saharan Africa,South Sudan,Baby Food,Offline,0,727604615,2013-07-07 00:00:00,3229,255.28,159.42
+1863,Sub-Saharan Africa,Djibouti,Baby Food,Offline,0,337215316,2016-11-11 00:00:00,8360,255.28,159.42
+1869,Sub-Saharan Africa,Guinea-Bissau,Meat,Offline,0,766893184,2017-01-10 00:00:00,9590,421.89,364.69
+1872,Sub-Saharan Africa,Mauritius ,Household,Online,0,434496247,2017-08-10 00:00:00,5950,668.27,502.54
+1873,Sub-Saharan Africa,Sierra Leone,Cereal,Online,2015-12-13 00:00:00,225763309,2016-01-06 00:00:00,7235,205.7,117.11
+1874,Sub-Saharan Africa,Zambia,Baby Food,Offline,0,827780187,0,7407,255.28,159.42
+1878,Sub-Saharan Africa,Gabon,Meat,Offline,0,974009931,0,38,421.89,364.69
+1880,Sub-Saharan Africa,Seychelles ,Household,Online,0,340236985,0,2540,668.27,502.54
+1885,Sub-Saharan Africa,Namibia,Fruits,Offline,2014-04-26 00:00:00,384356105,0,8368,9.33,6.92
+1887,Sub-Saharan Africa,Uganda,Household,Online,2014-06-27 00:00:00,749762237,2014-08-02 00:00:00,162,668.27,502.54
+1890,Sub-Saharan Africa,Guinea,Beverages,Online,0,818119084,0,8472,47.45,31.79
+1897,Sub-Saharan Africa,Rwanda,Office Supplies,Online,2014-11-21 00:00:00,881547534,2014-12-09 00:00:00,8360,651.21,524.96
+1900,Sub-Saharan Africa,Lesotho,Beverages,Online,0,486803185,2016-07-08 00:00:00,4735,47.45,31.79
+1903,Sub-Saharan Africa,Swaziland,Clothes,Offline,2016-11-15 00:00:00,833484923,2016-12-01 00:00:00,5566,109.28,35.84
+1909,Sub-Saharan Africa,South Sudan,Vegetables,Online,2013-08-23 00:00:00,451712596,0,650,154.06,90.93
+1910,Sub-Saharan Africa,The Gambia,Cosmetics,Online,0,263867413,0,3086,437.2,263.33
+1915,Sub-Saharan Africa,Malawi,Cosmetics,Offline,2010-05-16 00:00:00,590527427,0,9043,437.2,263.33
+1917,Sub-Saharan Africa,Swaziland,Personal Care,Online,2015-10-20 00:00:00,825141322,0,6509,81.73,56.67
+1918,Sub-Saharan Africa,Cote d'Ivoire,Fruits,Offline,2015-03-27 00:00:00,670364987,2015-05-09 00:00:00,4752,9.33,6.92
+1920,Sub-Saharan Africa,Liberia,Cereal,Online,0,391889894,0,7783,205.7,117.11
+1921,Sub-Saharan Africa,Uganda,Beverages,Offline,2014-02-17 00:00:00,529226291,0,8675,47.45,31.79
+1922,Sub-Saharan Africa,Mauritania,Household,Offline,2011-12-28 00:00:00,992156255,0,9939,668.27,502.54
+1927,Sub-Saharan Africa,Burundi,Fruits,Offline,0,672106063,2011-03-10 00:00:00,9975,9.33,6.92
+1928,Sub-Saharan Africa,South Africa,Fruits,Online,2011-08-27 00:00:00,281810319,2011-10-01 00:00:00,2791,9.33,6.92
+1933,Sub-Saharan Africa,Swaziland,Fruits,Offline,2012-04-30 00:00:00,748463618,0,5872,9.33,6.92
+1945,Sub-Saharan Africa,Malawi,Baby Food,Online,2011-10-14 00:00:00,743799579,2011-12-02 00:00:00,5679,255.28,159.42
+1948,Sub-Saharan Africa,Central African Republic,Cosmetics,Online,2016-03-17 00:00:00,445075738,0,6656,437.2,263.33
+1958,Sub-Saharan Africa,Niger,Office Supplies,Offline,2017-04-22 00:00:00,807052075,0,3498,651.21,524.96
+1963,Sub-Saharan Africa,South Sudan,Personal Care,Online,2017-01-26 00:00:00,107808768,0,1865,81.73,56.67
+1965,Sub-Saharan Africa,Rwanda,Fruits,Online,0,900967586,2012-03-03 00:00:00,5185,9.33,6.92
+1970,Sub-Saharan Africa,Cameroon,Vegetables,Offline,2010-10-30 00:00:00,836610448,0,478,154.06,90.93
+1971,Sub-Saharan Africa,Seychelles ,Cereal,Online,2014-01-26 00:00:00,294689643,2014-02-07 00:00:00,4069,205.7,117.11
+1972,Sub-Saharan Africa,Sierra Leone,Beverages,Online,0,276116311,0,7807,47.45,31.79
+1977,Sub-Saharan Africa,Senegal,Vegetables,Offline,2012-01-27 00:00:00,711733233,2012-03-09 00:00:00,6535,154.06,90.93
+1981,Sub-Saharan Africa,Madagascar,Household,Online,0,230149257,0,5134,668.27,502.54
+1984,Sub-Saharan Africa,Guinea,Vegetables,Online,2016-07-29 00:00:00,787425172,0,5462,154.06,90.93
+1991,Sub-Saharan Africa,Central African Republic,Personal Care,Offline,2013-08-13 00:00:00,838246810,0,4714,81.73,56.67
+1996,Sub-Saharan Africa,Nigeria,Cereal,Offline,0,308426415,2016-04-06 00:00:00,9085,205.7,117.11
+1999,Sub-Saharan Africa,Republic of the Congo,Household,Online,0,101836669,0,4588,668.27,502.54
+2004,Sub-Saharan Africa,Nigeria,Meat,Online,2011-07-24 00:00:00,313923013,0,5650,421.89,364.69
+2014,Sub-Saharan Africa,Benin,Cereal,Online,2013-02-18 00:00:00,280171811,2013-04-07 00:00:00,7920,205.7,117.11
+2015,Sub-Saharan Africa,Benin,Household,Online,2015-06-27 00:00:00,674231231,0,8859,668.27,502.54
+2016,Sub-Saharan Africa,Uganda,Office Supplies,Online,2013-11-14 00:00:00,471911561,0,7973,651.21,524.96
+2021,Sub-Saharan Africa,Cameroon,Snacks,Online,2010-03-16 00:00:00,574148356,2010-05-04 00:00:00,2112,152.58,97.44
+2026,Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,2010-01-18 00:00:00,450794637,2010-02-11 00:00:00,9006,9.33,6.92
+2032,Sub-Saharan Africa,The Gambia,Snacks,Offline,0,973334443,0,146,152.58,97.44
+2041,Sub-Saharan Africa,Ghana,Office Supplies,Online,2016-10-14 00:00:00,971038043,2016-11-08 00:00:00,590,651.21,524.96
+2045,Sub-Saharan Africa,Guinea,Baby Food,Online,0,366407191,0,6885,255.28,159.42
+2048,Sub-Saharan Africa,Mali,Snacks,Online,2011-04-15 00:00:00,114210450,0,6265,152.58,97.44
+2055,Sub-Saharan Africa,Guinea-Bissau,Cosmetics,Offline,2016-07-17 00:00:00,835637557,0,2578,437.2,263.33
+2058,Sub-Saharan Africa,Mozambique,Cereal,Online,0,670534932,2013-06-01 00:00:00,5042,205.7,117.11
+2059,Sub-Saharan Africa,Mauritius ,Baby Food,Offline,2017-01-24 00:00:00,320105826,0,5282,255.28,159.42
+2060,Sub-Saharan Africa,Chad,Baby Food,Online,2016-09-26 00:00:00,278571069,0,4225,255.28,159.42
+2075,Sub-Saharan Africa,Chad,Clothes,Online,2011-12-18 00:00:00,374824607,0,7785,109.28,35.84
+2076,Sub-Saharan Africa,Togo,Office Supplies,Online,0,469740045,0,5373,651.21,524.96
+2083,Sub-Saharan Africa,Burkina Faso,Cosmetics,Online,2013-04-30 00:00:00,806041419,2013-06-05 00:00:00,4423,437.2,263.33
+2085,Sub-Saharan Africa,Mozambique,Personal Care,Offline,2012-05-28 00:00:00,829937541,0,5816,81.73,56.67
+2087,Sub-Saharan Africa,Republic of the Congo,Cosmetics,Online,0,546051681,0,7682,437.2,263.33
+2089,Sub-Saharan Africa,Guinea,Cosmetics,Offline,2017-04-27 00:00:00,436024463,0,8183,437.2,263.33
+2091,Sub-Saharan Africa,Angola,Household,Online,2017-04-20 00:00:00,306496512,2017-05-06 00:00:00,7984,668.27,502.54
+2092,Sub-Saharan Africa,Kenya,Beverages,Online,2017-02-25 00:00:00,650362145,2017-04-02 00:00:00,5466,47.45,31.79
+2097,Sub-Saharan Africa,Togo,Office Supplies,Offline,2011-12-15 00:00:00,342314517,2012-01-06 00:00:00,7327,651.21,524.96
+2099,Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,2010-08-20 00:00:00,901189887,2010-09-03 00:00:00,969,255.28,159.42
+2101,Sub-Saharan Africa,Togo,Office Supplies,Offline,2015-05-25 00:00:00,248767650,0,4731,651.21,524.96
+2102,Sub-Saharan Africa,Sudan,Personal Care,Online,2013-04-30 00:00:00,517074811,2013-05-07 00:00:00,2782,81.73,56.67
+2105,Sub-Saharan Africa,Equatorial Guinea,Household,Offline,2014-05-27 00:00:00,161592853,2014-07-03 00:00:00,7771,668.27,502.54
+2107,Sub-Saharan Africa,Burundi,Snacks,Online,2010-05-13 00:00:00,115121543,0,5878,152.58,97.44
+2109,Sub-Saharan Africa,Mali,Office Supplies,Offline,0,333915126,0,1761,651.21,524.96
+2112,Sub-Saharan Africa,Zambia,Office Supplies,Online,2014-01-15 00:00:00,172245728,0,194,651.21,524.96
+2119,Sub-Saharan Africa,Zimbabwe,Beverages,Offline,2012-05-15 00:00:00,664278304,0,3567,47.45,31.79
+2123,Sub-Saharan Africa,Guinea-Bissau,Cosmetics,Online,2013-11-14 00:00:00,700699698,0,1467,437.2,263.33
+2128,Sub-Saharan Africa,Zimbabwe,Vegetables,Online,0,610387361,0,6039,154.06,90.93
+2138,Sub-Saharan Africa,Benin,Vegetables,Offline,0,247815358,2012-01-08 00:00:00,2926,154.06,90.93
+2141,Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Offline,2014-05-13 00:00:00,929387843,0,5371,154.06,90.93
+2143,Sub-Saharan Africa,Burundi,Office Supplies,Offline,2010-10-22 00:00:00,823700225,0,56,651.21,524.96
+2150,Sub-Saharan Africa,Rwanda,Office Supplies,Online,0,680571973,2011-05-05 00:00:00,5225,651.21,524.96
+2159,Sub-Saharan Africa,Djibouti,Personal Care,Online,0,738672912,2013-10-10 00:00:00,8584,81.73,56.67
+2168,Sub-Saharan Africa,The Gambia,Office Supplies,Offline,0,815848863,0,6663,651.21,524.96
+2169,Sub-Saharan Africa,Guinea,Cereal,Online,2012-06-29 00:00:00,983397662,0,8076,205.7,117.11
+2170,Sub-Saharan Africa,Tanzania,Household,Offline,0,769899404,0,9197,668.27,502.54
+2173,Sub-Saharan Africa,Uganda,Cereal,Offline,2016-10-18 00:00:00,132673060,0,9762,205.7,117.11
+2174,Sub-Saharan Africa,South Sudan,Cereal,Online,0,586099851,0,8825,205.7,117.11
+2178,Sub-Saharan Africa,Cote d'Ivoire,Snacks,Online,0,865703618,0,9793,152.58,97.44
+2182,Sub-Saharan Africa,Senegal,Cosmetics,Online,2016-12-28 00:00:00,961835706,2017-02-08 00:00:00,7414,437.2,263.33
+2184,Sub-Saharan Africa,Burundi,Baby Food,Offline,2014-05-24 00:00:00,767076432,2014-06-03 00:00:00,3817,255.28,159.42
+2185,Sub-Saharan Africa,Mauritius ,Snacks,Online,2014-06-16 00:00:00,768731677,0,3641,152.58,97.44
+2186,Sub-Saharan Africa,Botswana,Vegetables,Offline,0,227621114,0,7001,154.06,90.93
+2187,Sub-Saharan Africa,Liberia,Personal Care,Offline,2011-02-23 00:00:00,912543570,0,776,81.73,56.67
+2192,Sub-Saharan Africa,Rwanda,Office Supplies,Offline,2014-05-14 00:00:00,457485139,0,8874,651.21,524.96
+2193,Sub-Saharan Africa,Togo,Beverages,Offline,2015-10-21 00:00:00,980881106,0,3372,47.45,31.79
+2195,Sub-Saharan Africa,Eritrea,Baby Food,Offline,2016-11-15 00:00:00,688096320,0,1847,255.28,159.42
+2196,Sub-Saharan Africa,Guinea,Vegetables,Offline,0,554825723,0,4116,154.06,90.93
+2199,Sub-Saharan Africa,Niger,Cosmetics,Offline,2011-02-17 00:00:00,381524550,0,448,437.2,263.33
+2200,Sub-Saharan Africa,Malawi,Fruits,Online,0,257757127,2011-07-06 00:00:00,4917,9.33,6.92
+2201,Sub-Saharan Africa,Burundi,Baby Food,Online,2017-05-24 00:00:00,206018817,2017-07-08 00:00:00,4401,255.28,159.42
+2202,Sub-Saharan Africa,Swaziland,Vegetables,Offline,2012-01-18 00:00:00,349795949,0,1249,154.06,90.93
+2208,Sub-Saharan Africa,Malawi,Cosmetics,Offline,0,392892396,0,4446,437.2,263.33
+2210,Sub-Saharan Africa,Angola,Vegetables,Offline,2010-11-29 00:00:00,660053288,2010-12-02 00:00:00,3291,154.06,90.93
+2219,Sub-Saharan Africa,Central African Republic,Meat,Offline,0,730184257,0,6603,421.89,364.69
+2220,Sub-Saharan Africa,The Gambia,Meat,Online,0,815651452,0,8245,421.89,364.69
+2222,Sub-Saharan Africa,Madagascar,Snacks,Offline,2015-01-29 00:00:00,719714200,2015-03-06 00:00:00,8280,152.58,97.44
+2225,Sub-Saharan Africa,The Gambia,Household,Online,0,509361636,0,282,668.27,502.54
+2226,Sub-Saharan Africa,Liberia,Baby Food,Offline,2016-09-15 00:00:00,203907811,0,9707,255.28,159.42
+2229,Sub-Saharan Africa,Tanzania,Cereal,Offline,2013-11-18 00:00:00,169721019,2013-12-03 00:00:00,3076,205.7,117.11
+2233,Sub-Saharan Africa,Seychelles ,Clothes,Online,2011-01-21 00:00:00,736452472,2011-03-07 00:00:00,1507,109.28,35.84
+2236,Sub-Saharan Africa,Sierra Leone,Household,Online,0,901351678,2012-12-04 00:00:00,8846,668.27,502.54
+2241,Sub-Saharan Africa,Zimbabwe,Clothes,Online,2011-12-22 00:00:00,201531589,2012-01-09 00:00:00,6530,109.28,35.84
+2245,Sub-Saharan Africa,Mauritius ,Office Supplies,Offline,2014-04-20 00:00:00,506129252,0,3748,651.21,524.96
+2251,Sub-Saharan Africa,South Africa,Cosmetics,Online,2016-06-20 00:00:00,955637443,2016-08-09 00:00:00,3210,437.2,263.33
+2252,Sub-Saharan Africa,Benin,Beverages,Online,0,976505029,0,8393,47.45,31.79
+2254,Sub-Saharan Africa,Lesotho,Meat,Offline,0,681056058,2011-08-11 00:00:00,8477,421.89,364.69
+2256,Sub-Saharan Africa,Niger,Clothes,Offline,0,135832917,0,4834,109.28,35.84
+2257,Sub-Saharan Africa,Swaziland,Fruits,Offline,2012-08-25 00:00:00,445654666,2012-10-11 00:00:00,7974,9.33,6.92
+2273,Sub-Saharan Africa,Burkina Faso,Cosmetics,Online,2014-04-21 00:00:00,341730868,0,4613,437.2,263.33
+2274,Sub-Saharan Africa,Namibia,Cosmetics,Online,0,122190129,0,7629,437.2,263.33
+2276,Sub-Saharan Africa,Liberia,Meat,Offline,2015-03-21 00:00:00,731959664,0,1985,421.89,364.69
+2279,Sub-Saharan Africa,Zimbabwe,Snacks,Online,0,172598922,0,4711,152.58,97.44
+2290,Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,Online,0,523857152,2013-10-09 00:00:00,9827,437.2,263.33
+2302,Sub-Saharan Africa,Mozambique,Personal Care,Online,2013-03-23 00:00:00,431467282,2013-05-04 00:00:00,9612,81.73,56.67
+2303,Sub-Saharan Africa,Botswana,Fruits,Offline,2013-04-20 00:00:00,286317718,0,6630,9.33,6.92
+2305,Sub-Saharan Africa,Comoros,Office Supplies,Offline,2012-12-17 00:00:00,889742648,0,3476,651.21,524.96
+2309,Sub-Saharan Africa,Burkina Faso,Vegetables,Online,0,171293437,2010-08-12 00:00:00,8389,154.06,90.93
+2311,Sub-Saharan Africa,Comoros,Vegetables,Online,0,937700545,0,5284,154.06,90.93
+2314,Sub-Saharan Africa,Guinea,Vegetables,Offline,2014-04-28 00:00:00,909707295,0,1459,154.06,90.93
+2316,Sub-Saharan Africa,Kenya,Personal Care,Online,2015-10-23 00:00:00,271649682,2015-12-04 00:00:00,6032,81.73,56.67
+2317,Sub-Saharan Africa,Swaziland,Fruits,Online,2017-05-16 00:00:00,694136226,0,9189,9.33,6.92
+2320,Sub-Saharan Africa,Swaziland,Fruits,Online,2014-11-28 00:00:00,545430696,2014-12-02 00:00:00,3918,9.33,6.92
+2322,Sub-Saharan Africa,Nigeria,Cosmetics,Online,0,620550572,2012-06-05 00:00:00,3559,437.2,263.33
+2324,Sub-Saharan Africa,Central African Republic,Clothes,Online,2011-05-29 00:00:00,171677529,2011-07-05 00:00:00,2051,109.28,35.84
+2333,Sub-Saharan Africa,Malawi,Personal Care,Offline,2011-10-19 00:00:00,466286647,0,3436,81.73,56.67
+2335,Sub-Saharan Africa,Botswana,Office Supplies,Offline,2014-11-29 00:00:00,682278716,2015-01-01 00:00:00,289,651.21,524.96
+2343,Sub-Saharan Africa,Guinea-Bissau,Clothes,Offline,2014-09-28 00:00:00,310614669,0,6638,109.28,35.84
+2346,Sub-Saharan Africa,Chad,Clothes,Online,0,749760091,0,9527,109.28,35.84
+2353,Sub-Saharan Africa,South Africa,Household,Offline,2014-06-27 00:00:00,901408755,2014-08-01 00:00:00,5737,668.27,502.54
+2354,Sub-Saharan Africa,Republic of the Congo,Meat,Online,2011-02-15 00:00:00,675056493,0,3072,421.89,364.69
+2355,Sub-Saharan Africa,Guinea,Beverages,Offline,0,989190375,2017-01-10 00:00:00,2269,47.45,31.79
+2370,Sub-Saharan Africa,Mauritius ,Cosmetics,Online,2015-04-18 00:00:00,798989140,2015-06-04 00:00:00,7497,437.2,263.33
+2372,Sub-Saharan Africa,Namibia,Household,Online,0,416473519,0,2624,668.27,502.54
+2376,Sub-Saharan Africa,Central African Republic,Cereal,Online,2011-12-15 00:00:00,259151017,2012-01-09 00:00:00,7400,205.7,117.11
+2383,Sub-Saharan Africa,Zambia,Vegetables,Online,2010-06-14 00:00:00,578368651,0,991,154.06,90.93
+2390,Sub-Saharan Africa,Eritrea,Cosmetics,Online,2010-08-31 00:00:00,749229657,2010-10-08 00:00:00,2560,437.2,263.33
+2393,Sub-Saharan Africa,Ethiopia,Fruits,Online,2015-03-19 00:00:00,505808246,2015-04-12 00:00:00,8755,9.33,6.92
+2407,Sub-Saharan Africa,Cape Verde,Snacks,Online,0,279880416,0,1689,152.58,97.44
+2408,Sub-Saharan Africa,Republic of the Congo,Snacks,Online,2010-09-13 00:00:00,326840531,2010-10-10 00:00:00,8231,152.58,97.44
+2410,Sub-Saharan Africa,Sudan,Household,Offline,2012-10-29 00:00:00,303303182,2012-11-06 00:00:00,3006,668.27,502.54
+2411,Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Online,2014-10-21 00:00:00,100090873,0,7968,81.73,56.67
+2412,Sub-Saharan Africa,Cape Verde,Vegetables,Offline,0,247960412,2012-10-11 00:00:00,5851,154.06,90.93
+2416,Sub-Saharan Africa,Republic of the Congo,Clothes,Offline,2010-11-17 00:00:00,843421113,0,5905,109.28,35.84
+2418,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,2016-08-13 00:00:00,657505834,0,9442,255.28,159.42
+2421,Sub-Saharan Africa,Senegal,Baby Food,Offline,2015-02-28 00:00:00,135526072,0,4031,255.28,159.42
+2436,Sub-Saharan Africa,Cameroon,Personal Care,Online,2011-02-13 00:00:00,295211923,0,8623,81.73,56.67
+2446,Sub-Saharan Africa,Lesotho,Meat,Offline,0,463169705,0,1063,421.89,364.69
+2452,Sub-Saharan Africa,South Sudan,Baby Food,Offline,0,913529336,0,2486,255.28,159.42
+2456,Sub-Saharan Africa,Burkina Faso,Fruits,Online,2014-09-20 00:00:00,574273240,0,9068,9.33,6.92
+2465,Sub-Saharan Africa,Niger,Household,Offline,2011-10-29 00:00:00,746989047,0,9514,668.27,502.54
+2466,Sub-Saharan Africa,Central African Republic,Snacks,Online,2016-04-24 00:00:00,196100652,0,9395,152.58,97.44
+2467,Sub-Saharan Africa,Eritrea,Office Supplies,Online,0,628667151,0,5435,651.21,524.96
+2468,Sub-Saharan Africa,Ghana,Meat,Offline,2016-09-17 00:00:00,621299874,2016-10-08 00:00:00,5294,421.89,364.69
+2471,Sub-Saharan Africa,Burkina Faso,Cosmetics,Online,2011-02-16 00:00:00,980396163,0,9866,437.2,263.33
+2479,Sub-Saharan Africa,Cameroon,Cosmetics,Online,2014-08-19 00:00:00,198282897,0,5170,437.2,263.33
+2482,Sub-Saharan Africa,Tanzania,Household,Online,0,471205174,0,8937,668.27,502.54
+2486,Sub-Saharan Africa,Mali,Office Supplies,Online,2011-11-28 00:00:00,967239606,2012-01-09 00:00:00,6548,651.21,524.96
+2489,Sub-Saharan Africa,Sierra Leone,Cosmetics,Online,2010-01-15 00:00:00,761171710,2010-03-03 00:00:00,6479,437.2,263.33
+2494,Sub-Saharan Africa,Republic of the Congo,Vegetables,Online,2011-01-13 00:00:00,733893430,2011-02-03 00:00:00,4229,154.06,90.93
+2496,Sub-Saharan Africa,Niger,Fruits,Online,2010-03-23 00:00:00,576707398,0,9390,9.33,6.92
+2506,Sub-Saharan Africa,Sudan,Household,Offline,2012-05-26 00:00:00,217211568,2012-06-07 00:00:00,6585,668.27,502.54
+2507,Sub-Saharan Africa,Mozambique,Office Supplies,Online,2012-03-13 00:00:00,340512931,0,4198,651.21,524.96
+2509,Sub-Saharan Africa,Djibouti,Snacks,Offline,0,188847529,0,3035,152.58,97.44
+2526,Sub-Saharan Africa,Republic of the Congo,Baby Food,Online,0,786641538,2012-06-01 00:00:00,3567,255.28,159.42
+2535,Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Offline,0,612161910,0,1168,81.73,56.67
+2543,Sub-Saharan Africa,Sierra Leone,Cereal,Online,2011-09-14 00:00:00,483954894,0,1863,205.7,117.11
+2550,Sub-Saharan Africa,Burundi,Vegetables,Offline,2010-10-21 00:00:00,601642072,0,8114,154.06,90.93
+2551,Sub-Saharan Africa,Togo,Fruits,Offline,2015-01-14 00:00:00,662486159,0,3231,9.33,6.92
+2552,Sub-Saharan Africa,Ghana,Meat,Online,2012-03-13 00:00:00,334373033,0,7266,421.89,364.69
+2557,Sub-Saharan Africa,Mauritania,Snacks,Online,0,781470668,2017-05-10 00:00:00,3391,152.58,97.44
+2563,Sub-Saharan Africa,Equatorial Guinea,Beverages,Online,0,535104835,0,8267,47.45,31.79
+2565,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Online,0,744450175,0,8205,47.45,31.79
+2566,Sub-Saharan Africa,Gabon,Beverages,Offline,2011-07-20 00:00:00,146375501,0,4618,47.45,31.79
+2569,Sub-Saharan Africa,Zimbabwe,Fruits,Online,2013-08-22 00:00:00,102685534,0,5786,9.33,6.92
+2570,Sub-Saharan Africa,Republic of the Congo,Meat,Offline,2015-03-25 00:00:00,248879659,0,7877,421.89,364.69
+2572,Sub-Saharan Africa,Seychelles ,Fruits,Online,2014-11-18 00:00:00,264728295,2015-01-07 00:00:00,7840,9.33,6.92
+2574,Sub-Saharan Africa,Ghana,Cosmetics,Offline,0,674162137,2013-09-12 00:00:00,8413,437.2,263.33
+2575,Sub-Saharan Africa,Senegal,Fruits,Online,0,788509643,2016-03-03 00:00:00,6381,9.33,6.92
+2576,Sub-Saharan Africa,Equatorial Guinea,Cosmetics,Online,0,496321809,0,1507,437.2,263.33
+2577,Sub-Saharan Africa,Madagascar,Household,Online,2011-07-23 00:00:00,638272464,2011-09-09 00:00:00,7861,668.27,502.54
+2582,Sub-Saharan Africa,Ghana,Vegetables,Offline,2014-03-20 00:00:00,805562055,0,2568,154.06,90.93
+2593,Sub-Saharan Africa,Zambia,Personal Care,Offline,0,773411166,0,8406,81.73,56.67
+2596,Sub-Saharan Africa,Cote d'Ivoire,Cereal,Offline,2017-07-20 00:00:00,603776681,0,9792,205.7,117.11
+2598,Sub-Saharan Africa,Democratic Republic of the Congo,Meat,Online,2011-03-26 00:00:00,779201734,2011-05-10 00:00:00,1963,421.89,364.69
+2599,Sub-Saharan Africa,Niger,Fruits,Offline,2016-12-24 00:00:00,975177657,2017-01-05 00:00:00,5594,9.33,6.92
+2600,Sub-Saharan Africa,Swaziland,Office Supplies,Online,2013-03-24 00:00:00,747040116,0,4626,651.21,524.96
+2602,Sub-Saharan Africa,Kenya,Office Supplies,Online,2013-01-13 00:00:00,651432454,2013-02-12 00:00:00,2194,651.21,524.96
+2605,Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Offline,0,491671931,0,5505,651.21,524.96
+2609,Sub-Saharan Africa,Rwanda,Baby Food,Offline,0,560502994,0,4146,255.28,159.42
+2612,Sub-Saharan Africa,Namibia,Fruits,Offline,0,216625344,0,3108,9.33,6.92
+2617,Sub-Saharan Africa,Eritrea,Office Supplies,Online,2012-05-15 00:00:00,211031329,0,7715,651.21,524.96
+2620,Sub-Saharan Africa,Tanzania,Snacks,Offline,2010-10-26 00:00:00,694094598,0,6871,152.58,97.44
+2629,Sub-Saharan Africa,Tanzania,Clothes,Offline,0,465864360,0,8471,109.28,35.84
+2635,Sub-Saharan Africa,Botswana,Personal Care,Online,2012-11-25 00:00:00,370450675,2012-12-01 00:00:00,3442,81.73,56.67
+2645,Sub-Saharan Africa,Djibouti,Snacks,Offline,2012-07-28 00:00:00,651100718,0,4026,152.58,97.44
+2647,Sub-Saharan Africa,Seychelles ,Household,Online,0,630447280,2010-09-04 00:00:00,2215,668.27,502.54
+2648,Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Offline,2010-09-27 00:00:00,614785325,0,7494,651.21,524.96
+2661,Sub-Saharan Africa,South Sudan,Snacks,Offline,2015-08-26 00:00:00,938290202,0,9777,152.58,97.44
+2673,Sub-Saharan Africa,Ethiopia,Baby Food,Offline,0,728401553,0,9061,255.28,159.42
+2675,Sub-Saharan Africa,Ethiopia,Personal Care,Online,2014-10-24 00:00:00,677315986,2014-12-04 00:00:00,1706,81.73,56.67
+2679,Sub-Saharan Africa,Comoros,Vegetables,Online,0,235392653,2014-07-08 00:00:00,6772,154.06,90.93
+2682,Sub-Saharan Africa,Angola,Household,Online,2012-10-19 00:00:00,685744130,0,5782,668.27,502.54
+2683,Sub-Saharan Africa,Comoros,Baby Food,Offline,0,376403892,0,5131,255.28,159.42
+2689,Sub-Saharan Africa,Ghana,Household,Online,0,575259006,0,778,668.27,502.54
+2692,Sub-Saharan Africa,Djibouti,Cereal,Offline,2013-09-28 00:00:00,822665536,0,3868,205.7,117.11
+2700,Sub-Saharan Africa,Guinea-Bissau,Household,Offline,0,598767602,0,7494,668.27,502.54
+2710,Sub-Saharan Africa,Ghana,Baby Food,Offline,2013-11-25 00:00:00,299366986,2014-01-10 00:00:00,8199,255.28,159.42
+2711,Sub-Saharan Africa,Namibia,Snacks,Online,2014-08-30 00:00:00,248150527,2014-10-12 00:00:00,2110,152.58,97.44
+2714,Sub-Saharan Africa,Uganda,Cereal,Online,2014-10-22 00:00:00,490640676,0,334,205.7,117.11
+2715,Sub-Saharan Africa,Equatorial Guinea,Fruits,Online,2010-01-17 00:00:00,665138328,0,8067,9.33,6.92
+2718,Sub-Saharan Africa,Ghana,Cosmetics,Offline,2015-02-15 00:00:00,217192685,0,997,437.2,263.33
+2722,Sub-Saharan Africa,Eritrea,Fruits,Offline,2014-02-22 00:00:00,632148015,0,5500,9.33,6.92
+2730,Sub-Saharan Africa,Cameroon,Snacks,Online,0,939768636,2013-02-10 00:00:00,7278,152.58,97.44
+2735,Sub-Saharan Africa,Kenya,Snacks,Online,2013-04-27 00:00:00,328470885,2013-06-12 00:00:00,689,152.58,97.44
+2736,Sub-Saharan Africa,Tanzania,Baby Food,Offline,2012-09-15 00:00:00,894535005,2012-10-03 00:00:00,1641,255.28,159.42
+2737,Sub-Saharan Africa,Comoros,Fruits,Online,0,727550113,0,7101,9.33,6.92
+2742,Sub-Saharan Africa,Burkina Faso,Office Supplies,Online,0,292349469,2010-05-11 00:00:00,1559,651.21,524.96
+2745,Sub-Saharan Africa,South Africa,Meat,Offline,0,785890948,0,1451,421.89,364.69
+2746,Sub-Saharan Africa,Zimbabwe,Snacks,Online,0,253349721,2017-01-06 00:00:00,667,152.58,97.44
+2751,Sub-Saharan Africa,Lesotho,Baby Food,Online,2012-07-17 00:00:00,640709197,0,8944,255.28,159.42
+2754,Sub-Saharan Africa,Cape Verde,Snacks,Offline,2010-08-14 00:00:00,609310185,0,7279,152.58,97.44
+2755,Sub-Saharan Africa,Tanzania,Office Supplies,Offline,2015-08-21 00:00:00,558917701,0,5023,651.21,524.96
+2756,Sub-Saharan Africa,Togo,Beverages,Online,2011-10-17 00:00:00,757653939,2011-11-04 00:00:00,5492,47.45,31.79
+2759,Sub-Saharan Africa,Gabon,Beverages,Online,2011-10-24 00:00:00,469435775,2011-12-02 00:00:00,5333,47.45,31.79
+2763,Sub-Saharan Africa,Guinea-Bissau,Personal Care,Online,0,625388419,0,5186,81.73,56.67
+2766,Sub-Saharan Africa,Chad,Baby Food,Online,0,625025784,2017-07-04 00:00:00,7874,255.28,159.42
+2770,Sub-Saharan Africa,Namibia,Personal Care,Offline,2013-08-20 00:00:00,244570958,0,2836,81.73,56.67
+2773,Sub-Saharan Africa,Lesotho,Household,Online,2011-07-13 00:00:00,403304088,2011-08-09 00:00:00,5497,668.27,502.54
+2775,Sub-Saharan Africa,Seychelles ,Vegetables,Online,2011-07-21 00:00:00,597103774,2011-08-01 00:00:00,5131,154.06,90.93
+2778,Sub-Saharan Africa,Cameroon,Snacks,Offline,0,873871266,0,6782,152.58,97.44
+2781,Sub-Saharan Africa,Niger,Cereal,Offline,2017-04-29 00:00:00,379467189,2017-06-09 00:00:00,1629,205.7,117.11
+2784,Sub-Saharan Africa,South Sudan,Meat,Offline,0,943334901,2014-11-03 00:00:00,2615,421.89,364.69
+2798,Sub-Saharan Africa,Comoros,Household,Online,2015-12-19 00:00:00,769180142,2016-01-04 00:00:00,6352,668.27,502.54
+2801,Sub-Saharan Africa,Djibouti,Household,Offline,2010-08-22 00:00:00,557948672,0,8266,668.27,502.54
+2806,Sub-Saharan Africa,Madagascar,Cereal,Online,2011-02-13 00:00:00,151751935,0,5625,205.7,117.11
+2807,Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,0,933299148,0,2813,9.33,6.92
+2818,Sub-Saharan Africa,Swaziland,Clothes,Online,0,437072026,0,8180,109.28,35.84
+2821,Sub-Saharan Africa,Kenya,Office Supplies,Offline,2013-01-18 00:00:00,417606914,0,8021,651.21,524.96
+2826,Sub-Saharan Africa,Angola,Clothes,Online,2016-02-19 00:00:00,488052022,0,4294,109.28,35.84
+2834,Sub-Saharan Africa,Liberia,Clothes,Online,2014-08-18 00:00:00,930145299,0,9519,109.28,35.84
+2835,Sub-Saharan Africa,Central African Republic,Fruits,Offline,2012-06-20 00:00:00,964347541,0,722,9.33,6.92
+2841,Sub-Saharan Africa,Gabon,Household,Offline,2011-07-17 00:00:00,999066913,0,4956,668.27,502.54
+2846,Sub-Saharan Africa,Guinea-Bissau,Snacks,Online,2016-10-27 00:00:00,793810117,2016-11-03 00:00:00,4909,152.58,97.44
+2847,Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Offline,0,380154693,0,5076,154.06,90.93
+2849,Sub-Saharan Africa,Mozambique,Household,Online,2012-01-28 00:00:00,601255404,0,3690,668.27,502.54
+2855,Sub-Saharan Africa,Tanzania,Snacks,Online,2011-08-24 00:00:00,739740645,2011-09-01 00:00:00,4551,152.58,97.44
+2858,Sub-Saharan Africa,Sao Tome and Principe,Baby Food,Online,2014-11-21 00:00:00,553104817,0,4862,255.28,159.42
+2863,Sub-Saharan Africa,Central African Republic,Vegetables,Offline,2011-09-20 00:00:00,281064879,0,2199,154.06,90.93
+2865,Sub-Saharan Africa,Mauritius ,Fruits,Offline,2011-12-25 00:00:00,219597232,2012-01-05 00:00:00,2556,9.33,6.92
+2875,Sub-Saharan Africa,Rwanda,Office Supplies,Online,2015-01-25 00:00:00,125998008,2015-02-03 00:00:00,4465,651.21,524.96
+2886,Sub-Saharan Africa,Sudan,Baby Food,Online,2013-09-19 00:00:00,976200330,0,8226,255.28,159.42
+2888,Sub-Saharan Africa,Namibia,Fruits,Offline,2013-08-25 00:00:00,779683244,0,4453,9.33,6.92
+2890,Sub-Saharan Africa,Malawi,Meat,Offline,0,575970113,0,1211,421.89,364.69
+2898,Sub-Saharan Africa,Mauritius ,Fruits,Offline,0,546969640,2016-03-10 00:00:00,9326,9.33,6.92
+2902,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,2016-12-22 00:00:00,524449384,0,5082,47.45,31.79
+2908,Sub-Saharan Africa,Ghana,Meat,Offline,2014-09-29 00:00:00,376933038,0,1717,421.89,364.69
+2913,Sub-Saharan Africa,Chad,Household,Online,2017-07-24 00:00:00,586341464,0,324,668.27,502.54
+2923,Sub-Saharan Africa,South Africa,Clothes,Online,2015-09-25 00:00:00,894841849,2015-10-08 00:00:00,2443,109.28,35.84
+2931,Sub-Saharan Africa,Senegal,Fruits,Online,0,990316474,0,5507,9.33,6.92
+2933,Sub-Saharan Africa,Niger,Household,Offline,0,719339549,0,7413,668.27,502.54
+2948,Sub-Saharan Africa,Kenya,Personal Care,Offline,0,450119149,2016-07-01 00:00:00,9114,81.73,56.67
+2949,Sub-Saharan Africa,Burkina Faso,Snacks,Online,0,141685283,2014-09-12 00:00:00,6679,152.58,97.44
+2950,Sub-Saharan Africa,Togo,Office Supplies,Online,2015-07-28 00:00:00,455915296,2015-09-11 00:00:00,4322,651.21,524.96
+2955,Sub-Saharan Africa,Tanzania,Baby Food,Online,2015-05-17 00:00:00,192170035,2015-06-05 00:00:00,6239,255.28,159.42
+2960,Sub-Saharan Africa,South Sudan,Household,Offline,2015-09-22 00:00:00,760158479,0,6641,668.27,502.54
+2962,Sub-Saharan Africa,Uganda,Snacks,Offline,2010-06-20 00:00:00,895043981,0,2259,152.58,97.44
+2965,Sub-Saharan Africa,Nigeria,Snacks,Online,2017-04-22 00:00:00,565984141,0,6140,152.58,97.44
+2973,Sub-Saharan Africa,Liberia,Baby Food,Online,2013-10-24 00:00:00,253865993,2013-12-04 00:00:00,3444,255.28,159.42
+2978,Sub-Saharan Africa,Kenya,Clothes,Offline,2011-12-23 00:00:00,168195378,0,1605,109.28,35.84
+2983,Sub-Saharan Africa,Madagascar,Fruits,Offline,0,509522140,0,7779,9.33,6.92
+2988,Sub-Saharan Africa,South Africa,Baby Food,Offline,0,232387292,2016-05-07 00:00:00,7419,255.28,159.42
+2989,Sub-Saharan Africa,Burkina Faso,Fruits,Offline,0,606094539,2014-03-10 00:00:00,5698,9.33,6.92
+2990,Sub-Saharan Africa,Mali,Baby Food,Offline,2017-03-16 00:00:00,748168790,2017-05-05 00:00:00,8626,255.28,159.42
+2991,Sub-Saharan Africa,Sierra Leone,Meat,Offline,0,458658874,2012-02-03 00:00:00,6208,421.89,364.69
+2996,Sub-Saharan Africa,Mali,Cosmetics,Offline,0,360930764,0,6289,437.2,263.33
+2999,Sub-Saharan Africa,Niger,Office Supplies,Online,2010-01-29 00:00:00,714533889,2010-02-07 00:00:00,5311,651.21,524.96
+3001,Sub-Saharan Africa,South Sudan,Beverages,Offline,2015-07-31 00:00:00,810610187,0,6423,47.45,31.79
+3003,Sub-Saharan Africa,Zimbabwe,Vegetables,Online,2013-08-23 00:00:00,915310752,0,9647,154.06,90.93
+3005,Sub-Saharan Africa,South Sudan,Office Supplies,Online,0,160276210,0,8147,651.21,524.96
+3008,Sub-Saharan Africa,Tanzania,Fruits,Online,2011-06-13 00:00:00,365989625,2011-07-02 00:00:00,3318,9.33,6.92
+3010,Sub-Saharan Africa,Senegal,Household,Online,2016-12-20 00:00:00,707857549,0,9634,668.27,502.54
+3019,Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,2011-03-26 00:00:00,910263907,0,6173,152.58,97.44
+3025,Sub-Saharan Africa,Burundi,Clothes,Offline,2011-09-25 00:00:00,660437381,0,6952,109.28,35.84
+3033,Sub-Saharan Africa,Central African Republic,Personal Care,Online,2015-12-27 00:00:00,736356341,0,3060,81.73,56.67
+3036,Sub-Saharan Africa,Niger,Vegetables,Offline,0,739097344,0,4183,154.06,90.93
+3038,Sub-Saharan Africa,The Gambia,Snacks,Online,2011-07-23 00:00:00,393111264,0,9214,152.58,97.44
+3039,Sub-Saharan Africa,Kenya,Meat,Online,0,969983184,0,8434,421.89,364.69
+3041,Sub-Saharan Africa,Angola,Fruits,Offline,2014-10-21 00:00:00,950263583,0,2966,9.33,6.92
+3042,Sub-Saharan Africa,Central African Republic,Snacks,Offline,0,305332219,2014-07-12 00:00:00,3444,152.58,97.44
+3046,Sub-Saharan Africa,Angola,Clothes,Online,0,709081494,0,1826,109.28,35.84
+3048,Sub-Saharan Africa,Mauritania,Personal Care,Offline,2010-06-14 00:00:00,921255815,0,8923,81.73,56.67
+3049,Sub-Saharan Africa,Niger,Meat,Online,2010-01-29 00:00:00,627159106,2010-03-09 00:00:00,9171,421.89,364.69
+3058,Sub-Saharan Africa,Kenya,Office Supplies,Offline,0,200749242,0,5017,651.21,524.96
+3059,Sub-Saharan Africa,Kenya,Clothes,Offline,2011-02-17 00:00:00,134316718,0,6157,109.28,35.84
+3062,Sub-Saharan Africa,Zimbabwe,Snacks,Offline,0,601861798,0,3136,152.58,97.44
+3065,Sub-Saharan Africa,Lesotho,Baby Food,Online,2012-09-21 00:00:00,169914996,0,478,255.28,159.42
+3069,Sub-Saharan Africa,Sao Tome and Principe,Clothes,Offline,0,296534144,0,9898,109.28,35.84
+3070,Sub-Saharan Africa,Guinea,Personal Care,Online,2014-11-17 00:00:00,628671872,0,6832,81.73,56.67
+3071,Sub-Saharan Africa,Sudan,Baby Food,Online,2016-06-19 00:00:00,845631682,0,61,255.28,159.42
+3076,Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,2016-09-23 00:00:00,601345956,0,486,255.28,159.42
+3077,Sub-Saharan Africa,Namibia,Beverages,Offline,2010-06-30 00:00:00,990763652,2010-08-12 00:00:00,7836,47.45,31.79
+3080,Sub-Saharan Africa,Uganda,Meat,Offline,0,103007829,0,1160,421.89,364.69
+3087,Sub-Saharan Africa,Lesotho,Clothes,Offline,2011-07-30 00:00:00,823885619,2011-09-02 00:00:00,4918,109.28,35.84
+3096,Sub-Saharan Africa,Equatorial Guinea,Snacks,Online,2010-06-13 00:00:00,803063523,0,3197,152.58,97.44
+3099,Sub-Saharan Africa,The Gambia,Vegetables,Offline,0,839326560,2011-12-12 00:00:00,4236,154.06,90.93
+3101,Sub-Saharan Africa,Equatorial Guinea,Meat,Offline,0,526381862,0,6945,421.89,364.69
+3105,Sub-Saharan Africa,Djibouti,Snacks,Offline,2014-02-19 00:00:00,429099643,2014-03-04 00:00:00,8975,152.58,97.44
+3106,Sub-Saharan Africa,Burkina Faso,Cosmetics,Offline,0,273719060,0,8407,437.2,263.33
+3107,Sub-Saharan Africa,Sao Tome and Principe,Cosmetics,Offline,2014-03-27 00:00:00,933043372,2014-05-06 00:00:00,7123,437.2,263.33
+3112,Sub-Saharan Africa,Ghana,Clothes,Offline,0,142572343,2013-03-02 00:00:00,9179,109.28,35.84
+3118,Sub-Saharan Africa,Sao Tome and Principe,Snacks,Online,0,790411221,0,9100,152.58,97.44
+3121,Sub-Saharan Africa,Liberia,Personal Care,Offline,0,778691470,2014-08-01 00:00:00,965,81.73,56.67
+3125,Sub-Saharan Africa,Senegal,Clothes,Online,0,516394603,2010-12-09 00:00:00,1493,109.28,35.84
+3129,Sub-Saharan Africa,Gabon,Fruits,Online,0,260469806,0,7659,9.33,6.92
+3130,Sub-Saharan Africa,Equatorial Guinea,Vegetables,Online,2013-10-18 00:00:00,415233266,0,5606,154.06,90.93
+3133,Sub-Saharan Africa,Swaziland,Cosmetics,Online,2012-03-31 00:00:00,264042079,2012-05-01 00:00:00,4774,437.2,263.33
+3135,Sub-Saharan Africa,Swaziland,Vegetables,Online,2014-02-15 00:00:00,920366179,0,5660,154.06,90.93
+3137,Sub-Saharan Africa,Benin,Clothes,Offline,2015-11-15 00:00:00,780236423,0,8151,109.28,35.84
+3138,Sub-Saharan Africa,Mauritania,Fruits,Offline,2015-05-31 00:00:00,644631230,2015-07-11 00:00:00,9561,9.33,6.92
+3139,Sub-Saharan Africa,Tanzania,Meat,Online,0,550293433,0,2910,421.89,364.69
+3145,Sub-Saharan Africa,Lesotho,Beverages,Offline,2010-04-16 00:00:00,762991321,0,4942,47.45,31.79
+3156,Sub-Saharan Africa,Nigeria,Household,Online,0,578089272,0,8317,668.27,502.54
+3162,Sub-Saharan Africa,Central African Republic,Beverages,Offline,2017-06-17 00:00:00,529504811,0,1095,47.45,31.79
+3167,Sub-Saharan Africa,Liberia,Fruits,Offline,2011-03-29 00:00:00,219452178,2011-04-03 00:00:00,9631,9.33,6.92
+3168,Sub-Saharan Africa,Equatorial Guinea,Cereal,Offline,2010-06-20 00:00:00,616546571,2010-08-03 00:00:00,8686,205.7,117.11
+3169,Sub-Saharan Africa,Sierra Leone,Personal Care,Offline,0,639185702,0,8108,81.73,56.67
+3170,Sub-Saharan Africa,Republic of the Congo,Personal Care,Online,0,973355901,0,6496,81.73,56.67
+3173,Sub-Saharan Africa,Djibouti,Cosmetics,Offline,2016-03-22 00:00:00,959603679,2016-04-04 00:00:00,6908,437.2,263.33
+3176,Sub-Saharan Africa,Kenya,Cosmetics,Offline,2016-01-31 00:00:00,995138871,2016-03-05 00:00:00,2561,437.2,263.33
+3178,Sub-Saharan Africa,Rwanda,Household,Online,2016-06-30 00:00:00,683320271,0,8508,668.27,502.54
+3190,Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Online,2010-08-24 00:00:00,264416730,0,5641,154.06,90.93
+3192,Sub-Saharan Africa,Ghana,Beverages,Offline,0,731913316,0,8270,47.45,31.79
+3193,Sub-Saharan Africa,Lesotho,Household,Online,0,182274615,2016-02-05 00:00:00,7964,668.27,502.54
+3203,Sub-Saharan Africa,Kenya,Meat,Online,2014-08-13 00:00:00,108231055,0,6829,421.89,364.69
+3204,Sub-Saharan Africa,Namibia,Cosmetics,Online,2011-05-31 00:00:00,977572762,0,4359,437.2,263.33
+3207,Sub-Saharan Africa,Senegal,Personal Care,Online,0,732421004,2013-12-01 00:00:00,8506,81.73,56.67
+3218,Sub-Saharan Africa,Sudan,Cosmetics,Offline,2015-05-26 00:00:00,599841344,2015-06-01 00:00:00,5238,437.2,263.33
+3219,Sub-Saharan Africa,Benin,Fruits,Offline,2015-11-20 00:00:00,590098273,0,2047,9.33,6.92
+3223,Sub-Saharan Africa,Mozambique,Personal Care,Offline,2010-08-14 00:00:00,114776504,2010-09-10 00:00:00,3773,81.73,56.67
+3228,Sub-Saharan Africa,Zambia,Household,Online,2010-02-25 00:00:00,916718804,2010-03-09 00:00:00,6321,668.27,502.54
+3234,Sub-Saharan Africa,Mozambique,Fruits,Online,2017-05-18 00:00:00,604242742,0,7710,9.33,6.92
+3238,Sub-Saharan Africa,Seychelles ,Vegetables,Online,2014-08-16 00:00:00,976351392,2014-09-12 00:00:00,2928,154.06,90.93
+3240,Sub-Saharan Africa,Seychelles ,Clothes,Offline,2012-01-13 00:00:00,778955399,0,9068,109.28,35.84
+3242,Sub-Saharan Africa,Namibia,Baby Food,Online,2016-09-21 00:00:00,743113362,0,2612,255.28,159.42
+3245,Sub-Saharan Africa,Sudan,Fruits,Offline,0,307376277,0,8326,9.33,6.92
+3248,Sub-Saharan Africa,Niger,Personal Care,Offline,2012-12-24 00:00:00,121317231,2013-01-02 00:00:00,9319,81.73,56.67
+3253,Sub-Saharan Africa,Sao Tome and Principe,Office Supplies,Online,0,437347972,0,9839,651.21,524.96
+3257,Sub-Saharan Africa,Sudan,Vegetables,Online,2014-07-25 00:00:00,835329425,0,1395,154.06,90.93
+3259,Sub-Saharan Africa,Malawi,Vegetables,Online,2016-06-21 00:00:00,468936240,2016-07-02 00:00:00,7509,154.06,90.93
+3262,Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,0,256098020,0,3950,255.28,159.42
+3267,Sub-Saharan Africa,Djibouti,Household,Offline,2014-03-13 00:00:00,397418677,2014-04-02 00:00:00,3873,668.27,502.54
+3270,Sub-Saharan Africa,Uganda,Cosmetics,Offline,2016-10-16 00:00:00,723240125,0,1680,437.2,263.33
+3275,Sub-Saharan Africa,Botswana,Cereal,Offline,2014-07-14 00:00:00,295139396,0,7161,205.7,117.11
+3277,Sub-Saharan Africa,Djibouti,Baby Food,Offline,0,980192744,2017-07-12 00:00:00,9670,255.28,159.42
+3279,Sub-Saharan Africa,Liberia,Snacks,Online,2010-02-13 00:00:00,865276610,0,3432,152.58,97.44
+3283,Sub-Saharan Africa,Sudan,Fruits,Offline,2011-10-20 00:00:00,387098395,2011-11-05 00:00:00,9872,9.33,6.92
+3288,Sub-Saharan Africa,Burkina Faso,Household,Offline,0,281075608,0,5373,668.27,502.54
+3289,Sub-Saharan Africa,Namibia,Vegetables,Offline,0,423575580,2015-12-10 00:00:00,4282,154.06,90.93
+3292,Sub-Saharan Africa,Cote d'Ivoire,Office Supplies,Offline,0,338425958,2012-04-08 00:00:00,6616,651.21,524.96
+3302,Sub-Saharan Africa,Republic of the Congo,Fruits,Online,0,427941358,0,6212,9.33,6.92
+3306,Sub-Saharan Africa,South Sudan,Meat,Offline,0,634156453,0,9842,421.89,364.69
+3309,Sub-Saharan Africa,Nigeria,Meat,Offline,0,260821712,0,1795,421.89,364.69
+3310,Sub-Saharan Africa,Sudan,Beverages,Offline,2016-02-14 00:00:00,938149869,0,8249,47.45,31.79
+3311,Sub-Saharan Africa,Swaziland,Fruits,Online,0,649518859,0,5919,9.33,6.92
+3323,Sub-Saharan Africa,Burundi,Vegetables,Online,2010-10-16 00:00:00,835467612,2010-11-12 00:00:00,2287,154.06,90.93
+3328,Sub-Saharan Africa,Republic of the Congo,Office Supplies,Offline,0,712416017,0,8586,651.21,524.96
+3329,Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,0,651119601,0,9614,154.06,90.93
+3330,Sub-Saharan Africa,Democratic Republic of the Congo,Baby Food,Online,0,184166753,0,7890,255.28,159.42
+3331,Sub-Saharan Africa,Eritrea,Cereal,Online,0,517856299,0,4042,205.7,117.11
+3333,Sub-Saharan Africa,Sudan,Meat,Online,0,663920390,2015-07-10 00:00:00,7652,421.89,364.69
+3337,Sub-Saharan Africa,Sierra Leone,Cosmetics,Offline,2010-02-13 00:00:00,345593249,0,7577,437.2,263.33
+3339,Sub-Saharan Africa,Mauritius ,Snacks,Online,0,169483268,2012-11-04 00:00:00,2720,152.58,97.44
+3342,Sub-Saharan Africa,Togo,Household,Offline,2016-08-30 00:00:00,365116727,2016-09-08 00:00:00,5008,668.27,502.54
+3346,Sub-Saharan Africa,Ethiopia,Office Supplies,Offline,0,339740025,2016-12-04 00:00:00,5478,651.21,524.96
+3359,Sub-Saharan Africa,Kenya,Fruits,Offline,0,978030669,0,9864,9.33,6.92
+3364,Sub-Saharan Africa,Eritrea,Fruits,Offline,2016-11-24 00:00:00,723637521,0,9278,9.33,6.92
+3365,Sub-Saharan Africa,Comoros,Cereal,Offline,0,208221232,0,6145,205.7,117.11
+3372,Sub-Saharan Africa,Malawi,Snacks,Offline,0,728255212,2017-04-04 00:00:00,5755,152.58,97.44
+3373,Sub-Saharan Africa,Seychelles ,Snacks,Offline,2013-01-28 00:00:00,945517146,2013-02-01 00:00:00,8390,152.58,97.44
+3374,Sub-Saharan Africa,Burundi,Household,Offline,2017-04-28 00:00:00,649896085,0,7548,668.27,502.54
+3375,Sub-Saharan Africa,South Sudan,Personal Care,Online,0,541440856,0,3236,81.73,56.67
+3377,Sub-Saharan Africa,Ghana,Snacks,Offline,2017-01-18 00:00:00,437785708,0,9375,152.58,97.44
+3382,Sub-Saharan Africa,Democratic Republic of the Congo,Beverages,Online,2016-10-18 00:00:00,292624127,0,2837,47.45,31.79
+3386,Sub-Saharan Africa,South Africa,Cereal,Offline,2016-02-15 00:00:00,148155629,0,1398,205.7,117.11
+3388,Sub-Saharan Africa,Cape Verde,Vegetables,Offline,2012-04-18 00:00:00,954580438,2012-05-11 00:00:00,419,154.06,90.93
+3393,Sub-Saharan Africa,Chad,Fruits,Offline,2011-04-23 00:00:00,270580661,0,9685,9.33,6.92
+3395,Sub-Saharan Africa,Mauritania,Household,Offline,2014-10-14 00:00:00,469543921,0,7336,668.27,502.54
+3397,Sub-Saharan Africa,Malawi,Personal Care,Offline,0,160334575,0,5418,81.73,56.67
+3398,Sub-Saharan Africa,Eritrea,Vegetables,Online,0,188920056,0,4498,154.06,90.93
+3399,Sub-Saharan Africa,Nigeria,Personal Care,Online,2013-02-23 00:00:00,499593245,0,9598,81.73,56.67
+3405,Sub-Saharan Africa,Guinea,Clothes,Online,2014-05-21 00:00:00,549583613,0,2859,109.28,35.84
+3407,Sub-Saharan Africa,Guinea-Bissau,Office Supplies,Online,2016-07-24 00:00:00,649120604,2016-09-08 00:00:00,8067,651.21,524.96
+3412,Sub-Saharan Africa,Central African Republic,Personal Care,Online,2011-07-19 00:00:00,711792886,2011-09-06 00:00:00,4187,81.73,56.67
+3413,Sub-Saharan Africa,Mauritius ,Fruits,Online,0,739320933,2012-02-10 00:00:00,348,9.33,6.92
+3414,Sub-Saharan Africa,Comoros,Personal Care,Online,2015-09-18 00:00:00,299669110,0,7604,81.73,56.67
+3424,Sub-Saharan Africa,Tanzania,Beverages,Offline,0,623687684,0,1900,47.45,31.79
+3445,Sub-Saharan Africa,Mauritania,Vegetables,Online,2010-08-16 00:00:00,403153026,0,794,154.06,90.93
+3447,Sub-Saharan Africa,Namibia,Snacks,Offline,0,597831618,0,516,152.58,97.44
+3450,Sub-Saharan Africa,Mauritania,Fruits,Online,2010-04-25 00:00:00,559511220,0,658,9.33,6.92
+3455,Sub-Saharan Africa,Seychelles ,Baby Food,Online,0,562788665,0,527,255.28,159.42
+3460,Sub-Saharan Africa,South Sudan,Household,Offline,2014-01-13 00:00:00,605026376,0,9604,668.27,502.54
+3461,Sub-Saharan Africa,Kenya,Snacks,Online,2017-01-28 00:00:00,387998759,0,6310,152.58,97.44
+3464,Sub-Saharan Africa,Ethiopia,Cereal,Offline,2012-12-14 00:00:00,493406999,0,8950,205.7,117.11
+3465,Sub-Saharan Africa,Togo,Baby Food,Online,0,723577868,0,1626,255.28,159.42
+3466,Sub-Saharan Africa,Togo,Beverages,Online,0,973482930,2013-10-07 00:00:00,4087,47.45,31.79
+3474,Sub-Saharan Africa,Seychelles ,Office Supplies,Offline,0,304638707,0,8218,651.21,524.96
+3475,Sub-Saharan Africa,Togo,Vegetables,Online,2017-07-13 00:00:00,565598762,0,2097,154.06,90.93
+3488,Sub-Saharan Africa,Nigeria,Cosmetics,Online,2017-05-21 00:00:00,653597962,2017-06-11 00:00:00,3016,437.2,263.33
+3490,Sub-Saharan Africa,Seychelles ,Clothes,Offline,2015-03-18 00:00:00,140290105,2015-04-08 00:00:00,3814,109.28,35.84
+3491,Sub-Saharan Africa,Zimbabwe,Office Supplies,Offline,2014-07-29 00:00:00,755669105,0,8136,651.21,524.96
+3493,Sub-Saharan Africa,Botswana,Household,Online,2013-12-23 00:00:00,663549602,2014-02-06 00:00:00,7927,668.27,502.54
+3494,Sub-Saharan Africa,Angola,Cosmetics,Offline,2012-07-28 00:00:00,470211255,0,4814,437.2,263.33
+3495,Sub-Saharan Africa,Zimbabwe,Vegetables,Online,0,938648116,0,5691,154.06,90.93
+3496,Sub-Saharan Africa,Madagascar,Beverages,Online,2015-09-21 00:00:00,926721513,0,6344,47.45,31.79
+3499,Sub-Saharan Africa,Mozambique,Clothes,Online,2016-01-24 00:00:00,242061698,2016-02-04 00:00:00,290,109.28,35.84
+3513,Sub-Saharan Africa,Sudan,Household,Offline,2013-07-19 00:00:00,860048663,0,6366,668.27,502.54
+3514,Sub-Saharan Africa,Mauritania,Household,Online,2012-07-21 00:00:00,802116811,0,3044,668.27,502.54
+3515,Sub-Saharan Africa,Cameroon,Office Supplies,Offline,2011-09-24 00:00:00,922561728,2011-11-05 00:00:00,5372,651.21,524.96
+3516,Sub-Saharan Africa,Central African Republic,Cereal,Offline,0,585494744,0,9761,205.7,117.11
+3524,Sub-Saharan Africa,Madagascar,Clothes,Online,0,315014779,0,8728,109.28,35.84
+3525,Sub-Saharan Africa,Mozambique,Vegetables,Offline,2014-10-13 00:00:00,446912944,2014-11-01 00:00:00,326,154.06,90.93
+3526,Sub-Saharan Africa,Niger,Vegetables,Online,0,779599988,2015-10-09 00:00:00,9816,154.06,90.93
+3527,Sub-Saharan Africa,Mali,Cosmetics,Online,0,100624740,0,5951,437.2,263.33
+3530,Sub-Saharan Africa,Benin,Meat,Online,0,273901021,2016-02-08 00:00:00,2254,421.89,364.69
+3532,Sub-Saharan Africa,Mauritania,Fruits,Offline,2014-06-25 00:00:00,716898095,0,4932,9.33,6.92
+3536,Sub-Saharan Africa,Mali,Personal Care,Offline,0,565288484,2012-04-06 00:00:00,279,81.73,56.67
+3537,Sub-Saharan Africa,Sudan,Cereal,Offline,2011-02-13 00:00:00,203625857,2011-03-03 00:00:00,6271,205.7,117.11
+3544,Sub-Saharan Africa,Malawi,Office Supplies,Online,2010-08-18 00:00:00,822591722,2010-09-03 00:00:00,2025,651.21,524.96
+3550,Sub-Saharan Africa,Mali,Clothes,Online,0,899580991,2010-11-08 00:00:00,4861,109.28,35.84
+3552,Sub-Saharan Africa,Rwanda,Meat,Online,2015-08-24 00:00:00,514758241,0,7257,421.89,364.69
+3556,Sub-Saharan Africa,Togo,Clothes,Online,2012-03-28 00:00:00,106727731,2012-04-05 00:00:00,1962,109.28,35.84
+3558,Sub-Saharan Africa,Guinea,Snacks,Offline,0,146801221,0,598,152.58,97.44
+3562,Sub-Saharan Africa,Central African Republic,Vegetables,Online,2017-05-20 00:00:00,310828816,0,9,154.06,90.93
+3563,Sub-Saharan Africa,Cameroon,Household,Online,0,425780570,0,6787,668.27,502.54
+3569,Sub-Saharan Africa,Uganda,Vegetables,Online,2012-07-24 00:00:00,660231387,0,5994,154.06,90.93
+3576,Sub-Saharan Africa,Ghana,Baby Food,Online,0,250437486,2013-10-05 00:00:00,8872,255.28,159.42
+3578,Sub-Saharan Africa,South Sudan,Cosmetics,Offline,0,875972402,0,8555,437.2,263.33
+3579,Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,0,614093101,0,2650,437.2,263.33
+3581,Sub-Saharan Africa,Tanzania,Personal Care,Offline,0,711597621,0,6404,81.73,56.67
+3583,Sub-Saharan Africa,Cameroon,Cosmetics,Online,0,318507659,2011-02-07 00:00:00,2349,437.2,263.33
+3588,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Online,2014-05-26 00:00:00,756253182,2014-06-09 00:00:00,977,255.28,159.42
+3597,Sub-Saharan Africa,Malawi,Beverages,Offline,0,438044917,0,6080,47.45,31.79
+3599,Sub-Saharan Africa,Republic of the Congo,Vegetables,Offline,2014-08-19 00:00:00,859261596,0,3456,154.06,90.93
+3603,Sub-Saharan Africa,Swaziland,Baby Food,Online,2013-08-15 00:00:00,440849006,0,5872,255.28,159.42
+3604,Sub-Saharan Africa,Ethiopia,Snacks,Offline,0,615195596,0,8903,152.58,97.44
+3605,Sub-Saharan Africa,Ethiopia,Baby Food,Offline,0,339500987,2016-12-05 00:00:00,4741,255.28,159.42
+3606,Sub-Saharan Africa,Equatorial Guinea,Clothes,Online,0,356001508,0,7612,109.28,35.84
+3609,Sub-Saharan Africa,Tanzania,Fruits,Offline,0,735724627,0,6122,9.33,6.92
+3612,Sub-Saharan Africa,Eritrea,Cosmetics,Online,2014-03-17 00:00:00,315711724,2014-04-08 00:00:00,4970,437.2,263.33
+3616,Sub-Saharan Africa,Zimbabwe,Cereal,Offline,2014-05-18 00:00:00,207168519,2014-07-06 00:00:00,4623,205.7,117.11
+3618,Sub-Saharan Africa,Gabon,Cosmetics,Offline,0,245813786,2013-03-12 00:00:00,617,437.2,263.33
+3621,Sub-Saharan Africa,Sudan,Baby Food,Offline,0,443877971,2010-06-06 00:00:00,2210,255.28,159.42
+3632,Sub-Saharan Africa,Zimbabwe,Beverages,Offline,2014-02-18 00:00:00,553903901,2014-04-06 00:00:00,1328,47.45,31.79
+3633,Sub-Saharan Africa,Equatorial Guinea,Cosmetics,Offline,0,996879947,2012-01-05 00:00:00,7784,437.2,263.33
+3634,Sub-Saharan Africa,Cote d'Ivoire,Office Supplies,Offline,0,661543309,0,4221,651.21,524.96
+3636,Sub-Saharan Africa,Guinea,Meat,Online,2010-04-17 00:00:00,301439797,0,1590,421.89,364.69
+3639,Sub-Saharan Africa,Ghana,Household,Online,0,716566359,2014-02-01 00:00:00,6764,668.27,502.54
+3641,Sub-Saharan Africa,Ghana,Baby Food,Offline,2015-11-18 00:00:00,309908282,2016-01-07 00:00:00,7602,255.28,159.42
+3646,Sub-Saharan Africa,Swaziland,Baby Food,Offline,2011-08-17 00:00:00,354700314,0,2560,255.28,159.42
+3649,Sub-Saharan Africa,Equatorial Guinea,Clothes,Online,2014-04-25 00:00:00,660924899,0,1220,109.28,35.84
+3651,Sub-Saharan Africa,Djibouti,Clothes,Online,2014-01-24 00:00:00,388794410,0,1761,109.28,35.84
+3652,Sub-Saharan Africa,Mauritius ,Meat,Offline,0,128741586,0,6351,421.89,364.69
+3671,Sub-Saharan Africa,Sao Tome and Principe,Cereal,Online,2010-02-26 00:00:00,363699233,0,5540,205.7,117.11
+3673,Sub-Saharan Africa,Tanzania,Personal Care,Offline,2011-01-29 00:00:00,291904437,2011-03-11 00:00:00,9865,81.73,56.67
+3689,Sub-Saharan Africa,Cameroon,Personal Care,Online,0,660832202,0,3789,81.73,56.67
+3693,Sub-Saharan Africa,Uganda,Clothes,Offline,2012-07-18 00:00:00,937744319,0,8238,109.28,35.84
+3695,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Online,2017-02-27 00:00:00,169800841,0,6697,255.28,159.42
+3696,Sub-Saharan Africa,Mauritania,Beverages,Online,2013-06-17 00:00:00,935376679,0,7600,47.45,31.79
+3708,Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,2010-04-23 00:00:00,566241204,0,2210,255.28,159.42
+3710,Sub-Saharan Africa,Guinea,Baby Food,Offline,2015-04-24 00:00:00,980509030,0,3266,255.28,159.42
+3711,Sub-Saharan Africa,Ghana,Cereal,Offline,2014-05-15 00:00:00,299226653,0,6671,205.7,117.11
+3712,Sub-Saharan Africa,Ghana,Personal Care,Offline,2017-02-24 00:00:00,779377686,2017-04-08 00:00:00,4032,81.73,56.67
+3713,Sub-Saharan Africa,Uganda,Personal Care,Offline,2010-07-27 00:00:00,336635959,2010-08-02 00:00:00,6916,81.73,56.67
+3719,Sub-Saharan Africa,Cote d'Ivoire,Baby Food,Offline,0,936546981,2016-06-10 00:00:00,3919,255.28,159.42
+3721,Sub-Saharan Africa,Democratic Republic of the Congo,Snacks,Offline,2014-12-26 00:00:00,354547107,2015-02-02 00:00:00,7223,152.58,97.44
+3726,Sub-Saharan Africa,Rwanda,Personal Care,Offline,0,998094022,0,7056,81.73,56.67
+3728,Sub-Saharan Africa,Zambia,Beverages,Offline,2017-01-31 00:00:00,162831819,2017-02-02 00:00:00,4408,47.45,31.79
+3730,Sub-Saharan Africa,Nigeria,Clothes,Offline,0,909436070,0,1198,109.28,35.84
+3733,Sub-Saharan Africa,Burundi,Meat,Online,0,429204356,0,9962,421.89,364.69
+3734,Sub-Saharan Africa,Djibouti,Office Supplies,Offline,2011-05-17 00:00:00,749806439,2011-07-02 00:00:00,3243,651.21,524.96
+3735,Sub-Saharan Africa,Mauritius ,Vegetables,Online,2014-02-23 00:00:00,881402480,2014-03-07 00:00:00,5435,154.06,90.93
+3739,Sub-Saharan Africa,Lesotho,Beverages,Offline,0,229640281,0,4517,47.45,31.79
+3742,Sub-Saharan Africa,Seychelles ,Beverages,Offline,2013-07-19 00:00:00,330132138,0,2291,47.45,31.79
+3745,Sub-Saharan Africa,Sudan,Household,Offline,0,336210238,0,936,668.27,502.54
+3746,Sub-Saharan Africa,Togo,Fruits,Online,2013-01-14 00:00:00,576337468,0,9919,9.33,6.92
+3752,Sub-Saharan Africa,Equatorial Guinea,Cereal,Offline,0,174487626,2011-11-12 00:00:00,3621,205.7,117.11
+3758,Sub-Saharan Africa,Mauritania,Cosmetics,Online,0,776623380,0,8971,437.2,263.33
+3760,Sub-Saharan Africa,Guinea-Bissau,Cosmetics,Offline,0,248099458,2013-04-05 00:00:00,6998,437.2,263.33
+3767,Sub-Saharan Africa,Central African Republic,Cosmetics,Online,0,851972854,2014-06-10 00:00:00,6555,437.2,263.33
+3769,Sub-Saharan Africa,Swaziland,Cereal,Offline,2012-07-13 00:00:00,884767901,0,1338,205.7,117.11
+3773,Sub-Saharan Africa,Cameroon,Baby Food,Online,0,557871425,0,5407,255.28,159.42
+3774,Sub-Saharan Africa,Republic of the Congo,Cosmetics,Online,2011-11-25 00:00:00,537567746,0,7097,437.2,263.33
+3782,Sub-Saharan Africa,Ghana,Meat,Offline,0,835959851,0,7952,421.89,364.69
+3784,Sub-Saharan Africa,Botswana,Personal Care,Online,0,228114640,0,3046,81.73,56.67
+3794,Sub-Saharan Africa,Equatorial Guinea,Clothes,Offline,2010-08-20 00:00:00,863760411,0,4755,109.28,35.84
+3795,Sub-Saharan Africa,Rwanda,Snacks,Offline,2011-04-23 00:00:00,788099372,2011-05-05 00:00:00,4972,152.58,97.44
+3799,Sub-Saharan Africa,Rwanda,Clothes,Online,2011-01-14 00:00:00,330355727,0,8456,109.28,35.84
+3802,Sub-Saharan Africa,Democratic Republic of the Congo,Office Supplies,Offline,2017-02-14 00:00:00,255560719,2017-03-05 00:00:00,4951,651.21,524.96
+3814,Sub-Saharan Africa,Namibia,Vegetables,Offline,0,765661084,2011-03-12 00:00:00,4984,154.06,90.93
+3815,Sub-Saharan Africa,Guinea,Household,Online,0,109976851,0,3449,668.27,502.54
+3819,Sub-Saharan Africa,Ghana,Fruits,Online,2012-08-14 00:00:00,373156058,2012-09-05 00:00:00,4025,9.33,6.92
+3821,Sub-Saharan Africa,The Gambia,Baby Food,Online,2015-08-25 00:00:00,113385188,0,2052,255.28,159.42
+3824,Sub-Saharan Africa,Madagascar,Personal Care,Online,0,292072236,2013-08-01 00:00:00,9520,81.73,56.67
+3826,Sub-Saharan Africa,Niger,Clothes,Offline,0,777641332,2014-12-10 00:00:00,206,109.28,35.84
+3834,Sub-Saharan Africa,Ghana,Cosmetics,Online,2015-09-13 00:00:00,383894765,0,1847,437.2,263.33
+3838,Sub-Saharan Africa,Democratic Republic of the Congo,Meat,Offline,2016-07-14 00:00:00,825876462,0,4053,421.89,364.69
+3848,Sub-Saharan Africa,Rwanda,Office Supplies,Online,2016-02-13 00:00:00,208806169,0,9240,651.21,524.96
+3858,Sub-Saharan Africa,Central African Republic,Baby Food,Offline,2011-08-19 00:00:00,649334752,2011-09-02 00:00:00,1438,255.28,159.42
+3861,Sub-Saharan Africa,Seychelles ,Clothes,Online,0,743907725,0,7682,109.28,35.84
+3864,Sub-Saharan Africa,Sierra Leone,Vegetables,Online,2016-04-21 00:00:00,402611863,2016-05-09 00:00:00,652,154.06,90.93
+3868,Sub-Saharan Africa,Swaziland,Baby Food,Offline,0,140040338,2013-10-09 00:00:00,9903,255.28,159.42
+3869,Sub-Saharan Africa,Botswana,Meat,Online,2015-11-17 00:00:00,586477077,0,455,421.89,364.69
+3870,Sub-Saharan Africa,South Africa,Household,Offline,2015-03-30 00:00:00,906749570,2015-04-12 00:00:00,6203,668.27,502.54
+3871,Sub-Saharan Africa,Nigeria,Cosmetics,Offline,0,675906646,2011-11-01 00:00:00,4651,437.2,263.33
+3872,Sub-Saharan Africa,Mozambique,Cosmetics,Online,2014-01-16 00:00:00,889309632,0,5337,437.2,263.33
+3881,Sub-Saharan Africa,Seychelles ,Cereal,Online,0,440309131,0,6111,205.7,117.11
+3888,Sub-Saharan Africa,Sudan,Cosmetics,Offline,0,167295014,0,5167,437.2,263.33
+3889,Sub-Saharan Africa,Comoros,Office Supplies,Offline,2014-07-18 00:00:00,655974185,0,6193,651.21,524.96
+3891,Sub-Saharan Africa,Zambia,Personal Care,Offline,0,617193305,2017-06-10 00:00:00,69,81.73,56.67
+3895,Sub-Saharan Africa,Sudan,Office Supplies,Offline,2016-09-23 00:00:00,312379348,2016-11-11 00:00:00,8846,651.21,524.96
+3902,Sub-Saharan Africa,Lesotho,Cereal,Online,2014-01-26 00:00:00,945435178,0,4134,205.7,117.11
+3903,Sub-Saharan Africa,Sao Tome and Principe,Vegetables,Offline,2015-05-26 00:00:00,354680144,2015-06-08 00:00:00,6591,154.06,90.93
+3905,Sub-Saharan Africa,Guinea-Bissau,Fruits,Offline,2017-04-27 00:00:00,151269137,0,2754,9.33,6.92
+3906,Sub-Saharan Africa,Mali,Vegetables,Offline,2015-07-13 00:00:00,490273320,0,1625,154.06,90.93
+3922,Sub-Saharan Africa,Cote d'Ivoire,Office Supplies,Offline,0,266159093,2013-02-10 00:00:00,1245,651.21,524.96
+3926,Sub-Saharan Africa,Central African Republic,Vegetables,Online,2014-06-14 00:00:00,974888837,0,126,154.06,90.93
+3928,Sub-Saharan Africa,Sierra Leone,Household,Online,0,172365891,2017-06-09 00:00:00,5752,668.27,502.54
+3940,Sub-Saharan Africa,Zambia,Snacks,Offline,2015-09-13 00:00:00,616658151,0,1705,152.58,97.44
+3942,Sub-Saharan Africa,Djibouti,Clothes,Offline,2013-12-14 00:00:00,962591016,2014-01-05 00:00:00,927,109.28,35.84
+3944,Sub-Saharan Africa,Rwanda,Meat,Online,2013-11-22 00:00:00,763437211,2014-01-03 00:00:00,6891,421.89,364.69
+3946,Sub-Saharan Africa,Mali,Household,Offline,0,163337361,0,4010,668.27,502.54
+3949,Sub-Saharan Africa,Seychelles ,Baby Food,Online,2013-01-25 00:00:00,414026057,0,8366,255.28,159.42
+3950,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,0,361862027,0,1870,47.45,31.79
+3953,Sub-Saharan Africa,Seychelles ,Fruits,Online,0,148872745,2016-06-06 00:00:00,3608,9.33,6.92
+3954,Sub-Saharan Africa,Swaziland,Personal Care,Online,2010-03-24 00:00:00,911290013,2010-04-03 00:00:00,9821,81.73,56.67
+3957,Sub-Saharan Africa,Liberia,Baby Food,Offline,2012-02-22 00:00:00,986966502,2012-04-09 00:00:00,4175,255.28,159.42
+3958,Sub-Saharan Africa,Chad,Baby Food,Offline,2015-05-18 00:00:00,264746320,2015-06-06 00:00:00,3174,255.28,159.42
+3963,Sub-Saharan Africa,Togo,Office Supplies,Offline,2010-04-17 00:00:00,619531333,0,1944,651.21,524.96
+3967,Sub-Saharan Africa,Benin,Cosmetics,Online,2011-08-21 00:00:00,935664641,2011-10-04 00:00:00,2815,437.2,263.33
+3973,Sub-Saharan Africa,Sudan,Beverages,Offline,2011-12-20 00:00:00,634312236,0,5941,47.45,31.79
+3978,Sub-Saharan Africa,Liberia,Vegetables,Offline,2015-06-26 00:00:00,551827657,0,6921,154.06,90.93
+3979,Sub-Saharan Africa,Cameroon,Beverages,Offline,0,431671988,0,189,47.45,31.79
+3980,Sub-Saharan Africa,Benin,Cosmetics,Online,2016-05-29 00:00:00,114160668,2016-06-06 00:00:00,1534,437.2,263.33
+3986,Sub-Saharan Africa,Mauritania,Cereal,Offline,2015-01-16 00:00:00,614233434,2015-02-08 00:00:00,4178,205.7,117.11
+3993,Sub-Saharan Africa,Nigeria,Cosmetics,Offline,2011-03-25 00:00:00,941553485,2011-04-09 00:00:00,5454,437.2,263.33
+3996,Sub-Saharan Africa,Namibia,Meat,Offline,2012-07-30 00:00:00,839704644,0,6119,421.89,364.69
+4004,Sub-Saharan Africa,Madagascar,Snacks,Offline,2015-05-30 00:00:00,861021554,0,4266,152.58,97.44
+4008,Sub-Saharan Africa,Botswana,Vegetables,Offline,0,322253739,0,898,154.06,90.93
+4012,Sub-Saharan Africa,Cameroon,Beverages,Online,0,654701745,2016-06-09 00:00:00,9650,47.45,31.79
+4019,Sub-Saharan Africa,Comoros,Household,Offline,0,998693549,0,4469,668.27,502.54
+4020,Sub-Saharan Africa,Ethiopia,Meat,Online,2017-04-20 00:00:00,445745217,2017-06-04 00:00:00,4770,421.89,364.69
+4025,Sub-Saharan Africa,Tanzania,Meat,Online,0,909487140,0,6310,421.89,364.69
+4033,Sub-Saharan Africa,Benin,Personal Care,Offline,0,683941256,2014-03-06 00:00:00,2271,81.73,56.67
+4038,Sub-Saharan Africa,Cape Verde,Household,Offline,2013-06-24 00:00:00,892319715,0,6088,668.27,502.54
+4040,Sub-Saharan Africa,Equatorial Guinea,Cosmetics,Online,2012-09-24 00:00:00,938380753,0,6573,437.2,263.33
+4045,Sub-Saharan Africa,Cote d'Ivoire,Cereal,Online,2012-05-18 00:00:00,871537959,2012-06-08 00:00:00,6304,205.7,117.11
+4052,Sub-Saharan Africa,Democratic Republic of the Congo,Cereal,Online,0,483551919,2013-08-11 00:00:00,2613,205.7,117.11
+4061,Sub-Saharan Africa,Mauritania,Beverages,Offline,2013-10-14 00:00:00,854625880,0,1644,47.45,31.79
+4062,Sub-Saharan Africa,Senegal,Household,Online,2017-07-20 00:00:00,506050717,0,508,668.27,502.54
+4063,Sub-Saharan Africa,Swaziland,Vegetables,Online,0,365735137,2016-05-11 00:00:00,8009,154.06,90.93
+4066,Sub-Saharan Africa,Senegal,Snacks,Online,2013-05-27 00:00:00,249521672,2013-07-08 00:00:00,7863,152.58,97.44
+4067,Sub-Saharan Africa,Djibouti,Baby Food,Offline,2016-09-27 00:00:00,348982703,2016-11-02 00:00:00,592,255.28,159.42
+4068,Sub-Saharan Africa,Ethiopia,Baby Food,Online,0,936634957,2015-09-06 00:00:00,9953,255.28,159.42
+4070,Sub-Saharan Africa,Sudan,Beverages,Online,2011-01-13 00:00:00,484520947,0,9370,47.45,31.79
+4075,Sub-Saharan Africa,Niger,Snacks,Offline,2016-11-13 00:00:00,320531547,0,1262,152.58,97.44
+4079,Sub-Saharan Africa,Zambia,Meat,Offline,0,815082824,2015-04-02 00:00:00,9975,421.89,364.69
+4089,Sub-Saharan Africa,Malawi,Meat,Online,2016-03-26 00:00:00,268791949,2016-05-08 00:00:00,366,421.89,364.69
+4099,Sub-Saharan Africa,Ethiopia,Cosmetics,Offline,2013-12-27 00:00:00,500607764,0,9817,437.2,263.33
+4100,Sub-Saharan Africa,South Africa,Cereal,Online,2012-01-27 00:00:00,911160409,0,1468,205.7,117.11
+4102,Sub-Saharan Africa,Niger,Office Supplies,Offline,0,934534680,0,8434,651.21,524.96
+4105,Sub-Saharan Africa,Mauritius ,Cosmetics,Online,0,588500964,2014-03-12 00:00:00,9368,437.2,263.33
+4112,Sub-Saharan Africa,Malawi,Personal Care,Online,2016-10-26 00:00:00,201668488,0,7042,81.73,56.67
+4113,Sub-Saharan Africa,Sudan,Cosmetics,Online,0,617837893,2013-08-12 00:00:00,817,437.2,263.33
+4123,Sub-Saharan Africa,Mali,Baby Food,Online,2011-11-19 00:00:00,403828513,0,686,255.28,159.42
+4128,Sub-Saharan Africa,Djibouti,Fruits,Offline,2013-09-15 00:00:00,671450746,0,6052,9.33,6.92
+4130,Sub-Saharan Africa,Niger,Cosmetics,Online,2016-05-30 00:00:00,217908513,0,2826,437.2,263.33
+4132,Sub-Saharan Africa,The Gambia,Office Supplies,Offline,2016-03-31 00:00:00,843498361,0,8764,651.21,524.96
+4144,Sub-Saharan Africa,Sao Tome and Principe,Office Supplies,Offline,2014-05-30 00:00:00,680686128,2014-07-08 00:00:00,9006,651.21,524.96
+4145,Sub-Saharan Africa,Burundi,Clothes,Offline,2017-01-29 00:00:00,315068423,0,4603,109.28,35.84
+4147,Sub-Saharan Africa,Ghana,Meat,Offline,2016-03-26 00:00:00,705193793,2016-05-12 00:00:00,1369,421.89,364.69
+4149,Sub-Saharan Africa,Mauritania,Cosmetics,Offline,2013-11-23 00:00:00,784021556,2013-12-02 00:00:00,8256,437.2,263.33
+4150,Sub-Saharan Africa,Mozambique,Office Supplies,Offline,0,517953717,0,2870,651.21,524.96
+4153,Sub-Saharan Africa,Guinea,Clothes,Online,0,359346759,2013-11-09 00:00:00,7546,109.28,35.84
+4155,Sub-Saharan Africa,Lesotho,Cereal,Online,2010-04-14 00:00:00,144125449,0,8778,205.7,117.11
+4158,Sub-Saharan Africa,Cameroon,Cosmetics,Offline,0,636170041,2016-08-04 00:00:00,5707,437.2,263.33
+4161,Sub-Saharan Africa,Mauritania,Household,Online,0,541613376,2012-10-11 00:00:00,4289,668.27,502.54
+4165,Sub-Saharan Africa,Chad,Office Supplies,Online,2010-04-16 00:00:00,754804790,0,2366,651.21,524.96
+4170,Sub-Saharan Africa,Kenya,Vegetables,Offline,0,196831929,0,5797,154.06,90.93
+4176,Sub-Saharan Africa,Benin,Personal Care,Online,2012-02-14 00:00:00,217516267,0,6752,81.73,56.67
+4177,Sub-Saharan Africa,Gabon,Cereal,Online,2016-12-24 00:00:00,420111453,2017-02-10 00:00:00,9170,205.7,117.11
+4181,Sub-Saharan Africa,Zambia,Personal Care,Offline,0,827541148,0,6670,81.73,56.67
+4186,Sub-Saharan Africa,Equatorial Guinea,Meat,Online,2015-05-29 00:00:00,811194264,2015-07-04 00:00:00,9264,421.89,364.69
+4188,Sub-Saharan Africa,Democratic Republic of the Congo,Fruits,Offline,2014-05-15 00:00:00,623576104,0,8881,9.33,6.92
+4189,Sub-Saharan Africa,Sudan,Snacks,Online,0,789641749,2014-10-10 00:00:00,1396,152.58,97.44
+4191,Sub-Saharan Africa,Uganda,Cereal,Offline,0,515204131,2011-10-04 00:00:00,9206,205.7,117.11
+4194,Sub-Saharan Africa,South Sudan,Personal Care,Offline,2012-04-26 00:00:00,917545354,0,915,81.73,56.67
+4196,Sub-Saharan Africa,Niger,Baby Food,Online,2017-05-17 00:00:00,581611764,2017-07-02 00:00:00,701,255.28,159.42
+4199,Sub-Saharan Africa,Seychelles ,Beverages,Online,2011-04-29 00:00:00,206821334,2011-05-03 00:00:00,1884,47.45,31.79
+4203,Sub-Saharan Africa,Ethiopia,Fruits,Online,2010-06-22 00:00:00,181719291,2010-07-05 00:00:00,3631,9.33,6.92
+4204,Sub-Saharan Africa,South Africa,Meat,Online,0,312010705,0,9756,421.89,364.69
+4205,Sub-Saharan Africa,Mauritius ,Fruits,Online,0,790307796,0,8494,9.33,6.92
+4206,Sub-Saharan Africa,Mauritania,Meat,Offline,2015-06-14 00:00:00,446346890,0,2819,421.89,364.69
+4210,Sub-Saharan Africa,Equatorial Guinea,Meat,Online,2014-03-18 00:00:00,953587377,0,6550,421.89,364.69
+4216,Sub-Saharan Africa,Ghana,Office Supplies,Offline,0,647977769,2016-08-03 00:00:00,9876,651.21,524.96
+4217,Sub-Saharan Africa,Malawi,Fruits,Offline,0,281151568,0,7852,9.33,6.92
+4220,Sub-Saharan Africa,Republic of the Congo,Snacks,Offline,2015-01-30 00:00:00,889898431,0,9576,152.58,97.44
+4241,Sub-Saharan Africa,Burundi,Fruits,Offline,0,953635013,0,647,9.33,6.92
+4242,Sub-Saharan Africa,Liberia,Vegetables,Offline,2012-05-26 00:00:00,319030797,0,7157,154.06,90.93
+4245,Sub-Saharan Africa,Zambia,Beverages,Offline,0,338017833,0,5843,47.45,31.79
+4247,Sub-Saharan Africa,Mali,Cereal,Online,0,748028457,0,7098,205.7,117.11
+4248,Sub-Saharan Africa,Malawi,Fruits,Online,0,989886033,2014-08-01 00:00:00,8129,9.33,6.92
+4249,Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,Offline,0,403772723,0,4176,437.2,263.33
+4257,Sub-Saharan Africa,Chad,Beverages,Online,2014-11-21 00:00:00,891898715,2014-12-05 00:00:00,1505,47.45,31.79
+4259,Sub-Saharan Africa,Madagascar,Fruits,Offline,0,175920569,0,7661,9.33,6.92
+4261,Sub-Saharan Africa,Central African Republic,Beverages,Offline,0,920519816,0,1125,47.45,31.79
+4265,Sub-Saharan Africa,Togo,Fruits,Offline,2016-12-19 00:00:00,843012988,0,5132,9.33,6.92
+4269,Sub-Saharan Africa,Republic of the Congo,Fruits,Online,2011-02-13 00:00:00,912503230,0,8838,9.33,6.92
+4272,Sub-Saharan Africa,Comoros,Clothes,Offline,2013-07-13 00:00:00,374881684,0,4676,109.28,35.84
+4277,Sub-Saharan Africa,Mali,Snacks,Offline,2012-05-19 00:00:00,704974925,0,6601,152.58,97.44
+4278,Sub-Saharan Africa,Sudan,Fruits,Online,0,743008649,0,1625,9.33,6.92
+4281,Sub-Saharan Africa,Togo,Snacks,Online,0,934206378,0,1282,152.58,97.44
+4282,Sub-Saharan Africa,Republic of the Congo,Meat,Online,2015-09-30 00:00:00,450883901,2015-11-05 00:00:00,5421,421.89,364.69
+4287,Sub-Saharan Africa,Chad,Baby Food,Offline,0,409337127,0,807,255.28,159.42
+4290,Sub-Saharan Africa,Burkina Faso,Baby Food,Offline,0,300594365,2010-12-04 00:00:00,1407,255.28,159.42
+4292,Sub-Saharan Africa,Cameroon,Personal Care,Online,0,772375619,2016-03-06 00:00:00,1964,81.73,56.67
+4295,Sub-Saharan Africa,Senegal,Meat,Online,0,631813704,0,6570,421.89,364.69
+4296,Sub-Saharan Africa,Madagascar,Clothes,Online,2017-05-13 00:00:00,748646867,0,99,109.28,35.84
+4297,Sub-Saharan Africa,Republic of the Congo,Beverages,Online,2012-07-31 00:00:00,677352893,0,2628,47.45,31.79
+4298,Sub-Saharan Africa,Gabon,Beverages,Offline,2013-01-25 00:00:00,316418111,2013-03-06 00:00:00,4005,47.45,31.79
+4305,Sub-Saharan Africa,Burkina Faso,Personal Care,Offline,2010-03-15 00:00:00,418408572,0,5249,81.73,56.67
+4307,Sub-Saharan Africa,Mali,Meat,Online,2010-10-24 00:00:00,289100348,0,72,421.89,364.69
+4320,Sub-Saharan Africa,Mauritius ,Meat,Offline,2016-07-13 00:00:00,986181581,0,1900,421.89,364.69
+4328,Sub-Saharan Africa,Gabon,Fruits,Offline,2015-08-21 00:00:00,985086381,2015-09-04 00:00:00,7806,9.33,6.92
+4329,Sub-Saharan Africa,Liberia,Vegetables,Online,0,919505298,0,906,154.06,90.93
+4331,Sub-Saharan Africa,Zambia,Office Supplies,Offline,2013-07-18 00:00:00,267907035,0,8500,651.21,524.96
+4333,Sub-Saharan Africa,Botswana,Meat,Online,0,865948665,0,2308,421.89,364.69
+4339,Sub-Saharan Africa,Mauritania,Household,Online,0,349319159,2010-12-10 00:00:00,157,668.27,502.54
+4351,Sub-Saharan Africa,Togo,Beverages,Offline,0,877821624,0,5780,47.45,31.79
+4352,Sub-Saharan Africa,Rwanda,Fruits,Online,2014-11-22 00:00:00,290980470,2015-01-01 00:00:00,6442,9.33,6.92
+4366,Sub-Saharan Africa,Ethiopia,Household,Online,0,253056180,0,3802,668.27,502.54
+4369,Sub-Saharan Africa,Djibouti,Cereal,Online,0,614432132,0,2977,205.7,117.11
+4383,Sub-Saharan Africa,Tanzania,Cereal,Offline,0,373782622,0,9439,205.7,117.11
+4387,Sub-Saharan Africa,Mauritius ,Baby Food,Offline,2013-06-22 00:00:00,416795814,0,7998,255.28,159.42
+4390,Sub-Saharan Africa,Senegal,Meat,Online,2015-10-22 00:00:00,386220777,0,165,421.89,364.69
+4393,Sub-Saharan Africa,Ethiopia,Meat,Offline,0,827247607,0,9805,421.89,364.69
+4397,Sub-Saharan Africa,Cape Verde,Snacks,Online,0,650644099,0,8903,152.58,97.44
+4400,Sub-Saharan Africa,Mozambique,Clothes,Offline,2014-07-19 00:00:00,294077241,0,2845,109.28,35.84
+4401,Sub-Saharan Africa,Angola,Baby Food,Offline,2012-01-15 00:00:00,874162662,0,3012,255.28,159.42
+4412,Sub-Saharan Africa,The Gambia,Baby Food,Online,0,701894891,0,5151,255.28,159.42
+4413,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,0,176700770,0,8539,81.73,56.67
+4417,Sub-Saharan Africa,Rwanda,Cosmetics,Offline,0,931957614,0,5823,437.2,263.33
+4427,Sub-Saharan Africa,Mozambique,Household,Online,0,114579093,0,5355,668.27,502.54
+4432,Sub-Saharan Africa,Ghana,Fruits,Online,2013-03-16 00:00:00,393407380,0,6841,9.33,6.92
+4433,Sub-Saharan Africa,Sao Tome and Principe,Clothes,Online,2012-11-20 00:00:00,641705691,2012-12-07 00:00:00,3829,109.28,35.84
+4438,Sub-Saharan Africa,Burundi,Baby Food,Offline,0,750108563,0,2648,255.28,159.42
+4441,Sub-Saharan Africa,Lesotho,Vegetables,Offline,2014-08-29 00:00:00,703562152,2014-10-09 00:00:00,8530,154.06,90.93
+4445,Sub-Saharan Africa,Kenya,Beverages,Offline,2014-10-21 00:00:00,434673488,2014-11-12 00:00:00,8399,47.45,31.79
+4447,Sub-Saharan Africa,Burundi,Clothes,Offline,2015-07-27 00:00:00,589142119,0,9100,109.28,35.84
+4449,Sub-Saharan Africa,Botswana,Snacks,Online,2010-12-28 00:00:00,903406894,2011-02-09 00:00:00,7030,152.58,97.44
+4450,Sub-Saharan Africa,Benin,Vegetables,Offline,2015-10-30 00:00:00,228592717,2015-11-03 00:00:00,4520,154.06,90.93
+4452,Sub-Saharan Africa,Gabon,Cereal,Offline,2011-06-24 00:00:00,546565377,2011-07-01 00:00:00,9696,205.7,117.11
+4453,Sub-Saharan Africa,Seychelles ,Office Supplies,Online,2010-01-29 00:00:00,562887370,2010-02-08 00:00:00,9736,651.21,524.96
+4454,Sub-Saharan Africa,Nigeria,Snacks,Online,2013-08-20 00:00:00,400310742,0,9699,152.58,97.44
+4457,Sub-Saharan Africa,Ghana,Beverages,Offline,0,566239917,2011-06-12 00:00:00,1829,47.45,31.79
+4461,Sub-Saharan Africa,Guinea-Bissau,Office Supplies,Online,0,266589534,2014-03-02 00:00:00,8622,651.21,524.96
+4462,Sub-Saharan Africa,Togo,Cosmetics,Offline,2011-09-28 00:00:00,530831754,0,3767,437.2,263.33
+4469,Sub-Saharan Africa,Guinea,Clothes,Offline,2013-08-29 00:00:00,670779979,2013-09-09 00:00:00,7557,109.28,35.84
+4481,Sub-Saharan Africa,Ghana,Fruits,Online,2010-02-15 00:00:00,382668673,2010-03-04 00:00:00,9019,9.33,6.92
+4490,Sub-Saharan Africa,Burundi,Clothes,Online,2017-04-19 00:00:00,130172383,0,9756,109.28,35.84
+4492,Sub-Saharan Africa,Mozambique,Office Supplies,Offline,2014-07-22 00:00:00,100317895,0,5149,651.21,524.96
+4493,Sub-Saharan Africa,Republic of the Congo,Office Supplies,Offline,2011-11-15 00:00:00,236281001,0,9654,651.21,524.96
+4498,Sub-Saharan Africa,Guinea,Household,Offline,2017-04-30 00:00:00,923828160,2017-06-03 00:00:00,137,668.27,502.54
+4499,Sub-Saharan Africa,Mozambique,Personal Care,Online,2016-07-18 00:00:00,467600715,0,2297,81.73,56.67
+4500,Sub-Saharan Africa,The Gambia,Household,Offline,2012-02-29 00:00:00,183158242,2012-04-07 00:00:00,9449,668.27,502.54
+4504,Sub-Saharan Africa,Burkina Faso,Fruits,Online,2010-02-21 00:00:00,406402146,0,2281,9.33,6.92
+4509,Sub-Saharan Africa,Angola,Snacks,Offline,2010-04-28 00:00:00,374056422,2010-05-06 00:00:00,463,152.58,97.44
+4510,Sub-Saharan Africa,Burundi,Meat,Offline,0,864836728,2014-05-10 00:00:00,3261,421.89,364.69
+4518,Sub-Saharan Africa,Sudan,Vegetables,Offline,0,245650708,2012-01-09 00:00:00,2358,154.06,90.93
+4521,Sub-Saharan Africa,Nigeria,Meat,Offline,2015-06-25 00:00:00,136482226,0,6979,421.89,364.69
+4522,Sub-Saharan Africa,Burundi,Office Supplies,Online,2014-08-18 00:00:00,701475179,2014-09-05 00:00:00,949,651.21,524.96
+4526,Sub-Saharan Africa,Mozambique,Fruits,Online,2013-11-21 00:00:00,805077970,0,9317,9.33,6.92
+4530,Sub-Saharan Africa,Comoros,Cosmetics,Online,0,809584081,0,2775,437.2,263.33
+4534,Sub-Saharan Africa,Ethiopia,Fruits,Offline,0,968118512,0,6636,9.33,6.92
+4537,Sub-Saharan Africa,Uganda,Fruits,Offline,2017-01-21 00:00:00,958925616,2017-02-03 00:00:00,6254,9.33,6.92
+4540,Sub-Saharan Africa,Ghana,Clothes,Online,2013-07-26 00:00:00,332809197,0,4492,109.28,35.84
+4542,Sub-Saharan Africa,Zambia,Beverages,Offline,2015-06-14 00:00:00,959772336,0,6817,47.45,31.79
+4543,Sub-Saharan Africa,Senegal,Snacks,Online,0,370775115,0,9451,152.58,97.44
+4545,Sub-Saharan Africa,Equatorial Guinea,Personal Care,Online,2012-07-13 00:00:00,564629733,0,5340,81.73,56.67
+4546,Sub-Saharan Africa,Rwanda,Beverages,Offline,2017-03-15 00:00:00,399141728,0,3762,47.45,31.79
+4547,Sub-Saharan Africa,Mozambique,Snacks,Online,2014-05-20 00:00:00,443671119,2014-07-03 00:00:00,998,152.58,97.44
+4552,Sub-Saharan Africa,Seychelles ,Fruits,Offline,0,558912980,2014-07-03 00:00:00,3626,9.33,6.92
+4553,Sub-Saharan Africa,Kenya,Meat,Online,2012-01-15 00:00:00,533322131,0,725,421.89,364.69
+4559,Sub-Saharan Africa,Sierra Leone,Beverages,Online,2015-11-13 00:00:00,728716552,0,2276,47.45,31.79
+4565,Sub-Saharan Africa,Niger,Office Supplies,Offline,0,759151256,0,8581,651.21,524.96
+4571,Sub-Saharan Africa,Botswana,Baby Food,Online,2011-08-18 00:00:00,578923118,0,5070,255.28,159.42
+4574,Sub-Saharan Africa,Uganda,Meat,Offline,0,112520444,2016-11-12 00:00:00,6155,421.89,364.69
+4579,Sub-Saharan Africa,Mauritius ,Baby Food,Online,0,412483680,0,1942,255.28,159.42
+4590,Sub-Saharan Africa,Mauritania,Personal Care,Online,0,910574185,2016-08-12 00:00:00,7991,81.73,56.67
+4593,Sub-Saharan Africa,Madagascar,Meat,Online,2015-02-15 00:00:00,196608340,0,9632,421.89,364.69
+4594,Sub-Saharan Africa,Tanzania,Cereal,Online,2015-06-14 00:00:00,454533421,0,5395,205.7,117.11
+4599,Sub-Saharan Africa,South Sudan,Cosmetics,Online,0,128990066,0,9882,437.2,263.33
+4600,Sub-Saharan Africa,Ghana,Meat,Online,0,166501939,0,479,421.89,364.69
+4606,Sub-Saharan Africa,Benin,Meat,Offline,2010-08-14 00:00:00,123081052,2010-10-03 00:00:00,1273,421.89,364.69
+4609,Sub-Saharan Africa,Kenya,Baby Food,Online,0,577840793,2015-07-09 00:00:00,4786,255.28,159.42
+4610,Sub-Saharan Africa,Liberia,Cereal,Online,0,901903569,0,2163,205.7,117.11
+4616,Sub-Saharan Africa,Lesotho,Office Supplies,Online,2012-12-24 00:00:00,314604508,2013-02-08 00:00:00,7320,651.21,524.96
+4619,Sub-Saharan Africa,Mauritius ,Household,Online,0,918860709,0,158,668.27,502.54
+4627,Sub-Saharan Africa,Mauritania,Fruits,Offline,2012-08-20 00:00:00,342850959,0,6072,9.33,6.92
+4630,Sub-Saharan Africa,Comoros,Cereal,Online,2016-09-26 00:00:00,806440961,2016-10-04 00:00:00,2656,205.7,117.11
+4642,Sub-Saharan Africa,Zimbabwe,Cereal,Online,2012-01-27 00:00:00,190003240,2012-03-08 00:00:00,5036,205.7,117.11
+4651,Sub-Saharan Africa,Zambia,Cosmetics,Online,2010-07-29 00:00:00,230251395,2010-09-09 00:00:00,5359,437.2,263.33
+4652,Sub-Saharan Africa,Mauritius ,Clothes,Online,0,806148278,0,6045,109.28,35.84
+4654,Sub-Saharan Africa,Sierra Leone,Cereal,Offline,2012-01-14 00:00:00,847320401,2012-02-07 00:00:00,9791,205.7,117.11
+4655,Sub-Saharan Africa,Niger,Vegetables,Offline,2013-11-23 00:00:00,742380797,0,5830,154.06,90.93
+4656,Sub-Saharan Africa,Liberia,Baby Food,Offline,0,807468354,2014-10-08 00:00:00,6685,255.28,159.42
+4660,Sub-Saharan Africa,Comoros,Snacks,Offline,2011-04-26 00:00:00,386254251,0,71,152.58,97.44
+4665,Sub-Saharan Africa,Kenya,Personal Care,Offline,2011-10-26 00:00:00,408785235,2011-11-03 00:00:00,7490,81.73,56.67
+4671,Sub-Saharan Africa,Mali,Vegetables,Online,0,688994109,0,7523,154.06,90.93
+4673,Sub-Saharan Africa,Sudan,Household,Online,2011-03-13 00:00:00,422301852,0,7357,668.27,502.54
+4674,Sub-Saharan Africa,Malawi,Office Supplies,Online,2015-08-24 00:00:00,335915410,0,3689,651.21,524.96
+4678,Sub-Saharan Africa,Tanzania,Household,Offline,0,920719373,2017-06-08 00:00:00,178,668.27,502.54
+4679,Sub-Saharan Africa,The Gambia,Fruits,Offline,0,334908187,2013-12-11 00:00:00,5630,9.33,6.92
+4680,Sub-Saharan Africa,Guinea,Household,Online,0,801546037,0,4139,668.27,502.54
+4684,Sub-Saharan Africa,Zimbabwe,Clothes,Offline,2012-03-15 00:00:00,460751855,0,5568,109.28,35.84
+4688,Sub-Saharan Africa,Senegal,Beverages,Online,2014-04-16 00:00:00,569298493,0,6930,47.45,31.79
+4690,Sub-Saharan Africa,Zambia,Cereal,Online,2014-08-21 00:00:00,505551183,0,2684,205.7,117.11
+4695,Sub-Saharan Africa,Niger,Personal Care,Online,2017-03-19 00:00:00,996951186,0,8865,81.73,56.67
+4696,Sub-Saharan Africa,Eritrea,Office Supplies,Offline,2013-09-25 00:00:00,446914231,2013-10-01 00:00:00,707,651.21,524.96
+4701,Sub-Saharan Africa,Burkina Faso,Beverages,Offline,0,979705226,0,5402,47.45,31.79
+4704,Sub-Saharan Africa,Burkina Faso,Cosmetics,Offline,2012-03-29 00:00:00,659393250,0,7971,437.2,263.33
+4705,Sub-Saharan Africa,Niger,Household,Online,0,956251132,0,4815,668.27,502.54
+4708,Sub-Saharan Africa,Burkina Faso,Fruits,Online,2013-02-25 00:00:00,511518990,0,8691,9.33,6.92
+4712,Sub-Saharan Africa,Zambia,Clothes,Online,2011-09-14 00:00:00,531735551,2011-11-02 00:00:00,1221,109.28,35.84
+4714,Sub-Saharan Africa,Guinea,Household,Online,0,543354451,0,9511,668.27,502.54
+4715,Sub-Saharan Africa,Togo,Meat,Online,2011-05-27 00:00:00,976470267,2011-07-10 00:00:00,8106,421.89,364.69
+4716,Sub-Saharan Africa,Guinea-Bissau,Baby Food,Offline,0,973167932,0,872,255.28,159.42
+4717,Sub-Saharan Africa,Djibouti,Household,Online,2014-08-20 00:00:00,642871272,2014-09-01 00:00:00,8750,668.27,502.54
+4720,Sub-Saharan Africa,Cameroon,Cereal,Offline,0,288941133,0,2957,205.7,117.11
+4727,Sub-Saharan Africa,Cameroon,Fruits,Offline,2013-06-21 00:00:00,601896560,2013-08-06 00:00:00,3422,9.33,6.92
+4730,Sub-Saharan Africa,Djibouti,Beverages,Offline,0,349123036,0,2120,47.45,31.79
+4731,Sub-Saharan Africa,Mauritania,Vegetables,Offline,0,405407798,2013-03-11 00:00:00,8031,154.06,90.93
+4732,Sub-Saharan Africa,Ethiopia,Clothes,Online,0,313555657,0,6942,109.28,35.84
+4736,Sub-Saharan Africa,Tanzania,Meat,Offline,0,357942140,0,1888,421.89,364.69
+4738,Sub-Saharan Africa,South Africa,Baby Food,Online,2015-07-30 00:00:00,501177251,0,8341,255.28,159.42
+4739,Sub-Saharan Africa,Liberia,Clothes,Offline,2014-01-29 00:00:00,973733985,2014-03-06 00:00:00,8380,109.28,35.84
+4742,Sub-Saharan Africa,Angola,Vegetables,Offline,2017-04-21 00:00:00,175434339,0,3774,154.06,90.93
+4744,Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,0,219737565,0,4083,437.2,263.33
+4747,Sub-Saharan Africa,Liberia,Vegetables,Online,0,611298453,0,5652,154.06,90.93
+4749,Sub-Saharan Africa,Madagascar,Cereal,Offline,0,275062739,0,6032,205.7,117.11
+4750,Sub-Saharan Africa,Cameroon,Personal Care,Online,2013-10-13 00:00:00,886033475,0,5850,81.73,56.67
+4754,Sub-Saharan Africa,Ethiopia,Baby Food,Offline,0,628625524,0,3117,255.28,159.42
+4756,Sub-Saharan Africa,Sierra Leone,Vegetables,Online,0,541861855,2015-05-09 00:00:00,7819,154.06,90.93
+4758,Sub-Saharan Africa,Chad,Snacks,Online,0,300245893,0,8287,152.58,97.44
+4759,Sub-Saharan Africa,Malawi,Snacks,Offline,2013-08-19 00:00:00,614654433,0,8761,152.58,97.44
+4763,Sub-Saharan Africa,Niger,Personal Care,Online,2017-07-15 00:00:00,694142234,2017-08-07 00:00:00,967,81.73,56.67
+4764,Sub-Saharan Africa,Gabon,Office Supplies,Offline,0,762690484,0,5918,651.21,524.96
+4765,Sub-Saharan Africa,Mali,Household,Online,0,244088160,0,9966,668.27,502.54
+4768,Sub-Saharan Africa,South Africa,Cereal,Offline,0,914303529,2011-12-11 00:00:00,1587,205.7,117.11
+4774,Sub-Saharan Africa,Cameroon,Cereal,Online,2017-06-18 00:00:00,639510571,2017-07-09 00:00:00,4244,205.7,117.11
+4775,Sub-Saharan Africa,Comoros,Personal Care,Offline,0,211463057,0,5473,81.73,56.67
+4777,Sub-Saharan Africa,Lesotho,Household,Online,2013-12-28 00:00:00,329951465,2014-01-02 00:00:00,8825,668.27,502.54
+4780,Sub-Saharan Africa,Madagascar,Office Supplies,Offline,2012-08-15 00:00:00,971437585,2012-10-02 00:00:00,8824,651.21,524.96
+4786,Sub-Saharan Africa,Mauritania,Snacks,Offline,2014-11-21 00:00:00,176881444,0,2005,152.58,97.44
+4787,Sub-Saharan Africa,Kenya,Baby Food,Online,2012-04-20 00:00:00,812695014,2012-06-04 00:00:00,3369,255.28,159.42
+4793,Sub-Saharan Africa,Zambia,Household,Online,2016-01-16 00:00:00,983644855,0,1226,668.27,502.54
+4797,Sub-Saharan Africa,Guinea,Clothes,Offline,2016-10-28 00:00:00,487998378,2016-12-01 00:00:00,8419,109.28,35.84
+4805,Sub-Saharan Africa,Niger,Fruits,Online,0,387696635,0,6905,9.33,6.92
+4809,Sub-Saharan Africa,Rwanda,Baby Food,Offline,0,389291369,2011-08-04 00:00:00,8822,255.28,159.42
+4813,Sub-Saharan Africa,Cote d'Ivoire,Cosmetics,Online,2014-11-22 00:00:00,762883174,0,2939,437.2,263.33
+4816,Sub-Saharan Africa,Kenya,Vegetables,Offline,2013-11-19 00:00:00,994744050,2013-12-04 00:00:00,5725,154.06,90.93
+4817,Sub-Saharan Africa,South Africa,Beverages,Offline,2017-02-28 00:00:00,861597049,2017-04-09 00:00:00,4568,47.45,31.79
+4819,Sub-Saharan Africa,Guinea,Cosmetics,Online,2010-04-27 00:00:00,690101325,0,5173,437.2,263.33
+4820,Sub-Saharan Africa,Malawi,Meat,Offline,0,434662759,2013-07-05 00:00:00,5224,421.89,364.69
+4821,Sub-Saharan Africa,Central African Republic,Office Supplies,Offline,0,938557994,0,9022,651.21,524.96
+4823,Sub-Saharan Africa,Niger,Fruits,Online,0,963607680,2010-07-11 00:00:00,1781,9.33,6.92
+4826,Sub-Saharan Africa,Gabon,Baby Food,Online,2015-01-27 00:00:00,537250173,0,3120,255.28,159.42
+4827,Sub-Saharan Africa,Burundi,Office Supplies,Offline,2015-05-28 00:00:00,695048606,0,9183,651.21,524.96
+4831,Sub-Saharan Africa,Cote d'Ivoire,Beverages,Offline,0,137549102,0,2691,47.45,31.79
+4834,Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Offline,2012-07-28 00:00:00,432663762,0,3677,81.73,56.67
+4837,Sub-Saharan Africa,South Sudan,Meat,Offline,2017-02-17 00:00:00,691372478,2017-04-07 00:00:00,1335,421.89,364.69
+4842,Sub-Saharan Africa,Mali,Meat,Offline,0,494190633,0,845,421.89,364.69
+4844,Sub-Saharan Africa,South Sudan,Baby Food,Offline,2010-12-21 00:00:00,800957238,0,9901,255.28,159.42
+4848,Sub-Saharan Africa,Botswana,Household,Offline,2014-01-29 00:00:00,545636689,2014-02-01 00:00:00,4876,668.27,502.54
+4852,Sub-Saharan Africa,Zimbabwe,Meat,Offline,0,317781960,0,7599,421.89,364.69
+4854,Sub-Saharan Africa,Eritrea,Beverages,Offline,2013-08-22 00:00:00,152630841,2013-09-01 00:00:00,5713,47.45,31.79
+4855,Sub-Saharan Africa,Ethiopia,Cosmetics,Offline,2014-10-29 00:00:00,399803054,0,9463,437.2,263.33
+4863,Sub-Saharan Africa,Chad,Cereal,Online,0,350697600,0,8068,205.7,117.11
+4867,Sub-Saharan Africa,Gabon,Vegetables,Offline,2013-09-20 00:00:00,483359229,2013-10-10 00:00:00,5592,154.06,90.93
+4873,Sub-Saharan Africa,Guinea,Cosmetics,Online,2010-08-26 00:00:00,831408679,2010-10-02 00:00:00,1159,437.2,263.33
+4877,Sub-Saharan Africa,Republic of the Congo,Meat,Offline,2016-11-30 00:00:00,181953608,0,2971,421.89,364.69
+4884,Sub-Saharan Africa,Madagascar,Snacks,Offline,2012-01-27 00:00:00,158713662,0,5754,152.58,97.44
+4889,Sub-Saharan Africa,Liberia,Snacks,Online,2010-12-27 00:00:00,296820819,2011-02-10 00:00:00,4731,152.58,97.44
+4900,Sub-Saharan Africa,Guinea-Bissau,Personal Care,Online,0,963359200,0,8250,81.73,56.67
+4901,Sub-Saharan Africa,Ghana,Meat,Offline,0,722161662,0,2539,421.89,364.69
+4904,Sub-Saharan Africa,Namibia,Personal Care,Offline,0,726935136,0,5116,81.73,56.67
+4910,Sub-Saharan Africa,Chad,Baby Food,Online,0,706805264,2014-01-07 00:00:00,8239,255.28,159.42
+4912,Sub-Saharan Africa,The Gambia,Vegetables,Offline,2014-10-28 00:00:00,420859467,0,524,154.06,90.93
+4914,Sub-Saharan Africa,Equatorial Guinea,Vegetables,Online,2016-11-17 00:00:00,648030126,0,5370,154.06,90.93
+4922,Sub-Saharan Africa,Botswana,Clothes,Online,0,345689809,0,6151,109.28,35.84
+4932,Sub-Saharan Africa,Mali,Vegetables,Offline,2015-02-25 00:00:00,741009652,0,78,154.06,90.93
+4937,Sub-Saharan Africa,Gabon,Office Supplies,Online,0,204775989,0,6620,651.21,524.96
+4939,Sub-Saharan Africa,Democratic Republic of the Congo,Cosmetics,Offline,2016-02-15 00:00:00,684330070,0,7330,437.2,263.33
+4941,Sub-Saharan Africa,Ghana,Baby Food,Offline,0,332274043,2011-12-05 00:00:00,6128,255.28,159.42
+4948,Sub-Saharan Africa,Senegal,Vegetables,Online,0,614014565,0,9410,154.06,90.93
+4950,Sub-Saharan Africa,Benin,Clothes,Online,0,525328290,2012-01-11 00:00:00,5170,109.28,35.84
+4956,Sub-Saharan Africa,Tanzania,Snacks,Online,0,771561944,0,1180,152.58,97.44
+4960,Sub-Saharan Africa,Niger,Baby Food,Offline,2013-10-19 00:00:00,666534364,0,1185,255.28,159.42
+4965,Sub-Saharan Africa,Republic of the Congo,Clothes,Online,2010-08-25 00:00:00,584200847,0,6868,109.28,35.84
+4967,Sub-Saharan Africa,Lesotho,Snacks,Online,2016-02-23 00:00:00,175510299,0,6252,152.58,97.44
+4973,Sub-Saharan Africa,Cameroon,Beverages,Offline,2015-02-27 00:00:00,119153010,2015-03-05 00:00:00,8878,47.45,31.79
+4976,Sub-Saharan Africa,Zambia,Cereal,Online,2016-01-16 00:00:00,127332246,2016-02-11 00:00:00,9296,205.7,117.11
+4977,Sub-Saharan Africa,Gabon,Office Supplies,Online,0,585249698,2011-06-05 00:00:00,7246,651.21,524.96
+4979,Sub-Saharan Africa,Chad,Snacks,Offline,2013-07-16 00:00:00,794320380,2013-08-12 00:00:00,5907,152.58,97.44
+4981,Sub-Saharan Africa,Eritrea,0,Online,0,354593455,2015-04-03 00:00:00,938,651.21,524.96
+4994,Sub-Saharan Africa,Liberia,Cosmetics,Offline,2012-06-17 00:00:00,374724614,0,8195,437.2,263.33
+4999,Sub-Saharan Africa,Tanzania,Vegetables,Online,0,0,2011-08-07 00:00:00,2450,154.06,90.93
