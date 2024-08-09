@@ -28,7 +28,7 @@ World Bank Open Data:
 3. [Cellular Subscriptions](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Raw/World%20Bank/Cell_by_country%20-%20Cell_by_country.csv) - Downloaded [here](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2023&start=2022), searched by the indicator “Mobile cellular subscriptions” for all countries and economies.
 - Clean Data:I used this Jupyter Notebook [World Bank Data Cleaning.ipynb](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) to clean the data and produce this cleaned csv, [data_all_regions_clean.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Clean/data_all_regions_clean.csv).
 
-**3. Tableau Dashboard** I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the worbook. 
+**3. Tableau Dashboard** I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
 
 **4. My tools: What I used** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
