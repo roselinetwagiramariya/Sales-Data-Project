@@ -12,7 +12,8 @@ However, this “transformation” doesn’t look the same globally. The rate of
 
 My project explores this further by: 
 - Establishing an understanding of what e-commerce looks like globally (by region and countries)
-- Zooming in to analyze what this looks like specifically in Sub-Saharan African countries 
+- Zooming in to analyze what this looks like specifically in Sub-Saharan African countries
+_________________________________________________________________________________________________________________________________________________________
 
 **2. Primary Files/Data Sources** 
 My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the [Data Sources_Raw folder](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/1.%20Loading%20Data/Data%20Sources_Raw) (1. Loading Data/Data Sources_Raw). 
@@ -38,7 +39,7 @@ World Bank Open Data:
 - Tableau - This is the data vizualization tool I chose. 
 
 
-**5. Project Requirements**
+**4. Project Requirements**
 
 1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.) 
    >> [Notebook 1](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/Sales%20Data%20Cleaning.ipynb) (Used in the project)
