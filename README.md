@@ -30,7 +30,13 @@ World Bank Open Data:
 
 **3. Tableau Dashboard** I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
 
-**4. My tools: What I used** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**4. My tools: What I used** 
+- Jupyter Notebook (via Anaconda) - Used it to clean my data.
+- Githup & Github Desktop - Used to keep my local and remote repository synced between changes. 
+- Pandas - Used this Library within the Jupyter Notebooks to clean my data and create new files. 
+- Python - This is the programming language used in this project. 
+- Tableau - This is the data vizualization tool I chose. 
+
 
 **5. Running the Program: What I did** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
