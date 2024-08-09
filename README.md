@@ -18,7 +18,7 @@ Highlights and compares trends against the global picture
 My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the Data Sources_Raw folder (1. Loading Data/Data Sources_Raw). 
 
 Kaggle: 
-- Raw Data: Downloaded this via this Kaggle dataset and saved it in this repository as data_all_regions_raw.csv.
+- Raw Data: Downloaded via [this Kaggle dataset](https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data) and saved it in this repository as data_all_regions_raw.csv.
 - Clean Data: I used this Jupyter Notebook Sales Data Cleaning.ipynb to clean the data and produce this cleaned csv, data_all_regions_clean.csv, which includes all regions, and this data_sub_saharan_africa_clean.csv which only includes Sub-Saharan Africa.
 
 World Bank Open Data: 
