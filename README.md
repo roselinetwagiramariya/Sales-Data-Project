@@ -52,9 +52,10 @@ ________________________________________________________________________________
 3. Make a Tableau dashboard to display your data. 
       >> My [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions)
       >> My Tableau [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
-4. Best practices: Utilize a virtual environment and include instructions in your README on how the user should set one up. >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md). 
+4. Best practices: Utilize a virtual environment and include instructions in your README on how the user should set one up.
+   >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md). 
 5. Interpretation of your data: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
-     >> See my Jupyter Notebooks here for the Annotations
+     >> See my [Jupyter Notebooks here](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks) for the Annotations
      >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md).
 
 
