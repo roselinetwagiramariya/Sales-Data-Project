@@ -1,6 +1,6 @@
 # Sub-Saharan Africa E-commerce Sales Analysis Dashboard
 
-##**1. Project Overview**
+##**1. Project Overview**##
 E-commerce is the it-girl right now and it looks like she’s here to stay. 
 Whether you are a seller, a buyer, both, an observer or just an accountant, you’ve probably noticed that each year, fewer and fewer people are shopping in brick and mortar stores. 
 
