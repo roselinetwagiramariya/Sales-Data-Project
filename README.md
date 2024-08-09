@@ -66,7 +66,7 @@ folder in GitBash/Terminal.
    >> [Notebook 2](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) (Used in the project)
    >> [Notebook 3](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/BONUS_Country%20Info_merge_data_cleaning.ipynb) (Bonus as a practice/to demonstrate capacity)
 
-2. Clean and operate on the data while combining them:
+2. Clean and operate on the data while combining them: I chose 2 here. 
    
    Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
       >> [Notebook 2](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) (Used in the project)
@@ -84,10 +84,4 @@ folder in GitBash/Terminal.
 6. Interpretation of your data: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
      >> See my [Jupyter Notebooks here](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks) for the Annotations
      >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md).
-
-
-
-
-
-
 
