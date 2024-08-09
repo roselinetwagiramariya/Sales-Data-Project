@@ -36,13 +36,13 @@ World Bank Open Data:
 
 **6. Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**1. Loading data:** Read TWO data files (JSON, CSV, Excel, etc.).
-**2. Clean and operate on the data while combining them:**
+1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.).
+2. Clean and operate on the data while combining them:
    a. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
    b. If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table.
-**3. Make a Tableau dashboard to display your data**
-**4. Best practices:** Enhance your project to a higher tier that will impress employers and help other programmers understand your project. Utilize a virtual environment and include instructions in your README on how the user should set one up.
-**Interpretation of your data:** Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
+3. Make a Tableau dashboard to display your data.
+4. Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project. Utilize a virtual environment and include instructions in your README on how the user should set one up.
+5. Interpretation of your data: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
 
 
 
