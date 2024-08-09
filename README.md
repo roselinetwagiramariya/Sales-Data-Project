@@ -32,7 +32,6 @@ My raw data files came from Kaggle and the World Bank Open Data and they can all
 ## Dashboard 
 I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
 
-
 ## My tools: What I used 
 - Jupyter Notebook (via Anaconda) - Used it to clean my data and you can see them all here. 
 - Githup & Github Desktop - Used to keep my local and remote repository synced between changes. 
@@ -69,6 +68,7 @@ folder in GitBash/Terminal.
 2. Clean and operate on the data while combining them:
    a. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
       >> [Notebook 2](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) (Used in the project)
+
    b. If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table.
       >> [Notebook 3](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/BONUS_Country%20Info_merge_data_cleaning.ipynb) (Bonus as a practice/to demonstrate capacity)
 3. Make a Tableau dashboard to display your data. 
