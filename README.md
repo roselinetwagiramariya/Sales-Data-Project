@@ -2,23 +2,23 @@
 
 **1. Project Overview**
 E-commerce is the it-girl right now and it looks like she’s here to stay. 
-
 Whether you are a seller, a buyer, both, an observer or just an accountant, you’ve probably noticed that each year, fewer and fewer people are shopping in brick and mortar stores. 
 
 Before I continue, let’s make sure that we’re on the same page about how we define e-commerce. First, we start by the definition of commerce which is the activity of buying and selling products, especially on a large scale. Simply put, commerce is the exchange of goods or services among two or more parties.
 
 Electronic commerce (e-commerce) refers to companies and individuals that buy and sell goods and services over the internet and it has transformed the way we live, specifically the way people shop and consume products and services worldwide. 
 
-However, this “transformation” doesn’t look the same globally. The rate of adoption - of selling things online and/or buying things online - is happening and spreading faster in some regions and countries than others. My project explores this further by: 
-Establishing an understanding of what e-commerce looks like globally (by region and countries)
-Zooms in to analyze what this looks like specifically in Sub-Saharan African countries 
-Highlights and compares trends against the global picture
+However, this “transformation” doesn’t look the same globally. The rate of adoption - of selling things online and/or buying things online - is happening and spreading faster in some regions and countries than others. 
+
+My project explores this further by: 
+- Establishing an understanding of what e-commerce looks like globally (by region and countries)
+- Zooming in to analyze what this looks like specifically in Sub-Saharan African countries 
 
 **2. Primary Files/Data Sources** 
-My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the Data Sources_Raw folder (1. Loading Data/Data Sources_Raw). 
+My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the [Data Sources_Raw folder](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/1.%20Loading%20Data/Data%20Sources_Raw) (1. Loading Data/Data Sources_Raw). 
 
 Kaggle: 
-- Raw Data: Downloaded via [this Kaggle dataset](https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data) and saved it in this repository as data_all_regions_raw.csv.
+- [Raw Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Raw/KAGGLE/data_all_regions_raw.csv): Downloaded via [this Kaggle dataset](https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data) and saved it in this repository as [data_all_regions_raw.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Raw/KAGGLE/data_all_regions_raw.csv).
 - Clean Data: I used this Jupyter Notebook Sales Data Cleaning.ipynb to clean the data and produce this cleaned csv, data_all_regions_clean.csv, which includes all regions, and this data_sub_saharan_africa_clean.csv which only includes Sub-Saharan Africa.
 
 World Bank Open Data: 
