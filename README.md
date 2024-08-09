@@ -38,9 +38,7 @@ World Bank Open Data:
 - Tableau - This is the data vizualization tool I chose. 
 
 
-**5. Running the Program: What I did** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
-
-**6. Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**5. Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
 1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.).
 2. Clean and operate on the data while combining them:
