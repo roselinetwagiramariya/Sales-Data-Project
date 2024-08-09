@@ -60,7 +60,7 @@ folder in GitBash/Terminal.
 1. When you are done working on your repo, deactivate the virtual environment. 
 `deactivate`
 
-# Project Requirements
+# Completed Project Requirements
 
 1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.) 
    >> [Notebook 1](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/Sales%20Data%20Cleaning.ipynb) (Used in the project)
