@@ -14,18 +14,45 @@ Establishing an understanding of what e-commerce looks like globally (by region 
 Zooms in to analyze what this looks like specifically in Sub-Saharan African countries 
 Highlights and compares trends against the global picture
 
-**2. Detailed Project Report** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**2. Primary Files/Data Sources** 
+My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the Data Sources_Raw folder (1. Loading Data/Data Sources_Raw). 
 
-**3. Primary Files/Data Sources** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
-- My Data SourcesMy dataset, included in this repo as "Original_Sales_Data_.csv", comes from Kaggle and can be found at this direct link: https://www.kaggle.com/datasets/mysarahmadbhat/sales-data/data. 
+Kaggle: 
+- Raw Data: Downloaded this via this Kaggle dataset and saved it in this repository as data_all_regions_raw.csv.
+- Clean Data: I used this Jupyter Notebook Sales Data Cleaning.ipynb to clean the data and produce this cleaned csv, data_all_regions_clean.csv, which includes all regions, and this data_sub_saharan_africa_clean.csv which only includes Sub-Saharan Africa.
 
-**3. My tools: What I used** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+World Bank Open Data: 
+Raw Data: Downloaded 3 files from GDP - Downloaded here, searched by the indicator “GDP (current US$)” for all countries and economies.
+- Population  - Downloaded here, searched by the indicator “Population, total” for all countries and economies.
+- Cellular Subscriptions - Downloaded here, searched by the indicator “Mobile cellular subscriptions” for all countries and economies.
+Clean Data: I used this Jupyter Notebook World Bank Data Cleaning.ipynb to clean the data and produce this cleaned csv, data_all_regions_clean.csv
 
-**4. Running the Program: What I did** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**3. Tableau Dashboard** I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the worbook. 
 
-**5. Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**4. My tools: What I used** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
 
-**6. Features** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+**5. Running the Program: What I did** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+
+**6. Project Requirements** (SECTION UNDER CONSTRUCTION, CHECK AGAIN LATER)
+
+1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.).
+2. Clean and operate on the data while combining them:
+   a. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
+   b. If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table.
+3. Make a Tableau dashboard to display your data: 
+
+
+
+Intermediate
+Best practices: Enhance your project to a higher tier that will impress employers and help other programmers understand your project.
+Utilize a virtual environment and include instructions in your README on how the user should set one up
+Intermediate
+Interpretation of your data
+Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
+Intermediate
+
+
+
 
 
 
