@@ -1,6 +1,6 @@
 # Sub-Saharan Africa E-commerce Sales Analysis Dashboard
 
-# 1. Project Overview
+# Project Overview:
 E-commerce is the it-girl right now and it looks like she’s here to stay. 
 Whether you are a seller, a buyer, both, an observer or just an accountant, you’ve probably noticed that each year, fewer and fewer people are shopping in brick and mortar stores. 
 
@@ -14,7 +14,7 @@ My project explores this further by:
 - Establishing an understanding of what e-commerce looks like globally (by region and countries)
 - Zooming in to analyze what this looks like specifically in Sub-Saharan African countries
 
-# 2. Primary Files/Data Sources 
+# Primary Files/Data Sources:
 My raw data files came from Kaggle and the World Bank Open Data and they can all be found in the [Data Sources_Raw folder](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/1.%20Loading%20Data/Data%20Sources_Raw) (1. Loading Data/Data Sources_Raw). 
 
 ### Kaggle: 
@@ -28,16 +28,39 @@ My raw data files came from Kaggle and the World Bank Open Data and they can all
 3. [Cellular Subscriptions](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Raw/World%20Bank/Cell_by_country%20-%20Cell_by_country.csv) - Downloaded [here](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2023&start=2022), searched by the indicator “Mobile cellular subscriptions” for all countries and economies.
 - Clean Data:I used this Jupyter Notebook [World Bank Data Cleaning.ipynb](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) to clean the data and produce this cleaned csv, [data_all_regions_clean.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Clean/data_all_regions_clean.csv).
 
-**3. Tableau Dashboard** I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
+# Data Analysis:
+## Dashboard 
+I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
 
-#3. My tools: What I used** 
+
+## My tools: What I used 
 - Jupyter Notebook (via Anaconda) - Used it to clean my data and you can see them all here. 
 - Githup & Github Desktop - Used to keep my local and remote repository synced between changes. 
 - Pandas - Used this Library within the Jupyter Notebooks to clean my data and create new files. 
 - Python - This is the programming language used in this project. 
 - Tableau - This is the data vizualization tool I chose. 
 
-# 5. Project Requirements
+# Replicate My Project:
+
+## Instructions
+
+1. Clone my repo to your machine.
+2. Create a virtual environment and install the packages listed in the `requirements.txt` file (instructions below).
+3. Run the code in the Jupiter Notebook called `Sales Data Cleaning.ipynb`. This will produce this cleaned csv, [data_all_regions_clean.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Clean/data_all_regions_clean.csv), which includes all regions, and this [data_sub_saharan_africa_clean.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Clean/data_sub_saharan_africa_clean.csv) which only includes Sub-Saharan Africa.
+4. Run the code in the Jupiter Notebook called [World Bank Data Cleaning.ipynb](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) to clean the data and produce this cleaned csv, [data_all_regions_clean.csv](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/1.%20Loading%20Data/Data%20Sources_Clean/data_all_regions_clean.csv).
+5. Add, Commit, and Push your files back to GitHub.
+
+###  Virtual Environment Instructions
+
+1. After you have cloned the repo to your machine, navigate to the project 
+folder in GitBash/Terminal.
+1. Create a virtual environment in the project folder. `python3 -m venv venv` [^1]
+1. Activate the virtual environment. `source venv/bin/activate`
+1. Install the required packages. `pip install -r requirements.txt`
+1. When you are done working on your repo, deactivate the virtual environment. 
+`deactivate`
+
+# Project Requirements
 
 1. Loading data: Read TWO data files (JSON, CSV, Excel, etc.) 
    >> [Notebook 1](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/Sales%20Data%20Cleaning.ipynb) (Used in the project)
