@@ -65,18 +65,23 @@ folder in GitBash/Terminal.
    >> [Notebook 1](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/Sales%20Data%20Cleaning.ipynb) (Used in the project)
    >> [Notebook 2](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) (Used in the project)
    >> [Notebook 3](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/BONUS_Country%20Info_merge_data_cleaning.ipynb) (Bonus as a practice/to demonstrate capacity)
+
 2. Clean and operate on the data while combining them:
-   a. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
+   
+   Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
       >> [Notebook 2](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/World%20Bank%20Data%20Cleaning.ipynb) (Used in the project)
 
-   b. If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table.
+    If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table.
       >> [Notebook 3](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks/BONUS_Country%20Info_merge_data_cleaning.ipynb) (Bonus as a practice/to demonstrate capacity)
+
 3. Make a Tableau dashboard to display your data. 
       >> My [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions)
       >> My Tableau [worbook](https://github.com/roselinetwagiramariya/Sales-Data-Project/blob/main/3.%20Vizualizing%20Data/Sales%20Data%20Dashboard_Roseline_Twagiramariya.twbx), saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
-4. Best practices: Utilize a virtual environment and include instructions in your README on how the user should set one up.
+
+5. Best practices: Utilize a virtual environment and include instructions in your README on how the user should set one up.
    >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md). 
-5. Interpretation of your data: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
+
+6. Interpretation of your data: Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
      >> See my [Jupyter Notebooks here](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/2.%20Data%20Cleaning%20%26%20Interpretation/Jupyter%20Notebooks) for the Annotations
      >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md).
 
