@@ -76,7 +76,8 @@ folder in GitBash/Terminal.
 
 3. Make a Tableau dashboard to display your data. 
       >> My [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions)
-      >> My Tableau worbook is saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
+      >> My Tableau worbook is saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder.
+      >> A summary of my findings [here](https://drive.google.com/file/d/1076SR73Raco4VMhQtrA0vrGpnq3tOlbW/view?usp=sharing), it's an 18 minute video. 
 
 5. Best practices: Utilize a virtual environment and include instructions in your README on how the user should set one up.
    >> See my Read Me [here](https://github.com/roselinetwagiramariya/Sales-Data-Project/edit/main/README.md). 
