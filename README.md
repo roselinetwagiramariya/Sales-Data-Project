@@ -30,7 +30,7 @@ My raw data files came from Kaggle and the World Bank Open Data and they can all
 
 # Data Analysis:
 ## Dashboard 
-I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the worbook is saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. 
+I vizualized the data via this [tableau public dashboard](https://public.tableau.com/app/profile/roseline.twagiramariya/viz/SalesDataDashboard_done/Dashboard1AllRegions) and here is the worbook is saved in the [3. Vizualizing Data](https://github.com/roselinetwagiramariya/Sales-Data-Project/tree/main/3.%20Vizualizing%20Data) folder. Additionally, please find a summary of my findings [here](https://drive.google.com/file/d/1076SR73Raco4VMhQtrA0vrGpnq3tOlbW/view?usp=sharing), it's an 18 minute video. 
 
 ## My tools: What I used 
 - Jupyter Notebook (via Anaconda) - Used it to clean my data and you can see them all here. 
